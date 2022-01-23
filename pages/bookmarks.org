@@ -7,3 +7,4 @@
 * https://ruslanspivak.com/lsbasi-part4/
 * https://ruslanspivak.com/lsbasi-part5/
 * https://coredumped.dev/2021/05/26/taking-org-roam-everywhere-with-logseq/
+* https://keys.pub/#how-does-it-work
