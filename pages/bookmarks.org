@@ -1,1 +1,8 @@
+* https://support.yubico.com/hc/en-us/articles/360013790259-Using-Your-YubiKey-with-OpenPGP
+* https://ruslanspivak.com/lsbasi-part1/
+* https://ruslanspivak.com/lsbasi-part2/
+* https://ruslanspivak.com/lsbasi-part3/
+* https://ruslanspivak.com/lsbasi-part4/
+* https://ruslanspivak.com/lsbasi-part5/
+* https://coredumped.dev/2021/05/26/taking-org-roam-everywhere-with-logseq/
 *
