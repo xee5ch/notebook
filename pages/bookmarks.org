@@ -9,4 +9,5 @@
 * https://keys.pub/#how-does-it-work
 * https://richmond.com/opinion/columnists/john-b-wood-column-virginia-must-improve-k-12-cybersecurity-to-protect-students-educators/article_cb5b37e5-c3ef-5c63-a728-79b5c12fc45e.html
 * https://trustedcomputinggroup.org/wp-content/uploads/TCG_Storage-Opal_SSC_v2.01_rev1.00.pdf
+* http://blog.fpmurphy.com/2010/06/grub2-modules.html
 *
