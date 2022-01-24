@@ -1,4 +1,5 @@
 #+TITLE: Bookmarks
+
 * https://support.yubico.com/hc/en-us/articles/360013790259-Using-Your-YubiKey-with-OpenPGP
 * https://ruslanspivak.com/lsbasi-part1/
 * https://ruslanspivak.com/lsbasi-part2/
@@ -12,4 +13,6 @@
 * https://trustedcomputinggroup.org/wp-content/uploads/TCG_Storage-Opal_SSC_v2.01_rev1.00.pdf
 * http://blog.fpmurphy.com/2010/06/grub2-modules.html
 * https://wiki.osdev.org/Writing_GRUB_Modules
+* https://homelab.khuedoan.com/
+* https://quarto.org/
 *
