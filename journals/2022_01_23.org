@@ -8,4 +8,4 @@
 * TODO Fill in insurance paperwork for the fa
 * TODO Unclaimed property letter
 * TODO Send money again since WU refunded again
-*
+* TODO Research better alternatives to LineageOS for [[]]
