@@ -15,4 +15,4 @@
 * https://wiki.osdev.org/Writing_GRUB_Modules
 * https://homelab.khuedoan.com/
 * https://quarto.org/
-*
+* https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json
