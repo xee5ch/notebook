@@ -9,4 +9,5 @@
 * TODO Unclaimed property letter
 * TODO Send money again since WU refunded again
 * TODO Research better alternatives to LineageOS for [[file:../../../../../../pages/android.org][Android]]
-* TODO Look into
+* TODO Look into [[https://github.com/rbren/rss-parser/blob/master/lib/parser.js][the ~rss-parser~ NodeJS library]]
+*
