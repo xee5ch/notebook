@@ -1,4 +1,4 @@
 #+TITLE: System Administration
 
 * To get Firefox on Arch Linux to work with Yubikeys, you need to install ~libfido2~, [[https://wiki.archlinux.org/title/Firefox/Tweaks#Fido_U2F_authentication][details on Arch wiki]]
-* A lot of self-encrypting drives, contrary to my belief, rely on the idea the drive is unlocked and "warm" during a reboot because a host BIOS or UEFI implementation allows it. Not always so the non-proprietary tools don't work so hot
+* A lot of self-encrypting drives, contrary to my belief, rely on the idea the drive is unlocked and "warm" during a reboot because a host BIOS or UEFI implementation allows it. Not always so the non-proprietary tools don't work so hot, so [[file:../../../../../../pages/what is up opal seds_.org][What is up OPAL SEDs?]]
