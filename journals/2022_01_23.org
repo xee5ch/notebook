@@ -7,4 +7,5 @@
 * DONE Email S&S about returning boxes and billing mix-up
 * TODO Fill in insurance paperwork for the fa
 * TODO Unclaimed property letter
-* Send
+* TODO Send money again since WU refunded again
+*
