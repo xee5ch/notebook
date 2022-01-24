@@ -11,3 +11,4 @@
 * https://keys.pub/#how-does-it-work
 * https://www.seagate.com/files/staticfiles/support/docs/manual/Interface%20manuals/100515636b.pdf
 * https://whynotsecurity.com/blog/xss-to-rce/
+* https://richmond.com/opinion/columnists/john-b-wood-column-virginia-must-improve-k-12-cybersecurity-to-protect-students-educators/article_cb5b37e5-c3ef-5c63-a728-79b5c12fc45e.html
