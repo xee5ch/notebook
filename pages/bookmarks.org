@@ -1,14 +1,1 @@
-#+TITLE: Bookmarks
-
-* https://support.yubico.com/hc/en-us/articles/360013790259-Using-Your-YubiKey-with-OpenPGP
-* https://ruslanspivak.com/lsbasi-part1/
-* https://ruslanspivak.com/lsbasi-part2/
-* https://ruslanspivak.com/lsbasi-part3/
-* https://ruslanspivak.com/lsbasi-part4/
-* https://ruslanspivak.com/lsbasi-part5/
-* https://coredumped.dev/2021/05/26/taking-org-roam-everywhere-with-logseq/
-* https://coredumped.dev/2021/10/21/building-an-emacs-lisp-vm-in-rust/
-* https://keys.pub/#how-does-it-work
-* https://www.seagate.com/files/staticfiles/support/docs/manual/Interface%20manuals/100515636b.pdf
-* https://whynotsecurity.com/blog/xss-to-rce/
-* https://richmond.com/opinion/columnists/john-b-wood-column-virginia-must-improve-k-12-cybersecurity-to-protect-students-educators/article_cb5b37e5-c3ef-5c63-a728-79b5c12fc45e.html
+*
