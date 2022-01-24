@@ -2,5 +2,7 @@
 * Read more about compiler design
 * Look back into TrueNAS SCALE for use for a lab/storage environment
 * More failed attempts at learning to use TCG OPAL SEDs (self-encrypting drives)
-* TODO research how u-root and grub2 work for all this ~sedutil~ silliness
+* TODO Research how u-root and grub2 work for all this ~sedutil~ silliness
+* DONE Email S&S about returning boxes and billing mix-up
+* TODO Fill in insurance paperwork
 *
