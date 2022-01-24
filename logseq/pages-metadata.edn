@@ -30,7 +30,7 @@
   :block/updated-at 1642973937341}
  {:block/name "jan 23rd, 2022",
   :block/created-at 1642972552886,
-  :block/updated-at 1642995190017}
+  :block/updated-at 1642995363835}
  {:block/name "later",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
@@ -39,7 +39,7 @@
   :block/updated-at 1642973937341}
  {:block/name "system administration",
   :block/created-at 1642974769476,
-  :block/updated-at 1642974769476}
+  :block/updated-at 1642995327187}
  {:block/name "todo",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
