@@ -1,4 +1,4 @@
 * Configured Yubikey
 * Read more about compiler design
 * Look back into TrueNAS SCALE for use for a lab/storage environment
-*
+* More failed attempts at learning to use TCG OPAL SEDs (self-encrypting drives)
