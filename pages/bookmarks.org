@@ -10,3 +10,4 @@
 * https://coredumped.dev/2021/10/21/building-an-emacs-lisp-vm-in-rust/
 * https://keys.pub/#how-does-it-work
 * https://www.seagate.com/files/staticfiles/support/docs/manual/Interface%20manuals/100515636b.pdf
+* https://whynotsecurity.com/blog/xss-to-rce/
