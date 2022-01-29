@@ -2,7 +2,7 @@
 
 * [[../assets/BeyondCorp_Part_III_Access_Proxy_1643490548824_0.pdf][BeyondCorp Part III Access Proxy.pdf]]
 * producer: [[Google Research]]
-* mimetype: [[application/pdf]]
+* filetype: [[pdf]]
 * tags: [[google]], [[zero-trust-architecture]], [[cloud-native]]
 * Even Google struggles with ZTA network & app control for not HTTP-based applications: ((61f5addb-6074-4ed1-a8be-9833b607179b))
 *
