@@ -1,0 +1,5 @@
+#+TITLE: tl;drsec 117 WebSocket Security, Securing Dependencies, Authorization Approaches
+
+* producer: [[tldrsec]], [[Clint Gibler]]
+** tags: [[appsec]], [[websockets]], [[security]], [[authentication]], [[authorization]], [[supply-chain]]
+* link: [[https://tldrsec.com/blog/tldr-sec-117/]]

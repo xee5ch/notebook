@@ -1,0 +1,3 @@
+* producer: [[Ricardo Iramar dos Santos]]
+** tags: [[security]], [[bug-bounty]], [[file:../../../../../../pages/web-pen-testing.org][web-pen-testing]], [[http]]
+* link: [[https://ricardoiramar.medium.com/the-powerful-http-request-smuggling-af208fafa142]]
