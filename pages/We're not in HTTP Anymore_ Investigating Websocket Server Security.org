@@ -1,0 +1,3 @@
+* {{youtube https://www.youtube.com/watch?v=bMFP71UAbPo&list=PLpr-xdpM8wG-WUI7yLUvdjm-Bcw7AqG9m}}
+* event: [[OWASP 2021 Virtual Appsec Conference]]
+*
