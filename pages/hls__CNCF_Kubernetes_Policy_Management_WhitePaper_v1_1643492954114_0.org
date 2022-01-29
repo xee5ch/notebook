@@ -1,0 +1,23 @@
+:PROPERTIES:
+:file: [[../assets/CNCF_Kubernetes_Policy_Management_WhitePaper_v1_1643492954114_0.pdf][CNCF_Kubernetes_Policy_Management_WhitePaper_v1_1643492954114_0.pdf]]
+:file-path: ../assets/CNCF_Kubernetes_Policy_Management_WhitePaper_v1_1643492954114_0.pdf
+:END:
+
+* The following sections detail how the XACML architecture can be applied to Kubernetes policy management.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 61f5b6f9-bf87-4aae-9fc5-53a7a46ebf57
+:END:
+* When applied to Kubernetes, the role of a Policy Administration Point (PAP) is typically fulfilled by a central management system that is used to define and distribute policies across a fleet of clusters. The PAP integrates with backing version control systems or OCI-compliant registries to store policy definitions. By allowing policies to be managed as versioned code artifacts, a PAP can enable best practices that allow policy definitions to be managed like code artifacts in a software delivery pipeline. The approach of using software development best practices, such as version control and pre-deployment testing and validation, etc. for managing policies, is referred to as “Policy as Code (PaC)”. As the set of policies grow, policy administrators should try to organize policy documents logically by service or domain or control concern, possibly by managing multiple smaller code documents and having the application or service query for specific policy documents, or by dynamic lookup via design patterns, such as composition. For example policies can be organized based on control categories of specific compliance standards and by specific security domains.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 61f5b71a-59f5-4fec-9ed0-b1992bf66ffa
+:END:
+* There are two distinct threat actors for container runtimes:1. An attacker who has the control plane rights to create new containers.2. Threats originating from inside a running container.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 61f5b7af-b6d4-4227-ad59-22a24b00e41a
+:END:

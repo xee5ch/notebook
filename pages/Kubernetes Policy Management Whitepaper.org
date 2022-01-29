@@ -1,1 +1,7 @@
-* /upload
+* [[../assets/CNCF_Kubernetes_Policy_Management_WhitePaper_v1_1643492954114_0.pdf][CNCF_Kubernetes_Policy_Management_WhitePaper_v1.pdf]]
+* producer: [[CNCF]], [[Kubernetes Policy WG]]
+* filetype: [[pdf]]
+* tags: [[kubernetes]], [[cks]], [[security]], [[policy-as-code]]
+* Unclear how k8s policy relates to OASIS XACML standard referenced above: ((61f5b71a-59f5-4fec-9ed0-b1992bf66ffa))
+* What threat actors are we worried about? ((61f5b7af-b6d4-4227-ad59-22a24b00e41a))
+*

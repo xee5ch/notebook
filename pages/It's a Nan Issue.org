@@ -3,3 +3,4 @@
 * event: [[BitDiscovery Live Webinar 20221228]]
 * event-organizer: [[BitDiscovery]]
 * tags: [[appsec]], [[python]], [[programming-languages]], [[numerics]], [[injection-attacks]]
+* link: [[https://blog.bitdiscovery.com/2021/12/python-nan-injection/]]

@@ -16,3 +16,5 @@
 * https://homelab.khuedoan.com/
 * https://quarto.org/
 * https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json
+* https://www.osohq.com/post/microservices-authorization-patterns
+*

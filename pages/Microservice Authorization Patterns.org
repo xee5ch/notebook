@@ -1,0 +1,4 @@
+* producer: [[Oso]]
+* tags: [[file:../../../../../../pages/security.org][security]], [[file:../../../../../../pages/authorization.org][authorization]], [[security-architecture]]
+* link: [[https://www.osohq.com/post/microservices-authorization-patterns]]
+*

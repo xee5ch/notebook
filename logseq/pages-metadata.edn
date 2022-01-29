@@ -1,25 +1,46 @@
 [{:block/name
   "../assets/beyondcorp_part_iii_access_proxy_1643490548824_0.pdf",
-  :block/created-at 1643490755213,
-  :block/updated-at 1643490755213}
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name
+  "../assets/beyondcorp_part_iii_access_proxy_1643490548824_0.pdf][beyondcorp_part_iii_access_proxy_1643490548824_0.pdf",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name
+  "../assets/cncf_kubernetes_policy_management_whitepaper_v1_1643492954114_0.pdf",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name
+  "../assets/cncf_kubernetes_policy_management_whitepaper_v1_1643492954114_0.pdf][cncf_kubernetes_policy_management_whitepaper_v1_1643492954114_0.pdf",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
  {:block/name "a",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
  {:block/name "android",
-  :block/created-at 1643490755213,
-  :block/updated-at 1643490755213}
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
  {:block/name "application",
-  :block/created-at 1643490755213,
-  :block/updated-at 1643490755213}
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
  {:block/name "application/pdf",
-  :block/created-at 1643490755213,
-  :block/updated-at 1643490755213}
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "appsec",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
  {:block/name "b",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
  {:block/name "beyond corp part iii_ the access proxy",
   :block/created-at 1643490358131,
   :block/updated-at 1643490401243}
+ {:block/name "bitdiscovery",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "bitdiscovery live webinar 20221228",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
  {:block/name "bookmarks",
   :block/created-at 1642973165235,
   :block/updated-at 1643002348053}
@@ -29,9 +50,15 @@
  {:block/name "card",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
+ {:block/name "cks",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
  {:block/name "cloud-native",
-  :block/created-at 1643490755213,
-  :block/updated-at 1643490755213}
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "cncf",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
  {:block/name "contents",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
@@ -41,18 +68,34 @@
  {:block/name "done",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
+ {:block/name "erik elbieh",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
  {:block/name "favorites",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
  {:block/name "google",
-  :block/created-at 1643490755213,
-  :block/updated-at 1643490755213}
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
  {:block/name "google research",
-  :block/created-at 1643490755213,
-  :block/updated-at 1643490755213}
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "hls__beyondcorp_part_iii_access_proxy_1643490548824_0",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name
+  "hls__cncf_kubernetes_policy_management_whitepaper_v1_1643492954114_0",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
  {:block/name "in-progress",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
+ {:block/name "injection-attacks",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "it's a nan issue",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
  {:block/name "jan 23rd, 2022",
   :block/created-at 1642972552886,
   :block/updated-at 1642997662747}
@@ -62,12 +105,48 @@
  {:block/name "jan 29th, 2022",
   :block/created-at 1643489612434,
   :block/updated-at 1643489637050}
+ {:block/name "kubernetes",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "kubernetes policy management whitepaper",
+  :block/created-at 1643492954704,
+  :block/updated-at 1643493319044}
+ {:block/name "kubernetes policy wg",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
  {:block/name "later",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
  {:block/name "now",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
+ {:block/name "numerics",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "owasp",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "owasp 2021 virtual appsec conference",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "pdf",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "policy-as-code",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "programming-languages",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "python",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "robert hansen",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "security",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
  {:block/name "system administration",
   :block/created-at 1642974769476,
   :block/updated-at 1642996684939}
@@ -80,9 +159,22 @@
  {:block/name "waiting",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
+ {:block/name
+  "we're not in http anymore_ investigating websocket server security",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "web-pen-testing",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "websockets",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
  {:block/name "what is up opal seds_",
-  :block/created-at 1643490755213,
-  :block/updated-at 1643490755213}
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
+ {:block/name "zachary jones",
+  :block/created-at 1643493470239,
+  :block/updated-at 1643493470239}
  {:block/name "zero-trust-architecture",
-  :block/created-at 1643490755212, 
-  :block/updated-at 1643490755212}]
+  :block/created-at 1643493470239, 
+  :block/updated-at 1643493470239}]
