@@ -1,3 +1,5 @@
 * {{youtube https://www.youtube.com/watch?v=bMFP71UAbPo&list=PLpr-xdpM8wG-WUI7yLUvdjm-Bcw7AqG9m}}
 * event: [[OWASP 2021 Virtual Appsec Conference]]
-*
+* event-organizer: [[OWASP]]
+* producer: [[Erik Elbieh]]
+* tags: [[app-sec]], [[websockets]], [[web-pen-testing]], [[owasp]]
