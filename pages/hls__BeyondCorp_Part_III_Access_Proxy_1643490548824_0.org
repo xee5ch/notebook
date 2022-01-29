@@ -21,3 +21,9 @@
 :hl-page: 5
 :id: 61f5af59-09c6-4227-b7d6-2a385b7b9036
 :END:
+* Third-party software has frequently proved troublesome, as sometimes it can’t present TLS certificates, and sometimes it assumes direct connectivity. In order to support these tools, we developed a solution to automatically establish encrypted point-to-point tunnels (using a TUN device). The software is unaware of the tunnel, and behaves as if it’s directly connected to the server. The tunnel setup mechanism is conceptually similar to the solution for remote desktop: 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 61f5af77-30c4-48f3-8b90-b794fd8a266b
+:END:
