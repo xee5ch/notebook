@@ -1,0 +1,17 @@
+:PROPERTIES:
+:file: [[../assets/BeyondCorp_Part_III_Access_Proxy_1643490548824_0.pdf][BeyondCorp_Part_III_Access_Proxy_1643490548824_0.pdf]]
+:file-path: ../assets/BeyondCorp_Part_III_Access_Proxy_1643490548824_0.pdf
+:END:
+
+* Non-HTTP ProtocolsA number of enterprise applications at Google employ non-HTTP protocols that require end-to-end encryption. In order to serve these protocols through the AP, we wrap them in HTTP requests.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 61f5addb-6074-4ed1-a8be-9833b607179b
+:END:
+* Wrapping SSH traffic in HTTP over TLS is easy thanks to the existing ProxyCommand facility. We developed a local proxy which looks a lot like Corkscrew, except the bytes are wrapped into WebSockets. While both WebSockets and HTTP CON-NECT requests allow the AP to apply the ACLs, we opted to use WebSockets over CONNECT because WebSockets natively inherit user and device credentials from the browser.In the cases of gRPC and TLS traffic, we wrapped the bytes in an HTTP CONNECT request. Wrapping has the obvious downside of imposing a (negligible) performance penalty on the transported protocol. However, it has the important advantage of separating device identification and user identification at differ-ent layers of the protocol stack. Inventory-based access control is a relatively new concept, so we frequently find that existing protocols have native support for user authentication (e.g., both LOAS and SSH provide this), but extending them with device credentials is non-trivial.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 61f5ade9-ae71-4317-8e0f-3aa767c46bf0
+:END:
