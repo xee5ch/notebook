@@ -3,4 +3,5 @@
 * [[../assets/BeyondCorp_Part_III_Access_Proxy_1643490548824_0.pdf][BeyondCorp Part III Access Proxy.pdf]]
 * producer: [[Google Research]]
 * mimetype: [[application/pdf]]
-* tags: [[google]], [[zero-trust-architecture]],
+* tags: [[google]], [[zero-trust-architecture]], [[cloud-native]]
+*
