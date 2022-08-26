@@ -1,0 +1,90 @@
+#+file-path: ../assets/Caltagirone-et-al-DiamondModel_1661480682130_0.pdf
+#+FILE-PATH: ../assets/Caltagirone-et-al-DiamondModel_1661480682130_0.pdf
+
+* #+file-path: ../assets/Caltagirone-et-al-DiamondModel_1661480682130_0.pdf
+#+file: [[../assets/Caltagirone-et-al-DiamondModel_1661480682130_0.pdf][Caltagirone-et-al-DiamondModel_1661480682130_0.pdf]]
+#+title: hls__Caltagirone-et-al-DiamondModel_1661480682130_0
+* These features are edge-connected representing their underlying relationships andarranged in the shape of a diamond, giving the model its name:  the Diamond Model.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 630831ed-c122-4855-9ea7-c279420a9d9e
+:END:
+* The model establishes, for the first time, a formal method applying scientific principlesto intrusion analysis – particularly those of measurement, testability, and repeatability–  providing  a  comprehensive  method  of  activity  documentation,  synthesis,  and  cor-relation.   This  scientific  approach  and  simplicity  produces  improvements  in  analyticeffectiveness, efficiency, and accuracy
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 6308320d-b1ae-41f7-8ee4-607b093a60f6
+:END:
+* Ultimately, the model provides opportunities tointegrate intelligence in real-time for network defense,  automating correlation acrossevents,  classifying  events  with  confidence  into  adversary  campaigns,  and  forecastingadversary operations while planning and gaming mitigation strategies.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 63083220-2ad6-4bb1-b4a6-7182f2ea48c0
+:END:
+* he questions remain little-changed since the discipline’s epoch: the who, what,when, where, why, and how.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 63083237-5e17-4ea3-8eb0-1aa235793bd1
+:END:
+* he model is the basis of an ontology2and presents a framework upon which to discover new activity, maximize analytic pivotopportunities, correlate and synthesize new information, and pursue the adversary overtime, all while improving communication and documentation.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 63083266-67e3-4d10-8e6f-29f7c3a4b346
+:END:
+* ands-on analytic training from organizations such as SANS [9] is now asignificant source of analytic tradecraft dissemination.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 63083298-2718-4c37-ab5f-0398a47918cb
+:END:
+* ur model integrates their phased approachand complements Kill Chain analysis by broadening the perspective which provides neededgranularity and the expression of complex relationships amongst intrusion activity
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 630832c4-3332-4be2-9e16-cae783e50cb8
+:END:
+* support numerous complementarystrategy planning frameworks such as the Joint Intelligence Preparation of the OperationalEnvironment (JIOPE) [12], course of action matricies [11], the Active Defense Algorithm6and Model (ADAM) [13], and potentially more “cutting-edge” strategy development usingevolutionary computing techniques such as [14].
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 63083302-6937-4765-936c-bf0caebe2c72
+:END:
+* Our model defines anew intelligence-centric attack graph, called activity threads, and combines intelligence andtraditional attack graphs into an activity-attack graph.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 63083327-0fe0-47cd-98dd-4926ad4df67d
+:END:
+* Our model does not propose an ontology, taxonomy, or sharing protocol
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 63083342-7fe2-4c25-b263-3e9ebe170894
+:END:
+* Onceactivity threadsare established, events can then be correlated across threads to identifyadversary campaigns, and coalesced intoactivity groupsto identify similar events and threatswhich share common features. Theseactivity groupscan be used for automated correlationof events as well as for gaming and planning mitigation options and scenarios establishingstrategic mitigation plans countering the adversary.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 63083379-41d6-43bf-b87f-17590084c4f1
+:END:
+* Core FeaturesThecore featuresof an event are:adversary,capability,infrastructure,andvictim.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 630833a4-7442-4863-9ecf-84b747239b60
+:END:
+* Meta-FeaturesThemeta-featuresare:timestamp(both start and end),phase,result,direction,methodology, andresources. The meta-features are used to order events within anactivity thread(§8), group like events in various ways, and capture critical knowledge wherepossible.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 630833ad-1b74-4baf-b214-1f9138e83a68
+:END:
+* For analytic purposes, the event can also be understood and represented as a graph
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 630833f8-752f-4803-af5d-06dd1acd6b5a
+:END:

@@ -1,0 +1,21 @@
+* [[../assets/Caltagirone-et-al-DiamondModel_1661480682130_0.pdf][Caltagirone-et-al-DiamondModel.pdf]]
+* producer:: [[Center for Cyber intelligence Analysis and Threat Research]]
+authors:: [[Sergio Caltagirone]], [[Andrew Pendergast]], [[Christopher Betz]]
+type:: [[pdf]]
+link:: [[https://apps.dtic.mil/sti/citations/ADA586960]]
+tags:: [[intrusion analysis]], [[threat intelligence]]
+* ((630831ed-c122-4855-9ea7-c279420a9d9e))
+* ((6308320d-b1ae-41f7-8ee4-607b093a60f6))
+* ((63083220-2ad6-4bb1-b4a6-7182f2ea48c0))
+* ((63083237-5e17-4ea3-8eb0-1aa235793bd1))
+* ((63083266-67e3-4d10-8e6f-29f7c3a4b346))
+* ((63083298-2718-4c37-ab5f-0398a47918cb))
+* ((630832c4-3332-4be2-9e16-cae783e50cb8))
+* ((63083302-6937-4765-936c-bf0caebe2c72))
+* ((63083327-0fe0-47cd-98dd-4926ad4df67d))
+* ((63083342-7fe2-4c25-b263-3e9ebe170894))
+* ((63083379-41d6-43bf-b87f-17590084c4f1))
+* ((630833a4-7442-4863-9ecf-84b747239b60))
+* ((630833ad-1b74-4baf-b214-1f9138e83a68))
+* ((630833f8-752f-4803-af5d-06dd1acd6b5a))
+*

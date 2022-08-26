@@ -17,4 +17,10 @@
 * https://quarto.org/
 * https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json
 * https://www.osohq.com/post/microservices-authorization-patterns
+* https://www.darkreading.com/careers-and-people/rethinking-cybersecurity-jobs-as-a-vocation-instead-of-a-profession
+* https://osinger.medium.com/watch-security-data-lakes-branch-out-in-2022-1a41983b310b
+* https://blog.logrocket.com/reading-writing-xml-node-js/
+* https://www.csoonline.com/article/3647874/using-the-nist-cybersecurity-framework-to-address-organizational-risk.html
+* https://github.com/hyperledger/fabric-sdk-node/tree/main/fabric-ca-client
+* https://joseph8th.github.io/posts/wow-writing-literate-api-documentation-in-emacs-org-mode/
 *
