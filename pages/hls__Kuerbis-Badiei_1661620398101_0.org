@@ -1,0 +1,282 @@
+#+file-path: ../assets/Kuerbis-Badiei_1661620398101_0.pdf
+#+FILE-PATH: ../assets/Kuerbis-Badiei_1661620398101_0.pdf
+
+* #+file-path: ../assets/Kuerbis-Badiei_1661620398101_0.pdf
+#+file: [[../assets/Kuerbis-Badiei_1661620398101_0.pdf][Kuerbis-Badiei_1661620398101_0.pdf]]
+#+title: hls__Kuerbis-Badiei_1661620398101_0
+* here  is  growing  contestation  between  states  and  private  actors  over  cybersecurity responsibilities,  and  its  governance  is  ever  more  susceptible  to  nationalization.  We  believe  these developments are based on an incomplete picture of how cybersecurity is actually governed in practice and theory.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 630a51e4-c175-482e-a7b2-3c436ab65f69
+:END:
+* Analysis shows a robust market and networked governance structures and a more limited role for hierarchical structures. Ex ante efforts to produce cybersecurity using purely hierarchical governance structures,  even  buttressed  with  support  from  networked  governance  structures,  struggle  without market demand like in the case of secure Internet identifiers. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 630a52bb-20dd-438b-a963-f53b6b458cd4
+:END:
+* The authors believe that a more detailed institutional mapping of cybersecurity arrangements is especially important now, as there is growing contestation between states and private actors over cybersecurity responsibilities. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 630a5328-92c4-4414-b3a3-659d78a689db
+:END:
+* But what exactly is this consensus based upon and what should these responsibilities entail? Many existing arguments making the claim for a greater state role are simply prefaced by the existence of insecurities, e.g, the latest vulnerability and the potential scale of actors impacted by it (see e.g., Lewis, 2014). In their view, this is reason enough for government action. Far less attention is paid to the scope and scale of cybersecurity governance across the private sector. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 630a5497-4d15-4ebb-a147-e42c32ad4ac3
+:END:
+* However, the literature on cybersecurity institutions is still in its infancy. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 630a54b8-338e-44e1-bd41-f7625b06be89
+:END:
+* Despite the role of private organizations in cybersecurity, the discussions about cybernorms mainly look at United Nations initiatives (e.g., Maurer, 2011). For example, one major discussion about cyber norms took place in the United Nations Group of Governmental Experts (UNGGE)1 in 2015, and another took place in 2017. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 630a54ef-8edc-4830-ae44-78a461c8ad15
+:END:
+* But norms are not always created and enforced by states; private institutions in cybersecurity can create and enforce such norms (Grady and Parisi, eds 2005, p 143). 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 630a5505-e17b-4b16-980b-e5bddbe6fb31
+:END:
+* chmidt (2014) analyses the role of open source and peer production elements in the response to attacks and botnets, showing how security communities balance their need for secrecy with their need to widely share information. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 630a553a-49a5-4fef-9810-2f6a42ef8e5c
+:END:
+* The pioneers of NIE used the term “institutional environments” (Davis and North, 1971: 6 sq.) to refer to both societal and economic institutions (Menard, 1995, 568). In the abstract,institutions are sets of rules, e.g., laws, customs and norms that guide or constrain human behavior and possess enforcement characteristics (North, 1994). 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 630a555c-5397-4cfc-ae3a-597282f83863
+:END:
+* Stand-alone activities, however, do not make the cybersecurity institutional landscape. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 630a55c3-be11-46bc-b7bd-41cce1a0247f
+:END:
+* Governance structure is a shorthand expression for “the institutional framework in which contracts are initiated,negotiated, monitored, adapted, enforced and terminated” (Palay, 1984). 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 630a55db-956d-430a-8377-cb6f136f61f6
+:END:
+* Conceptually, governance structures helpfully delineates between different types of activities observed in the production and governance of cybersecurity.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 630a560a-1ca0-402f-bc88-1dc71f3ea3f2
+:END:
+* chmidt and others (e.g., Radu, 2014, p 4) indicate that we are undergoing a process of hierarchization of networked production of security, and “replacement of horizontal networks by existing hierarchies.”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 630a5620-4809-45c3-a6e5-db37bfbc8e33
+:END:
+* rior work in TCE has established that the costs associated with particular types of transactions depend on the governance structures within which they take place. Well-designed governance structures reduce transaction costs and enable parties to cooperate with each other in mutually beneficial ways. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 630a5633-3ae9-485f-87d5-aab3829d8232
+:END:
+* This is an important distinction from approaches like regime theory or polycentric governance, which aptly describe complex governance settings, but do not explain why we end up with one type of governance structure versus another.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 630a5664-d707-4961-8d62-0bcafc0ecc6d
+:END:
+* the activity of information sharing, which has been viewed by some as inadequate (Nolan 2015, p 4). There have been multiple initiatives by nation-states and intergovernmental bodies to stimulate or outright create information sharing either within industry sectors or across them. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 630a573f-4e0e-4057-83c0-c703ce0482f2
+:END:
+* Butthese represent only one type of information sharing governance structure, i.e., hierarchy. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 630a5753-9110-4ead-941d-a6ff040c03df
+:END:
+* ccording to industry analysis of one cybersecurity focused exchange-traded fund (ETF), these companies have experienced higher sales growth over the last 3 years, on average, and invested more oftheir sales into R&D than companies in the S&P 500 Information Technology Index. (
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 630a588e-963d-46bd-ac15-a1a737821377
+:END:
+* The relatively low number of public companies highlights another issue for the market (and researchers), i.e., the relatively low amount of companies that are required to be transparent.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 630a59e4-694c-4db6-be94-38832f17f4be
+:END:
+* Most, but not all structures, have contracts governing participating entities. These contracts may be fairly lightweight, e.g., providing straightforward terms of service to researchers contributing data. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 630a5af1-3d5d-4e70-a44e-d5ca61d39229
+:END:
+* As noted previously, hierarchies are a governing structure by which actor(s) transactions are compelled by an authority, e.g., enforcement can be achieved by sovereignty and jurisdiction of a nation-state(s), by organizational control of the firm or by contractual regime. Examples include national laws and regulations or intergovernmental arrangements, and intra-organizational cybersecurity policies or transnational contractual regimes based in non-state actors. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 630a5afe-5d33-4810-9b14-b05ed13915dd
+:END:
+* While the dataset is limited (N=145), it does highlight how cybersecurity policies dealing with the above issues impacting governments and their own networks are essentially a phenomena of the past two decades corresponding loosely with the growth of the commercial Internet and cybersecurity market. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 630a5b53-e48d-4b52-bb25-b3b19e05704b
+:END:
+* Ultimately, the USG’s hierarchical efforts to improve information sharing would be marginally successful, resulting in the establishment of federally fundedInformation Sharing and Analysis Organizations pursuant to Executive Order 13691, and the opportunity for voluntary cooperation between the private sector and the government agencies as outlined in the Cybersecurity Act of 2015.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 630a5b85-9467-4daa-94a9-58e838919ba2
+:END:
+* here are many more information sharing laws in various jurisdictions, however they are of a voluntary nature, except in South Korea where the Korean Information Security Agency (KISA) mandated 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 630a5ba0-d806-45f0-b890-4c65f03e814a
+:END:
+* . Despite having a multilateral structure some organizations claim that they hold multistakeholder processes. ITU telecommunication standardization section (ITU-T), which also discusses the cybersecurity aspects of the Internet, asserts that it is based on a multistakeholder model. In this paper we do not consider such initiatives as multistakeholder initiatives due to the fact that these processes are started by intergovernmental organizations and the role of various stakeholder groups in such processes in starting the process is minimal. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 630a5bda-230a-4a40-805d-d5e0bcd5d3f9
+:END:
+* This group considered many aspects of cybersecurity: legal measures, technical and procedural measures, organizational structures, capacity building and international cooperation. It then issued a set of recommendations advising ITU and member states how to achieve cybersecurity but with no binding effect. I
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 630a5c35-26a7-4799-a1b6-9ea8df1139e9
+:END:
+* Another UN initiative was the United Nations Group of Governmental Experts on Developments in the Field of Information and Telecommunications in the Context of International Security (UNGGE). Its workwas more remarkable than other initiatives as it included major state players in the field of cybersecurity.18 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:id: 630a5c4b-ee5a-4eee-829f-e7600e6cff8e
+:END:
+* International agreements and arrangements can sometimes even be disruptive and interfere with other governance structures activities. An international arrangement that has an effect on cybersecurity information sharing is the Wassenaar Arrangement.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:id: 630a5c73-2166-4f41-9da4-3e3b178d3765
+:END:
+* While it is nonbinding in nature, some countries including the US have adopted regulations that make the arrangement binding. S
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:id: 630a5c85-051e-41f8-b40c-1101db700dcc
+:END:
+* MLATs are being increasingly used in prosecution of traditional criminals as well as cybercriminals (Swire and Hemmings, 2015). 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:id: 630a5ca4-0168-4a25-86c8-2af68a862bd8
+:END:
+* In summary, there is a lack of well-established international hierarchical governance structures that can produce norms and effectuate them. MLATs and other treaties have serious shortcomings. Lack of having international legal enforcement instruments might pave the way for states to oppose the Internet governance multistakeholder model and also result in more data localization and assertion of state sovereignty over cyberspace. (Swire and Hemmings, 2015, p. 6) 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:id: 630a5cbe-d254-446a-a633-35596a693ca2
+:END:
+* In cybersecurity governance, the transaction costs of activities to produce cybersecurity ex ante (in response to an insecurity) might differ from the transaction costs of responding to an insecurity ex post. (Garg and Camp, 2013)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:id: 630a5d01-f6b1-42d7-8e8d-16cc385e1d28
+:END:
+* The actual standardization of DNSSEC took place in the IETF, which we characterized as a networked governance structure. This support continued as DNSSEC moved toward adoption, with actors including the U.S. Dept. of Commerce, VeriSign and ICANN having key roles in getting DNSSEC implemented at the root zone. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:id: 630a5d3d-dfc0-4306-b1fb-87fd22453a54
+:END:
+* As such, it is a rare example of IETF RFCs being regulated into adoption rather than being adopted by the market. While most DNS zones are DNSSEC signed today, demand for validation of DNSSEC data by ISPs remains relatively low (albeit growing).25 A similar story can be told about RPKI, 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:id: 630a5d6b-c413-4a85-a1d3-7694a1c23919
+:END:
+* n an interesting twist, however, adoption may be hindered by competing hierarchies (the RIRs) implementing individual trust anchors and varying policies governing their RPKIs which introduces additional complexity for networks using certain resources26 or operating globally. This has possibly led to uneven implementation of Route Origin Authorizations (ROAs).27
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:id: 630a5d80-9810-4c2b-8122-f4da433471e0
+:END:
+* In addition to significant market governance, there are numerous networked governance structures involved. One of the earliest publicized efforts relied on an ad-hoc networked governance structure, the Conficker Working Group (CWG), which consisted of individuals affiliated with over 30 different organizations. Because the Conficker botnet used domain generation algorithms to organize its command and control (C&C) infrastructure, the CWG’s effort to dismantle the botnet focused on reverse engineering the algorithms, to identify domain names that would be used by the botnet, and pre-registration of domain names. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:id: 630a5da9-d369-4219-8f17-0dae9dd5f8f1
+:END:
+* Finally, governments have lowered the costs associated with botnet cleanup efforts by providing distribution of software tools to clean infected computers (in Japan, Germany) and operationof national call centers to assist ISP customers (in Korea, Germany) (van Eeten, 2016, p 55).  
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 25
+:id: 630a66be-d0a9-4638-9aaa-a4e152380861
+:END:
+* he replication in other jurisdictions of similar laws cited in the cases may also be a useful hierarchical action to facilitate a more globalized institution. We can already see that countries andregions partially follow similar hierarchical frameworks and norm buildings which can help with shaping a global cybersecurity governance. For example, there are overlaps between the U.S. NIST CybersecurityFramework and the cybersecurity regulatory framework of the UK, Italy, Japan, South Korea and Australia (Shackelford et al. 2015)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 25
+:id: 630a670f-f591-41e5-8aa6-656421ac408c
+:END:
+* From an institutional perspective, network operators use of commercial route-monitoring services to detect unauthorised use of their resources is a private ordering response alternative to securing routing ex ante using hierarchically organized technologies like RPKI and networked, public good information sharing efforts like the Internet Routing Registry (IRR), which suffers from misaligned incentives, high transaction costs, and unmanageable interdependencies. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:id: 630a673e-4ce3-4f77-a0d1-85af299bfc6d
+:END:
+* From an economic perspective, they turn the functionality of the public, shared good (IRR) into a private good sold to the network operator. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:id: 630a6760-d308-4458-86b1-ec70ea1b99d6
+:END:
+* Participation in the CVE database can be seen as aclassic collective action problem associated with a public good, where its value depends not only uponone’s own efforts, but also on the actions of dozens or even hundreds of others, which any individual actor cannot predict or control. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:id: 630a678d-28a3-4fbe-b063-8be3da56e4c7
+:END:
+* irst, ex ante efforts to produce cybersecurity using purely hierarchical governance structures, even buttressed with supportfrom networked governance structures, struggle without market demand. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:id: 630a680d-c646-4a2c-9dfd-6b32f9e412b8
+:END:
+* In contrast, ex post efforts like botnet mitigation and route monitoring seem to work under a variety of combinations of governance structures.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:id: 630a6817-a4d5-47cf-b919-a78b7176f721
+:END:
+* Interestingly, our findings of numerous and evolving ex post governance structures to mitigate botnets contradicts other work suggesting ex ante sanctions would be preferable (Garp and Camp, 2013). 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:id: 630a682a-5c9c-45aa-a99a-564f7d85c5ed
+:END:
+* his suggests that arguments grounded solely in economic efficiency miss other factors at play in dealing with cybersecurity problems.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:id: 630a688b-da16-4e5e-ad85-7d468dc47b7b
+:END:
+* Proponents of greater nationalization of cybersecurity generally argue that market participants preferinexpensive and quick solutions over security, and that insecurities created by those participants have externalities. One counter-argument is that for certain cybersecurity problems a large part of the market is concentrated in a manageable number of actors (van Eeten et al, 201), the implication being (allegedly) that regulatory pressure on that smaller number of actors would be sufficient to handle externalities. Our observations support the latter perspective and offer more precision by documentingthe existence of robust market and networked governance structures and a more limited role for hierarchical structures.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:id: 630a68b3-f198-45fe-9c47-991cf3e5fe81
+:END:

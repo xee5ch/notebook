@@ -88,3 +88,279 @@
 :hl-page: 11
 :id: 630833f8-752f-4803-af5d-06dd1acd6b5a
 :END:
+* dversary knowledge is generally elusive and this feature islikely to be empty for most events – at least at the time of discovery.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 630836d1-f1de-45e5-9ad6-b6d5d1bb64ee
+:END:
+* owever, the distinction between adversaryoperator and customer is important to understand intent, attribution, adaptability, andpersistence by helping to frame the relationship between an adversary and victim pair.Therefore, we have found these distinctions important:5
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 6308392c-2616-4edf-b176-c8964aa7c07a
+:END:
+* If the capability capacity is known it should be documented as a sub-tuple of the capability aswell as potential paths on an activity-attack graph (§8.3). This initial documentation of anadverary’s capabilities can grow over time with Activity Group analysis 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 63083966-e17d-4c3e-8ec0-22ecdeb3e1f0
+:END:
+* Type 1 InfrastructureInfrastructure which is fully controlled or owned by the adversaryor which they may be in physical proximity.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 6308399e-dbef-4e69-9aab-6ede6b939646
+:END:
+* Type 2 InfrastructureInfrastructure which is controlled by an (witting or unwitting)intermediary. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 630839a5-b3c7-422a-8c84-9d55cfe0b40b
+:END:
+* Timestamps are an integral part of grouping malicious activity as the timestamp allows fora reduced confidence in knowledge over time (i.e., a decay function) as the likelihood ofadversary changes increase over time
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:id: 630839fb-7388-4bc0-b600-e8576daf539a
+:END:
+* While Axiom 4 guarantees a set of phases for every activity, there has been no consensusor evidence that there exists a set of phases satisfying the characterization of all maliciousactivity. I
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 630840cd-067b-4c8d-b78e-5e97e02af248
+:END:
+* Thedirectionalityof an event is important when mitigation options and the placement ofdetection is considered. This meta-feature is typically useful when describing network-basedevents, but can also be useful to describe host-based events as well
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 630840fd-7519-46e4-9071-c2f7aac259cb
+:END:
+* Meta-FeaturesTimestampPhaseResultDirectionMethodologyResources
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:id: 63084163-0244-4cef-833b-fda0af5dbefb
+:END:
+* Adversary-Victim pairs are predicated on a producer-consumer relationship which are un-derpinned by the social-political needs and aspirations of the adversary
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:id: 6308418f-14e1-4764-a0d8-4d5c92b8be5a
+:END:
+* However, not all Adversary-Victim relation-ships are equal
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:id: 630841b7-7210-4da6-9824-49708158b5f4
+:END:
+* Furthermore, persistence is not a binary nor static characteristic. While it is well-knownthat many persistent intrusions can be mitigated by technical measures, such as in Stoll[4], Cheswick in “Berferd” [6] illustrates that some adversaries resist technical measures andeven public shaming attempts
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:id: 630841f2-42f9-4c01-92a2-38c99dbd2c67
+:END:
+* The following are some of the elements of the Adversary-Victim relationship which determinethe degree of persistence:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:id: 63084212-2396-4ab3-93b5-2c1cef3fa2ed
+:END:
+* Our model is unique in that it places the victim and adversary in an equivalent space andhighlights the usually unspoken relationship between the two.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:id: 6308424b-cae4-4df6-9c07-c248d6653090
+:END:
+* hetechnologymeta-feature also highlightsa special relationship and spans two core features:  capability and infrastructure
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 24
+:id: 6308427c-0d69-47b3-a0bd-3e633be98b6c
+:END:
+* Traditional indicators havebeen limited to technical details. Some have extended these to include additional metadata[32]. However, it is time that indicators extend to include elements that are non-technical,behavioral, and conceptual in nature which augment, but are not directly implemented by,automated detection.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 25
+:id: 6308447b-078d-4cff-bce0-95d649657a43
+:END:
+* Pivoting is the analytic technique of extracting a data element and exploiting that element,in conjunction with data sources, to discover other related elements. Ultimately, pivotingis about the fundamental analytic task of hypothesis testing.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:id: 630844b5-078a-48d3-a555-91fb912234d8
+:END:
+* n adversary does not operate in a single event against a victim,but rather in a chain of causal events within a set of ordered phases in which, generally,each phase must be executed successfully to achieve their intent.14Anactivity threadis adirected phase-ordered graph where each vertex is an event and the arcs (i.e., directed edges)identify causal relationships between the events
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 30
+:id: 630845bc-60d6-4283-862b-029b59775b3a
+:END:
+* The threads are organized vertically such thateach thread describes all of the causal events an adversary executed against a specific victim(however the implementation of the model defines the victim feature) collectively aimed atfulfilling the adversary’s intent. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 30
+:id: 630845e4-2073-4016-a84f-308a61aa9541
+:END:
+* t is common for an adversary to use resources gained in one operation to enable futureoperations or to exploit internal trust relationships to gain deeper access into a specificnetwor
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 34
+:id: 6308465c-90a4-4054-b2c7-b72fc03baa3d
+:END:
+* Formally, we can define the activity thread as a directed graph,AT, whereAT= (V, A) isan ordered pair such that:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 34
+:id: 63084685-7478-4c98-8666-ecd9aff2a007
+:END:
+* In other words,it only matters that the features are matched in the general order but other events canexist between them. Alternatively, an adversary process can be defined “strictly” such thatevents must maintain their order without intervening events, or a combination of the two.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:id: 630847c3-7cb0-4317-af59-77535598e91d
+:END:
+* one of the most importantfeatures of the activity thread and provides for the integration of formal analytic modelssuch as “The Analysis of Competing Hypotheses” (ACH) [
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:id: 630847df-ded5-47f7-940d-cbe04a161d3d
+:END:
+* several methods of hypothesis testing which can be used with our model to determineif a given hypothesis, both itself and amongst others, is reasonable. For instance, one mayapply evidence weighting to competing hypotheses [1], Occam’s Razor (e.g., simpler expla-nations are, other things being equal, generally better than complex ones)19, conservatism(whether the hypothesis ‘fits’ given other aspects of the activity), and other formal methodsof inductive and deductive reasoning to competing hypotheses 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 6308481d-a2ac-4623-8be9-8c4499f830b5
+:END:
+* Ultimately, activity threads and activity-attack graphs enable better mitigation strategy de-velopment as they integrate both information assurance and threat intelligence cohesively.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 40
+:id: 63084884-d7f8-45c5-af24-b2c12a203a11
+:END:
+* Analysts traditionally form activity groups to identify a common adversary behind eventsand threads usually using similarities in infrastructure and capabilities.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 41
+:id: 630848a4-ccba-49d4-8d02-0c4258438a19
+:END:
+* There aresixdistinct steps to the process surrounding activity groups:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 41
+:id: 630848ad-fcdf-4ee1-8ad4-e57853f6f962
+:END:
+* Formally, we define an activity group,AGas a set of events and activity threads whichshare one or more similarities in features or adversary processes:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 41
+:id: 630848d8-7c0e-4cb2-880f-524e7d51414e
+:END:
+* heseproblems are generally distinct enough to require a different feature vector for each prob-lem
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:id: 6308491c-d592-49ba-9a76-a90cef81b652
+:END:
+* Diamond events and threads are correlated and grouped in two complementary ways: (1)using various event core-, meta-, and sub-features (e.g., infrastructure, capability), and (2)adversary processes (§8) previously defined as activity group sub-graphs.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 43
+:id: 63084994-0ee2-47ee-be5c-6772ac2904ff
+:END:
+* Thefeature spaceis composed of all core- and meta-features of the events (e.g., infrastruc-ture, capability, victim, result) (§4) as well as any defined adversary processes (§8). From thefeature space the most relevant and optimal features are selected and/or created24definingthefeature vector. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 43
+:id: 630849b3-2bed-4239-843f-9e3fce0a31c8
+:END:
+* It is expected that an organization will have more than one analytic problem defined (viaStep 1).  Therefore, there is likely more than one activity group creation function perDiamond Model instance.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:id: 630849e5-07e8-4ee3-aad0-6326d62e37d6
+:END:
+* Activity group creation is a general clustering problem solving event and thread correlationaddressing a particular analysis problem.  The clustering function is dependent on priorinformation such as the analytic problem/objective and the particular feature vector whichcan be unique for any given application of the Diamond Model
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:id: 630a3930-777d-49da-93ec-81104bec3480
+:END:
+* Formally, we define an activity group creation function,AGCas:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:id: 630a393d-df01-4aea-97bf-7e60f2a711d2
+:END:
+* Analysts continuously grow activity groups through a cognitive pattern recognition processmimicking confidence-weighted probabilistic classification: an analyst discovers a maliciousevent, compares the event to all other known events based on feature similarities and theirconfidence, and associates (i.e., classifies) the event with the most similar group (i.e., class)(or alternatively abstains from association if the confidence does not meet their threshold).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:id: 630a399d-78f8-4c2f-8952-1ddad25e91e7
+:END:
+* One such challenge is the assumption that the analyst can accu-rately describe the feature vector and function used to cluster – or that their idea of a clusteris correct to begin with.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:id: 630a39cf-630e-4a6f-b6be-8514e96df738
+:END:
+* nother is overfitting and error propagation: 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:id: 630a39df-0708-4afa-9a3e-15e1aea19ba1
+:END:
+* it is normal that activity groups require examination,anomaly detection, and redefinition (re-clustering) 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:id: 630a39fa-bd6a-42c5-b948-f412f9c30466
+:END:
+* herefore, it is sometimes neces-sary to develop a hierarchy of groups which model the increasingly complex organizationsbehind the events in order to address higher-order questions and develop even more strategicmitigation.28
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 50
+:id: 630a3a0b-081c-4c30-8664-c0cf771e63fe
+:END:
+* Very much like an activity group, an activity group family is a set of activity groups whichshare common features, except that the common features of groups within a family are likelynon-technical. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 50
+:id: 630a3a1d-8423-41c4-88f3-c23a9f7c6090
+:END:
+* Additionally, defender actions should be chosen that cost defenders little but cost adver-saries much more.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:id: 630a3df7-271c-455f-8ea4-c2a0a44070b6
+:END:
+* Actions that costthe defender more (especially significantly more) should be avoided if at all possible.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:id: 630a3e1e-a892-4258-bb49-40abf575d37d
+:END:
+* The doctrinerecognizes that a strategy will fail if based on only the nullification of adversary infras-tructure and capabilities. Rather, it prescribes a combined approach which also includesthe identification of adversary resources, centers of gravity, as well as adversary responsesand courses of action.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:id: 630a3e5a-198d-493c-8073-e3e9ec95e6b3
+:END:
+* Common information assurance practice is to analyze a system (ornetwork) for vulnerabilities, ranking those vulnerabilities based on the specific concerns ofthe organization (e.g., asset value and cost), followed by the application of mitigation tothose vulnerabilities. Through the generation of activity-attack graphs, this normal processof deciding which paths of the graph to prune by mitigation (thereby denying use of the pathby the adversary) is now informed byadversary preferenceandpotential.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 52
+:id: 630a3e84-5d53-4317-bec7-d724d338ed75
+:END:
+* One such invaluable automation would be the integration of the Diamond Model into ana-lytic tools which are both automatically fed with intelligence from network sensors as wellas external reports from other organizations, especially those within a shared threat space(§5.1.3)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 54
+:id: 630a3eb9-47cb-4764-af06-0be0be59e191
+:END:
+* Lastly, the purpose of the model is to achieve more effective and accurate analysis ultimatelyto enable planning, strategy, and decision-making to defend networks. Therefore, while wehave shown how the model can be used with several planning frameworks, each one couldbe a work in itself and there are many other models to consider.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 55
+:id: 630a3ee5-5278-4903-8a3d-d28a262f1126
+:END:

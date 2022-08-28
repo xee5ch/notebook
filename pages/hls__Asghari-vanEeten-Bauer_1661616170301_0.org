@@ -1,0 +1,288 @@
+#+file-path: ../assets/Asghari-vanEeten-Bauer_1661616170301_0.pdf
+#+FILE-PATH: ../assets/Asghari-vanEeten-Bauer_1661616170301_0.pdf
+
+* #+file-path: ../assets/Asghari-vanEeten-Bauer_1661616170301_0.pdf
+#+file: [[../assets/Asghari-vanEeten-Bauer_1661616170301_0.pdf][Asghari-vanEeten-Bauer_1661616170301_0.pdf]]
+#+title: hls__Asghari-vanEeten-Bauer_1661616170301_0
+* Even research focusing on specific problems and solutions can be dauntingly complex.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 630a4150-2cdc-4b1c-9768-ac1384219af7
+:END:
+* Moreover, preventative security measures are costly. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 630a4166-7a6f-4e96-ab0a-fa2cf7d2c361
+:END:
+* A key insight that catalyzed the development of this field is that many systems do not fail for technical reasons but because of the specific incentives shaping the behavior of individuals and organizations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 630a418c-09bb-4b53-b2e9-7eb2b96f07c8
+:END:
+* cybersecurity at the individual and system levels is influenced by how the incentives of different actors align
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 630a41b7-4717-4b0d-bdca-d0b0730d9baa
+:END:
+* Or does such decentralized coordination fail because market and non- market players are not capable of or prepared for effectively dealing with the risks?
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 630a41e5-6262-4ec5-a88b-4d8fff8d73c6
+:END:
+* It is important to understand the perspective used by each approach to conceptualize risk, costs and benefits, and the role of government (see, e.g., Singer and Friedman, 2013).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 630a4206-9a54-41c2-8b04-98d1f1e69618
+:END:
+* Many of the Internet’s technical and behavioral standards, conventions and norms emerge from decentralized repeated decisions of actors participating in it,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 630a4233-3aad-4e80-b101-3f09b93ac282
+:END:
+* Cybersecurity has both private and public good characteristics:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 630a424a-4b75-4f47-8c46-07f6b233993a
+:END:
+* In both cases the price of the direct market transaction will not reflect the full social costs or benefits of the product or service, because the third- party effects are not taken into account by the transaction partners. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 630a425f-c9eb-420a-ba67-b2ac688c1f9e
+:END:
+* Individual security measures may have positive and negative externalities, depending on whether attacks are targeted or non- targeted and whether the associated risk is interdependent or not (Kunreuther and Heal, 2003).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 630a4282-9b0b-4343-b1e2-19198249afe5
+:END:
+* Although rarely recognized explicitly in the literature, a fundamental economic problem at the heart of many information security issues may be the absence of clearly defined property rights in personal and other information (Branscomb, 1994)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 630a42aa-a9c1-468d-bc48-69079684b7eb
+:END:
+* Cybersecurity can be improved by introducing measures that align incentives of indi-vidual actors so that deviations between private and social costs and benefits are reduced. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 630a42d1-c3ba-4e40-b1b3-61fee6795f96
+:END:
+* As it may be difficult to derive solu-tions to games analytically, researchers also use computational and simulation methods to approximate outcomes. These methods offer interesting results but their practical use may be limited by the required simplifying assumptions.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 630a431b-6755-42c2-9f91-0da3a5c4e274
+:END:
+* Software products share a number of interesting characteristics with other ‘informa-tion goods’ (Shapiro and Varian, 1998)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 630a4347-c9b1-4c6c-af8a-e2f95621a1e6
+:END:
+* Direct network effects exist if the utility of a software product increases with the number of users (e.g., because documents can be shared with a larger group). Indirect effects exist if, as the user base grows, more complementary software and products become available, 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 630a4373-2fec-41d1-8b8d-6f4005f8be6d
+:END:
+* Security software has an interesting extra hurdle. Since security is hard to measure, the average user basically has to take the word of a vendor claiming the product pro-vides better security protection than another. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 630a43a1-53db-4e15-816d-2bd45c12d7bb
+:END:
+* Our focus is on the incentives and decisions of organizations outside the IT security industry that need to protect information assets related to their core business.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 630a445c-2119-4863-9e41-79d3b16675e7
+:END:
+* Rational large organizations would make security investment decisions based on several relevant factors, including the type of risk they are facing, the monetary and non- monetary consequences of failure, the resilience of their operations, and so on.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 630a4477-7eb0-4243-a9c5-d88cb529db86
+:END:
+* They proposed a model in which information assets are categorized based on their value, potential loss in case of a breach, and their vulnerability. The authors showed that under varying assumptions firms will be better off concentrating efforts on information assets with mid- range vulnerabilities as extremely valuable information may be ‘inordinately expensive’ to protect. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 630a44a4-4de2-4a17-828d-6891396f8f4a
+:END:
+* Böhme and Moore (2009) model the interaction between defenders that face investment decisions under uncertainty and attackers who repeatedly target the weakest link. They empirically vali-date their model and conclude that underinvestment can be reasonable under certain scenarios:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 630a44c3-30db-4909-bd8c-a8a2c57b2b75
+:END:
+* f investment aside, what security practices should an organization put into effect? A high-level distinction is between practices that have an observable impact on security and those that are adopted for compliance reasons, due diligence or keeping up with what are considered ‘best practices’.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 630a44ef-a2a9-481f-b5ae-9ed050e610ea
+:END:
+* In the case of best practices or standards, security measures are not adopted per se for their effectiveness, but rather for the sake of compliance
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 630a4510-df6c-481e-886f-7b2133ef4759
+:END:
+* hile confidentiality has considerable importance for earning the trust of patients and professionals, it is not the core business of health organizations. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 630a458b-ce3f-4741-995d-4656f3a41104
+:END:
+* Kwon and Johnson (2011) analyzed 2000 healthcare organizations and found that proactive security investments, associated with longer intervals between subsequent breaches, were most effective when voluntarily done.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 630a45a9-8efa-44ca-8d37-faac5e4e6fa8
+:END:
+* They found that data breaches perversely increased after healthcare organizations adopted encryp-tion software, possibly due to a false sense of security and/or a moral hazard problem. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 630a45bf-19d6-45ff-a0e0-111d3e224412
+:END:
+* They conclude that mitigating data breaches depends more on security resources and capabilities than regulatory compli-ance and reiterate that policy should provide guidelines to invest in a combination of security resources, capabilities, and cultural values, rather than impose single- solution requirements.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 630a45d6-1519-4521-a6fb-9dc8bdbcdccc
+:END:
+* Bravo- Lillo et al. (2011) provide an enlightening example: novice users perceive ‘saving’ a file as being more dangerous than ‘opening’ it, as it implies persistent changes to the system. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 630a45f5-5237-4f5f-aea3-e0d9fdb5aa88
+:END:
+* Wood and Rowe (2011) estimated that customers of US Internet service providers are willing to pay $4 to $7 a month premium for mitigating malware harms. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 630a4609-856a-49a7-90e3-9bf7c376dc37
+:END:
+* or example, universities have stricter password rules than Google and Facebook as they won’t lose revenue if users have a hard time logging in.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 630a4621-fb58-4b5b-bd3a-ec4e51d1449b
+:END:
+* Intermediaries raise interesting governance issues. They are in some sense gatekeepers 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 630a464b-40eb-45a2-9ebf-7a1ace4e5ca4
+:END:
+* The security community has had some success in seizing control over botnets through both technical infiltration and apprehension of the command and control infrastructure (Fryer et al., 2013). However, a key problem that remains is cleaning up the infected machines.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 630a469a-5839-4111-8869-7a2acf93f2ba
+:END:
+* They found that large retail ISPs are indeed effective control points but that the number of infected machines per subscriber differs significantly among ISPs. This difference was relatively stable over time, suggesting that systematic differences exist in ISP policies and management practices as well as among users.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 630a46b6-36b0-4c51-93cf-83f9e1688822
+:END:
+* Moreover, the data reveal that ISPs located in countries with an attentive regulator have cleaner networks. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 630a46c4-0e19-4127-988f-97c195892054
+:END:
+* While there is a wealth of research on security issues in hosting infrastructure, only a fraction has been done from an economic perspective.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 630a46fb-ed38-4ab6-81a2-8638fd34f6a3
+:END:
+* One advantage they have is that calculating the monetary gains and losses of certain trade- offs is easier for them than for other sectors.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:id: 630a4734-df14-4ae3-9e77-5ba171a98ba3
+:END:
+* urprisingly, they found the market share of the most expensive CAs was much larger than cheaper CAs for identical certificates. This observation points to information asymmetries that create advantages for the largest players. A technical fix to the protocols is required, but their adoption is complicated as long as CAs benefit from the status quo.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:id: 630a4770-682c-4228-b3b9-8b1be1ad0d9a
+:END:
+* In terms of cybersecurity, these platforms overall seem to internalize costs to keep their users satisfied. Just to illustrate, Google has a dedicated team to protect users against state- sponsored attacks (Grosse, 2012)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:id: 630a47bc-3c84-4c1a-b0fa-b58552b1e974
+:END:
+* Cybercrime is also affected by the social relations among criminals. Because there is a risk of being cheated by a fellow criminal, Herley and Florêncio (2010) argue that prices in the underground markets are driven down to reduce the risks for buyers.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:id: 630a47db-8775-4aa3-a5d9-0bb9b7f255ca
+:END:
+* Focusing defender efforts on bottlenecks in the attacker monetization chain can be an ingenious way to reduce attacks. A monumental study has been the work of Levchenko et al. (2011) investigating the spam value chain.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 630a481b-71f0-47c2-a37b-d2e1431ea630
+:END:
+* We also saw that some actors, notably among Internet intermediaries operating in multi- sided markets, are willing to bear the costs of mitigating security failures of others.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 630a4f16-32b9-4898-8c08-64b7b5b0bef0
+:END:
+* A traditional response to market failure is government intervention but, given the conflicting incentives of the state, other forms of governance have been proposed as more effective (Moore and Anderson, 2012; Brown and Marsden, 2013).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 630a4f2a-fd80-427c-90a0-b90b09c4a966
+:END:
+* Ideally, private and public policy measures would take the actual and potential cost of cybersecurity breaches into account. This is one of the preconditions of rational investment decisions by the private sector and of rational policy design. Unfortunately, while estimates and numbers abound, their reliability and representativeness is difficult to assess. Many reports are generated by players with a stake in inflating the numbers. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 630a4f4e-aed9-4550-83c6-44f8e23f599d
+:END:
+* Absent systematic and reliable metrics, it is at least possible to identify the types of costs good metrics would include
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 630a4f6f-a90f-4f6b-ba9c-bef29a342587
+:END:
+* Critics of mandatory breach disclosure argue that they might perversely desensitize consumers or cause them to overreact. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 630a4f8a-9ff4-436e-b8e1-c41e5338d57e
+:END:
+* Arora et al. (2010) looked at past evidence by analyzing the US National Vulnerability Database (NVD) from 2000 to 2003. The data suggest that disclosures accelerated patch release. Ransbotham and Mitra (2013) evaluated differences between immediate dis-closure and ‘responsible disclosure’, a procedure for first revealing the vulnerability in private to vendors before making it public after a certain period. Combining a dataset of intrusion detections from several hundred clients with the NVD for 2006 and 2007, the findings cautiously suggest that responsible disclosure is indeed beneficial.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 630a4fac-476d-45ab-96d3-794ff8645756
+:END:
+* ven worse, Edelman (2011) observes an ‘adverse selection’ problem in that fraudulent websites have a higher probability of purchasing trust seals.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 630a4fbd-e83d-410f-926b-3ae1c54c27a5
+:END:
+* The need for reliable measure-ments in cybersecurity has been known for a long time (Geer et al., 2003; Pfleeger and Cunningham, 2010). However, getting security metrics or measurements right is not an easy task. One should take care not to confuse measurable properties with metrics that function as security indicators (Böhme, 2010 provides a systematic overview).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:id: 630a4fd9-5278-41dd-b3c6-fe6aba30e875
+:END:
