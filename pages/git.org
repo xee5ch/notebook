@@ -1,0 +1,2 @@
+* [[https://stackoverflow.com/questions/43762338/how-to-remove-file-from-git-history][Remove files from branch for all commits]]
+*
