@@ -1,4 +1,8 @@
 [{:block/name
+  "../assets/asghari-vaneeten-bauer_1661616170301_0.pdf][asghari-vaneeten-bauer_1661616170301_0.pdf",
+  :block/created-at 1661616464526,
+  :block/updated-at 1661616464526}
+ {:block/name
   "../assets/beyondcorp_part_iii_access_proxy_1643490548824_0.pdf",
   :block/created-at 1643782701143,
   :block/updated-at 1643782701143}
@@ -7,6 +11,10 @@
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
  {:block/name
+  "../assets/caltagirone-et-al-diamondmodel_1661480682130_0.pdf][caltagirone-et-al-diamondmodel_1661480682130_0.pdf",
+  :block/created-at 1661481453891,
+  :block/updated-at 1661481453891}
+ {:block/name
   "../assets/cncf_kubernetes_policy_management_whitepaper_v1_1643492954114_0.pdf",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
@@ -14,12 +22,19 @@
   "../assets/cncf_kubernetes_policy_management_whitepaper_v1_1643492954114_0.pdf][cncf_kubernetes_policy_management_whitepaper_v1_1643492954114_0.pdf",
   :block/created-at 1643782701143,
   :block/updated-at 1643782701143}
+ {:block/name
+  "../assets/kuerbis-badiei_1661620398101_0.pdf][kuerbis-badiei_1661620398101_0.pdf",
+  :block/created-at 1661620464648,
+  :block/updated-at 1661620464648}
  {:block/name "../assets/nist.sp.800-161r1-draft2_1643782454356_0.pdf",
   :block/created-at 1643782701143,
   :block/updated-at 1643782701143}
  {:block/name "a",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
+ {:block/name "andrew pendergast",
+  :block/created-at 1661481312785,
+  :block/updated-at 1661481312785}
  {:block/name "android",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
@@ -32,6 +47,18 @@
  {:block/name "appsec",
   :block/created-at 1643782701140,
   :block/updated-at 1643782701140}
+ {:block/name "aug 25th, 2022",
+  :block/created-at 1661478895116,
+  :block/updated-at 1661478895116}
+ {:block/name "aug 26th, 2022",
+  :block/created-at 1661486404578,
+  :block/updated-at 1661486404578}
+ {:block/name "aug 27th, 2022",
+  :block/created-at 1661572804597,
+  :block/updated-at 1661572804597}
+ {:block/name "aug 28th, 2022",
+  :block/created-at 1661659204583,
+  :block/updated-at 1661659204583}
  {:block/name "authentication",
   :block/created-at 1643782701143,
   :block/updated-at 1643782701143}
@@ -53,6 +80,9 @@
  {:block/name "bookmarks",
   :block/created-at 1642973165235,
   :block/updated-at 1643498443106}
+ {:block/name "brenden kuerbis",
+  :block/created-at 1661620417615,
+  :block/updated-at 1661620417615}
  {:block/name "bug-bounty",
   :block/created-at 1643782701143,
   :block/updated-at 1643782701143}
@@ -62,6 +92,13 @@
  {:block/name "card",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
+ {:block/name
+  "center for cyber intelligence analysis and threat research",
+  :block/created-at 1661481166481,
+  :block/updated-at 1661481166481}
+ {:block/name "christopher betz",
+  :block/created-at 1661481323307,
+  :block/updated-at 1661481323307}
  {:block/name "cks",
   :block/created-at 1643782701143,
   :block/updated-at 1643782701143}
@@ -77,15 +114,33 @@
  {:block/name "contents",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
+ {:block/name "cybersecurity policy",
+  :block/created-at 1661620447794,
+  :block/updated-at 1661620447794}
+ {:block/name "diamond model",
+  :block/created-at 1661480661335,
+  :block/updated-at 1661615848692}
+ {:block/name "digital policy",
+  :block/created-at 1661620431649,
+  :block/updated-at 1661620431649}
+ {:block/name "digital policy, regulation, and governance",
+  :block/created-at 1661620381761,
+  :block/updated-at 1661626554436}
  {:block/name "doing",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
  {:block/name "done",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
+ {:block/name "economics of cybersecurity",
+  :block/created-at 1661616116680,
+  :block/updated-at 1661620187793}
  {:block/name "erik elbieh",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
+ {:block/name "farzaneh badiei",
+  :block/created-at 1661620425117,
+  :block/updated-at 1661620425117}
  {:block/name "favorites",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
@@ -101,13 +156,28 @@
  {:block/name "google research",
   :block/created-at 1643782701144,
   :block/updated-at 1643782701144}
+ {:block/name "governance",
+  :block/created-at 1661620434553,
+  :block/updated-at 1661620434553}
+ {:block/name "hadi asghari",
+  :block/created-at 1661616340450,
+  :block/updated-at 1661616340450}
+ {:block/name "hls__asghari-vaneeten-bauer_1661616170301_0",
+  :block/created-at 1661616464522,
+  :block/updated-at 1661616464522}
  {:block/name "hls__beyondcorp_part_iii_access_proxy_1643490548824_0",
   :block/created-at 1643782701143,
   :block/updated-at 1643782701143}
+ {:block/name "hls__caltagirone-et-al-diamondmodel_1661480682130_0",
+  :block/created-at 1661481453887,
+  :block/updated-at 1661481453887}
  {:block/name
   "hls__cncf_kubernetes_policy_management_whitepaper_v1_1643492954114_0",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
+ {:block/name "hls__kuerbis-badiei_1661620398101_0",
+  :block/created-at 1661620464645,
+  :block/updated-at 1661620464645}
  {:block/name "http",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
@@ -120,6 +190,9 @@
  {:block/name "injection-attacks",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
+ {:block/name "intrusion analysis",
+  :block/created-at 1661481250962,
+  :block/updated-at 1661481250962}
  {:block/name "it's a nan issue",
   :block/created-at 1643494491593,
   :block/updated-at 1643494511824}
@@ -138,6 +211,9 @@
  {:block/name "jan 31st, 2022",
   :block/created-at 1643587200000,
   :block/updated-at 1643587200000}
+ {:block/name "johannes m. bauer",
+  :block/created-at 1661616348196,
+  :block/updated-at 1661616348196}
  {:block/name "kubernetes",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
@@ -150,6 +226,9 @@
  {:block/name "later",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
+ {:block/name "michel van eeten",
+  :block/created-at 1661616340445,
+  :block/updated-at 1661616340445}
  {:block/name "microservice authorization patterns",
   :block/created-at 1643494531866,
   :block/updated-at 1643494567801}
@@ -198,6 +277,9 @@
  {:block/name "security-architecture",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
+ {:block/name "sergio caltagirone",
+  :block/created-at 1661481302433,
+  :block/updated-at 1661481302433}
  {:block/name "supply-chain",
   :block/created-at 1643782701143,
   :block/updated-at 1643782701143}
@@ -207,6 +289,9 @@
  {:block/name "the powerful http request smuggling",
   :block/created-at 1643493879392,
   :block/updated-at 1643494442345}
+ {:block/name "threat intelligence",
+  :block/created-at 1661481272411,
+  :block/updated-at 1661481272411}
  {:block/name "tldrsec",
   :block/created-at 1643782701140,
   :block/updated-at 1643782701140}
