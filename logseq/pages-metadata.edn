@@ -58,7 +58,7 @@
   :block/updated-at 1661572804597}
  {:block/name "aug 28th, 2022",
   :block/created-at 1661659204583,
-  :block/updated-at 1661659204583}
+  :block/updated-at 1661713172708}
  {:block/name "authentication",
   :block/created-at 1643782701143,
   :block/updated-at 1643782701143}
@@ -120,6 +120,9 @@
  {:block/name "contents",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
+ {:block/name "cyber kill chain",
+  :block/created-at 1661732384609,
+  :block/updated-at 1661732426366}
  {:block/name "cybersecurity policy",
   :block/created-at 1661620447794,
   :block/updated-at 1661620447794}
@@ -237,7 +240,7 @@
   :block/updated-at 1642973937341}
  {:block/name "logseq tips",
   :block/created-at 1661708899082,
-  :block/updated-at 1661711448327}
+  :block/updated-at 1661732372343}
  {:block/name "michel van eeten",
   :block/created-at 1661616340445,
   :block/updated-at 1661616340445}
@@ -298,6 +301,9 @@
  {:block/name "system administration",
   :block/created-at 1642974769476,
   :block/updated-at 1642996684939}
+ {:block/name "the diamond model: an analyst's best friend",
+  :block/created-at 1661713181761,
+  :block/updated-at 1661713210272}
  {:block/name "the powerful http request smuggling",
   :block/created-at 1643493879392,
   :block/updated-at 1643494442345}
