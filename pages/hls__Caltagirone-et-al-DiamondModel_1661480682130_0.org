@@ -364,3 +364,45 @@
 :hl-page: 55
 :id: 630a3ee5-5278-4903-8a3d-d28a262f1126
 :END:
+* Axiom 1 For every intrusion event there exists an adversary taking a step towards an intended goal by using a capability over infrastructure against a victim to produce a result.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 630eb3c2-200e-4fc8-9fb4-8fef641aae3d
+:END:
+* Axiom 2 There exists a set of adversaries (insiders, outsiders, individuals, groups, and organizations) which seek to compromise computer systems or networks to further their intent and satisfy their needs.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 630eb4ac-8de1-4023-a2ac-bc326df71943
+:END:
+* Axiom 3 Every system, and by extension every victim asset, has vulnerabilities and exposures.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:id: 630eb5af-0f65-46e7-9054-89cd2c9ea24a
+:END:
+* Axiom 4 Every malicious activity contains two or more phases which must be successfully executed in succession to achieve the desired result.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:id: 630eb641-6c2a-4028-9c1b-2e24674490b7
+:END:
+* Axiom 6 A relationship always exists between the Adversary and their Victim(s) even if distant, fleeting, or indirect.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:id: 630eb8a4-8a31-48b8-b020-7f5532822d36
+:END:
+* Axiom 7 There exists a sub-set of the set of adversaries which have the motivation, resources, and capabilities to sustain malicious effects for a significant length of time against one or more victims while resisting mitigation efforts. Adversary-Victim relationships in this sub-set are called persistent adversary relationships.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 21
+:id: 630eb8e3-157e-4903-b84a-41841cd27696
+:END:
+* Corollary 1 There exists varying degrees of adversary persistence predicated on the fundamentals of the Adversary-Victim relationship.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:id: 630eb912-8281-4179-9197-03c309101296
+:END:

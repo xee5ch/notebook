@@ -1,4 +1,5 @@
 #+title: Hack Back: A DIY Guide
+#+link: [[]]
 
-* [[../assets/phineas_fisher_hackback_1661733458617_0.pdf][[Waback Machine backup of original Pastebin]]
+* [[../assets/phineas_fisher_hackback_1661733458617_0.pdf][Waback Machine backup of original Pastebin]]
 *
