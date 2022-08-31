@@ -1,4 +1,14 @@
-[{:block/name
+[{:block/name "..",
+  :block/created-at 1661921236752,
+  :block/updated-at 1661921236752}
+ {:block/name "../assets",
+  :block/created-at 1661921236754,
+  :block/updated-at 1661921236754}
+ {:block/name
+  "../assets/41913_1661921211548_0.pdf][hack back: diy guide from gamma group attack before hacking team",
+  :block/created-at 1661921236759,
+  :block/updated-at 1661921236759}
+ {:block/name
   "../assets/asghari-vaneeten-bauer_1661616170301_0.pdf][asghari-vaneeten-bauer_1661616170301_0.pdf",
   :block/created-at 1661616464526,
   :block/updated-at 1661616464526}
@@ -65,6 +75,9 @@
  {:block/name "aug 30th, 2022",
   :block/created-at 1661832004507,
   :block/updated-at 1661832004507}
+ {:block/name "aug 31st, 2022",
+  :block/created-at 1661918403211,
+  :block/updated-at 1661918403211}
  {:block/name "authentication",
   :block/created-at 1643782701143,
   :block/updated-at 1643782701143}
@@ -165,6 +178,14 @@
  {:block/name "feb 2nd, 2022",
   :block/created-at 1643760000000,
   :block/updated-at 1643760000000}
+ {:block/name
+  "file:./../assets/41913_1661921211548_0.pdf][[hack back: diy guide from gamma group attack before hacking team",
+  :block/created-at 1661921244551,
+  :block/updated-at 1661921244551}
+ {:block/name
+  "file:./../assets/41913_1661921211548_0.pdf][hack back: diy guide from gamma group attack before hacking team.org][../assets/41913_1661921211548_0.pdf][hack back: diy guide from gamma group attack before hacking team",
+  :block/created-at 1661921237333,
+  :block/updated-at 1661921237333}
  {:block/name "git",
   :block/created-at 1661710704193,
   :block/updated-at 1661710729610}
@@ -180,6 +201,13 @@
  {:block/name "hack back: a diy guide",
   :block/created-at 1661733443743,
   :block/updated-at 1661907479369}
+ {:block/name "hack back: a diy guide (gamma group finfisher version)",
+  :block/created-at 1661921191048,
+  :block/updated-at 1661921247862}
+ {:block/name
+  "hack back: diy guide from gamma group attack before hacking team",
+  :block/created-at 1661921247861,
+  :block/updated-at 1661921247861}
  {:block/name "hadi asghari",
   :block/created-at 1661616340450,
   :block/updated-at 1661616340450}
