@@ -1,14 +1,4 @@
-[{:block/name "..",
-  :block/created-at 1661921236752,
-  :block/updated-at 1661921236752}
- {:block/name "../assets",
-  :block/created-at 1661921236754,
-  :block/updated-at 1661921236754}
- {:block/name
-  "../assets/41913_1661921211548_0.pdf][hack back: diy guide from gamma group attack before hacking team",
-  :block/created-at 1661921236759,
-  :block/updated-at 1661921236759}
- {:block/name
+[{:block/name
   "../assets/asghari-vaneeten-bauer_1661616170301_0.pdf][asghari-vaneeten-bauer_1661616170301_0.pdf",
   :block/created-at 1661616464526,
   :block/updated-at 1661616464526}
@@ -90,6 +80,9 @@
  {:block/name "beyond corp part iii_ the access proxy",
   :block/created-at 1643490358131,
   :block/updated-at 1643490401243}
+ {:block/name "big fish, little fish, critical infrastructure",
+  :block/created-at 1661999249677,
+  :block/updated-at 1661999686377}
  {:block/name "bitdiscovery",
   :block/created-at 1643782701140,
   :block/updated-at 1643782701140}
@@ -178,6 +171,12 @@
  {:block/name "feb 2nd, 2022",
   :block/created-at 1643760000000,
   :block/updated-at 1643760000000}
+ {:block/name "file",
+  :block/created-at 1661994783931,
+  :block/updated-at 1661994783931}
+ {:block/name "file-path",
+  :block/created-at 1661994783934,
+  :block/updated-at 1661994783934}
  {:block/name
   "file:./../assets/41913_1661921211548_0.pdf][[hack back: diy guide from gamma group attack before hacking team",
   :block/created-at 1661921244551,
@@ -200,10 +199,13 @@
   :block/updated-at 1661620434553}
  {:block/name "hack back: a diy guide",
   :block/created-at 1661733443743,
-  :block/updated-at 1661907479369}
+  :block/updated-at 1661998133693}
  {:block/name "hack back: a diy guide (gamma group finfisher version)",
   :block/created-at 1661921191048,
-  :block/updated-at 1661921247862}
+  :block/updated-at 1661996237933}
+ {:block/name "hack back: a diy guide to robbing banks",
+  :block/created-at 1661922981727,
+  :block/updated-at 1661995806517}
  {:block/name
   "hack back: diy guide from gamma group attack before hacking team",
   :block/created-at 1661921247861,
@@ -211,6 +213,12 @@
  {:block/name "hadi asghari",
   :block/created-at 1661616340450,
   :block/updated-at 1661616340450}
+ {:block/name "hls__2004.14360_1661999267169_0",
+  :block/created-at 1661999330486,
+  :block/updated-at 1661999330486}
+ {:block/name "hls__41913_1661921211548_0",
+  :block/created-at 1661995902196,
+  :block/updated-at 1661995902196}
  {:block/name "hls__asghari-vaneeten-bauer_1661616170301_0",
   :block/created-at 1661616464522,
   :block/updated-at 1661616464522}
@@ -227,6 +235,12 @@
  {:block/name "hls__kuerbis-badiei_1661620398101_0",
   :block/created-at 1661620464645,
   :block/updated-at 1661620464645}
+ {:block/name "hls__phineas_fisher_hackback_1661733458617_0",
+  :block/created-at 1661997509845,
+  :block/updated-at 1661997509845}
+ {:block/name "hls__xssyub0f_1661922996075_0",
+  :block/created-at 1661994783902,
+  :block/updated-at 1661994783902}
  {:block/name "http",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}

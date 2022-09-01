@@ -1,0 +1,70 @@
+#+file-path: ../assets/phineas_fisher_hackback_1661733458617_0.pdf
+#+file: [[../assets/phineas_fisher_hackback_1661733458617_0.pdf][phineas_fisher_hackback_1661733458617_0.pdf]]
+#+title: hls__phineas_fisher_hackback_1661733458617_0
+
+* You used to have to sneak into offices to leak documents [2]. You used to need a gun to rob a bank. Now you can do both from bed with a laptop in hand [3][4]. Like the CNT said after the Gamma Group hack: "Let's take a step forward with new forms of struggle" [5]. Hacking is a powerful tool, let's learn and fight!
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 631011c5-01ca-4063-ae83-4970fa606b1a
+:END:
+* you can avoid going to jail by taking a few simple precautions:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 631011db-ad7d-4dcb-a583-c18944e05bd5
+:END:
+* (Optional) Don't connect directly to Tor
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 631011f4-cf24-4e85-ad3d-5dbbfaf68b8a
+:END:
+* I don't hack directly from Tor exit nodes. They're on blacklists, they're slow, and they can't receive connect-backs. Tor protects my anonymity while I connect to the infrastructure I use to hack, which consists of:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 63101205-034d-4720-bdfc-7114eefca15a
+:END:
+* Although it can be tedious, this stage is very important, since the larger the attack surface, the easier it is to find a hole somewhere in it.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 63101227-9682-40bb-b3cb-6a70e40e2eeb
+:END:
+* Since the method I used against Hacking Team is uncommon and a lot more work than is usually necessary, I'll talk a little about the two most common ways, which I recommend trying first.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 6310126d-93ce-4821-b86a-be7f8a1c41d1
+:END:
+* However, Hacking Team is a very small company, and most of it's employees are infosec experts, so there was a low chance that they'd already been compromised.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 6310128e-4b86-405f-b74e-237cb4e3aecd
+:END:
+* The post-exploitation tools that I'd prepared were:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 6310130d-6c7f-4543-9e00-1c7215a8b0f4
+:END:
+* Once you have access, you want to keep it. Really, persistence is only a challenge for assholes like Hacking Team who target activists and other individuals. To hack companies, persistence isn't needed since companies never sleep. I always use Duqu 2 style "persistence", executing in RAM on a couple high-uptime servers. On the off chance that they all reboot at the same time, I have passwords and a golden ticket [1] as backup access.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 631013d8-e735-4c65-9fe2-0b82b389fe33
+:END:
+* Hunting Sysadmins
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 63101411-1c5c-411b-9432-85c76e3c2f78
+:END:
+* eusing and resetting passwords
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:id: 63101432-584f-4bf0-93ff-d4d4c2eeda6e
+:END:

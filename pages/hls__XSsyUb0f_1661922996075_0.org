@@ -1,0 +1,136 @@
+#+file-path: ../assets/XSsyUb0f_1661922996075_0.pdf
+#+file: [[../assets/XSsyUb0f_1661922996075_0.pdf][XSsyUb0f_1661922996075_0.pdf]]
+#+title: hls__XSsyUb0f_1661922996075_0
+
+* I did nothing complicated. I only saw the injustice in this world, felt love for all beings, and expressed that love in the best way I could,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6310071f-fa69-4e6b-bc91-969d72365efa
+:END:
+* I am nothing more than the product of a system that does not work. As long as there is injustice, exploitation, alienation, violence and ecological destruction, many more will come like me
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 63100744-f0e3-4d65-91d5-14e01381db72
+:END:
+* To make us listen, hackers sometimes have to cover their faces, because we are not interested you in seeing our face but instead in understanding our word
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 63100756-f275-4ca7-97ad-b16bf318d44c
+:END:
+* As you are about to learn in this home guide, hacking a bank and transferring money through the SWIFT network does not require the support of any government or a large and specialized group. It is something totally possible being a mere amateur hacker, with only public tools and basic knowledge of how to write a script.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 631007cd-59de-4571-94f2-8e8fa3ec1259
+:END:
+* However, many will find that they lack the necessary criminal connections to get the handles in condition. In my case, this was the first bank that hacked, and at that time I only had a few and mediocre accounts ready to withdraw the cash (known as bank drops), so it was only a few hundred thousand that I could withdraw at total, when it is normal to get millions.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 631007f0-5088-49e0-b578-dc30e969c446
+:END:
+* It is important to take some simple precautions. I will refer to this same section of my last guide [1], since it seems to work just fine [2].
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 6310084a-d07d-469b-b0ea-4ce5feb81968
+:END:
+* It may be that writing long articles detailing your actions and your ideology is not the safest thing in the world (oops!), but at times I feel I have to.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 63100868-5654-4f5b-84f5-2e520e0c41bb
+:END:
+* However, this was not a targeted attack. I did not set out to hack a specific bank, what I wanted was to hack any bank, which ends up being a much simpler task. This type of nonspecific approach was popularized by Lulzsec and Anonymous [2]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 6310089d-869d-4248-a385-26d24e9ab9f9
+:END:
+* When I published my latest DIY guide [1] I did not reveal the details of the sonicwall exploit that I had used to hack Hacking Team, as it was very useful for other hacks (such as this one) and I still had not finished having fun with it. Determined then to hack Hacking Team, I spent weeks reverse engineering their sonicwall ssl-vpn model, and even managed to find several memory corruption vulnerabilities that were more or less difficult to exploit, before I realized that the device was easily exploitable with shellshock [2].
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 631008d2-21c5-4f80-960e-d6f2c6baac33
+:END:
+* When shellshock came out, many sonicwall devices were vulnerable, with only a request to cgi-bin/welcome and a payload in the user-agent. Dell released a security update and an advisory for these versions. The version used by Hacking Team and this bank had the vulnerable bash version, but the cgi requests did not trigger the shellshock- except for the requests to a shell script, and there was one accessible: cgibin/jarrewrite.sh. This seems to have escaped Dell's notice, since they never released a security update or an advisory for that version of the sonicwall. And, kindly, Dell had setuid’d root on dos2unix, leaving the device easy to root.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 63100907-0c1c-471a-9bc9-4902235c5005
+:END:
+* I found an exploit, and assumed that it meant that I was some kind of elite hacker. The reality, that is, the fact that it took me two weeks to realize that it was trivially exploitable with shellshock, is perhaps less flattering to me, but I think it is also more inspiring.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 6310091e-5c60-45ba-a97d-c7e22879ef3d
+:END:
+* However, although the customer support server gave me a pivot towards the internal network of Gamma Group, I was unable to penetrate further into the company. From this experience with the Gamma Group and other hacks, I realized that I was really limited by my lack of knowledge about privilege escalation and lateral movement in windows domains, active directory and windows in general. So I studied and practiced (see section 11), until I felt I was ready to pay a visit to Hacking Team almost a year later. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 63100957-a49e-4d6d-815e-4862d61ba77a
+:END:
+* Part of the backdoor I prepared for Hacking Team (see the first footnote in section 6) was a simple wrapper on the login page to capture passwords:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 63100971-6b91-4e9e-b831-6d68d71cc8c9
+:END:
+* In the case of Hacking Team, they were logging on to the VPN with single-use passwords, so the VPN gave me access only to the network, and from there it took an extra effort to get domain admins on their network. In the other guide I wrote about side passes and privilege escalation in windows domains [1]. In this case, on the other hand, it was the same Windows domain passwords that were used to authenticate against the VPN, so I could get a good user password, including that of the domain admin. Now I had full access to his network, but usually this is the easy part. The most complicated part is to understand how they operate and how to get what you want out of their network.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 6310098e-4fca-4bbf-aeb1-874b0e402506
+:END:
+* Following the investigation they did about the hacking, I found it interesting to see that, by the same time I did it, the bank could have been compromised by someone else through a targeted phishing email [1]. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 631009b7-701d-412c-8904-5f2b2e99fe78
+:END:
+* A fun suggestion for you to follow the investigations of your hacks is to have a backup access, one that you won't touch unless you lose normal access.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 631009c9-f8e6-4c9b-829c-6d5e3593b131
+:END:
+* To understand how the bank operated, and how I could get money, I followed the techniques that I summarized in [1], in section “13.3 - Internal Recognition”. I downloaded a list of all file names, grepped for words like "SWIFT" and "transfer", and downloaded and read all files with interesting names. I also looked for emails from employees, but by far the most useful technique was to use keyloggers and screenshots to see how bank employees worked.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 63100a02-d28c-415d-82db-8759d4d04b50
+:END:
+* If I had prepared it better I would have known that the GPL instead of XXX indicated that the payment would be sent through the UK Fast Payment Service, rather than as an international transfer, which obviously will not work when you are trying of sending money to Mexico.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 63100a54-ef7a-44c6-8a85-467657c02c17
+:END:
+* I know that journalists are probably going to want to put some number on how many dollars were distributed in this hack and similar ones, but I prefer not to encourage our perverse habit of measuring the actions just by their economic value.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 63100a7f-45ee-4142-ba22-b70f9592986f
+:END:
+* oday offensive C# is what is on the rise, with tools like [3][4][5][6]. AMSI is going to get to.NET for 4.8, so the tools in C# probably still have a couple of years left before they get dated.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 63100aa7-d600-40f2-9341-aa4b4a6411ef
+:END:
+* When I leaked the Hacking Team files, I gave The Intercept a copy of the emails one month in advance. They found a couple of the 0days that Hacking Team was using, previously reported them to MS and Adobe and published a few stories once the leak was made public. There is no point of comparison with the enormous amount of articles and research that came after the complete leak to the public. Seeing it this way, and also considering the (not) editorialized publication [1] of the Panama papers, I think that a public and complete leak of this material is the right choice.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 63100ad7-df13-48a2-b16f-699d6fe4899a
+:END:
+* There are a couple of things that at some point will be very useful in your learning, such as getting comfortable with bash and cmd.exe, a basic domain of powershell, python and javascript, having knowledge of kerberos [5][6] and active directory [7][8][9][10], and fluent English. A good introductory book is The Hacker Playbook.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 63100b1a-2382-44c2-87d5-fb9cc56d9398
+:END:

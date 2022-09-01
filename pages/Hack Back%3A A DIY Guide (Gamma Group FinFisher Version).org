@@ -1,4 +1,13 @@
 #+title: Hack Back: A DIY Guide (Gamma Group FinFisher Version)
 
 * [[file:./../assets/41913_1661921211548_0.pdf][Hack Back: DIY Guide from Gamma Group attack before Hacking Team]]
+* ((63100b7e-7edc-41fc-b8f0-f156217aa175))
+* ((63100b96-e552-4daa-9b1a-ea93650f3416))
+* ((63100bb8-3fdc-4273-b07f-8fa48b3d9e3d))
+* ((63100bd5-c57c-41bb-a029-d36c8f4e47a5))
+* ((63100c0e-133c-4cb7-98c6-f1d702dd401b))
+* ((63100c44-e9bd-4404-9a8c-d8877068eb7c))
+* ((63100c6a-ee32-4f61-9595-458ad5b0fcdc))
+* ((63100c8d-44a5-41a3-a140-d582db26c20b))
+* ((63100cc9-09c0-4eae-ae3b-03fd00f12de3))
 *

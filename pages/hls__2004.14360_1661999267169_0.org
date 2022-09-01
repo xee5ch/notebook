@@ -1,0 +1,58 @@
+#+file-path: ../assets/2004.14360_1661999267169_0.pdf
+#+file: [[../assets/2004.14360_1661999267169_0.pdf][2004.14360_1661999267169_0.pdf]]
+#+title: hls__2004.14360_1661999267169_0
+
+* State actors are widely considered to be the default threat actors to critical infrastructure, since they are the threat most often discussed in the media.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 631018e2-24ab-47e8-b8e3-0f8107289405
+:END:
+* State of the art literature [3], [4] does not detail the technical threats which a hacktivist might employ, since it is hard to attain such information without identifying and investigating the intruder
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 631018f9-2317-488e-a9f7-d22bb37db8bd
+:END:
+* This work was motivated by a recent publication by Fisher in November 2019, which stated ‘I will pay up to 100 thousand USD for each filtration of this type, according to the public interest and impact of the material...’[5]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 63101913-8f40-4de3-87bf-3f29345e6d98
+:END:
+* Generally, the current body of research describes intrusions at a very abstract level, and primarily focus on motivation and description of the different types of threat actors.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 63101959-b2fc-4b7e-a9e0-f9ef48449548
+:END:
+* o this day no one appears to have been able to identify who Phineas Fisher is, and the Italian investigation into the Hacking Team hack was closed without answers [28].
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 631019a5-084a-483f-8be5-8cb1536654f0
+:END:
+* By publishing her post-mortem documents, she has shown the simple techniques needed to break into these systems. In the case of critical infrastructure such as Industrial Control System(ICS), it is therefore valuable to identify how much of a threat these systems might be from hacktivists like Phineas Fisher.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 631019bc-2f5d-4171-b66e-efbb56feaf2e
+:END:
+* When touching the disk, Timestomping was performed, which masks the modification dates of files changed. When impersonating a user login, Fisher would change the logged IP and UserAgent to match historical access logs.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 63101a0a-4b82-4725-9589-b747cbfd9616
+:END:
+* While Fisher would use multiple hops and off-the-self remote access tools, and often simple file transfers via HTTP and SSH. These approaches are often sufficient to bypass simple IDS which are unmonitored, as the traffic generated matches day-to-day operations (though more bandwidth may be used, this is often not monitored).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 63101a33-1b6c-42ae-a484-8705198ee7fa
+:END:
+* It is noticeable that Fisher’s intrusion methods did not significantly vary between each attack in terms of the techniques used. While the techniques are dependant on the environment, the skills required to perform a successful intrusion are readily attainable.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 63101a42-914b-4298-9552-f88f994e1d65
+:END:

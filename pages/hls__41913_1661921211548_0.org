@@ -1,0 +1,58 @@
+#+file-path: ../assets/41913_1661921211548_0.pdf
+#+file: [[../assets/41913_1661921211548_0.pdf][41913_1661921211548_0.pdf]]
+#+title: hls__41913_1661921211548_0
+
+* I'm not writing this to brag about what an 31337 h4x0r I am and what m4d sk1llz it took to 0wn Gamma.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 63100b7e-7edc-41fc-b8f0-f156217aa175
+:END:
+* 1) Make a hidden encrypted volume with Truecrypt 7.1a [0]2) Inside the encrypted volume install Whonix [1]3) (Optional) While just having everything go over Tor thanks to Whonix is probably sufficient, it's better to not use an internet connection connected to your name or address. A cantenna, aircrack, and reaver can come in handy here.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 63100b96-e552-4daa-9b1a-ea93650f3416
+:END:
+* asically I just repeatedly use fierce [0], whois lookups on IP addresses and domain names, and reverse whois lookups to find all IP address space and domain names 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 63100bb8-3fdc-4273-b07f-8fa48b3d9e3d
+:END:
+* Scan all the IP ranges you found with nmap to find all services running. Aside from a standard port scan, scanning for SNMP is underrated.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 63100bd5-c57c-41bb-a029-d36c8f4e47a5
+:END:
+* For finsupport.finfisher.com the process was:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 63100c0e-133c-4cb7-98c6-f1d702dd401b
+:END:
+* reveal that finsupport also has print.php and it is injectable. And it's database admin! For MySQL this means you can read and write files. It turns out the site has magicquotes enabled, so I can't use INTO OUTFILE to write files. But I can use a short script that uses sqlmap --file-read to get the php source for a URL, and a normal web request to get the HTML, and then finds files included or required in the php source, and finds php files linked in the HTML, to recursively download the source to the whole site.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 63100c44-e9bd-4404-9a8c-d8877068eb7c
+:END:
+* Turns out that while the cron process is running it doesn't seem to be actually running cron jobs. Looking in the webalizer directory shows it didn't update stats the previous month. Apparently after updating the timezone cron will sometimes run at the wrong time or sometimes not run at all and you need to restart cron after changing the timezone.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 63100c6a-ee32-4f61-9595-458ad5b0fcdc
+:END:
+* Once you're in their networks, the real fun starts. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 63100c8d-44a5-41a3-a140-d582db26c20b
+:END:
+* Aside from the hacking specific stuff almost anything useful to a system administrator for setting up and administering networks will also be useful for exploring them. This includes familiarity with the windows command prompt and unix shell, basic scripting skills, knowledge of ldap, kerberos, active directory, networking, etc
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 63100cc9-09c0-4eae-ae3b-03fd00f12de3
+:END:

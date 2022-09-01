@@ -2,4 +2,15 @@
 #+link: [[]]
 
 * [[../assets/phineas_fisher_hackback_1661733458617_0.pdf][Waback Machine backup of original Pastebin]]
+* ((631011c5-01ca-4063-ae83-4970fa606b1a))
+* ((631011db-ad7d-4dcb-a583-c18944e05bd5))
+* ((631011f4-cf24-4e85-ad3d-5dbbfaf68b8a))
+* ((63101205-034d-4720-bdfc-7114eefca15a))
+* ((63101227-9682-40bb-b3cb-6a70e40e2eeb))
+* ((6310126d-93ce-4821-b86a-be7f8a1c41d1))
+* ((6310128e-4b86-405f-b74e-237cb4e3aecd))
+* ((6310130d-6c7f-4543-9e00-1c7215a8b0f4))
+* ((631013d8-e735-4c65-9fe2-0b82b389fe33))
+* ((63101411-1c5c-411b-9432-85c76e3c2f78))
+* ((63101432-584f-4bf0-93ff-d4d4c2eeda6e))
 *
