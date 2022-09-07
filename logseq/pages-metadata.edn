@@ -238,6 +238,10 @@
  {:block/name "hls__phineas_fisher_hackback_1661733458617_0",
   :block/created-at 1661997509845,
   :block/updated-at 1661997509845}
+ {:block/name
+  "hls__understanding_hadoop_clusters_and_the_network_brad_hedlund_1662510086046_0",
+  :block/created-at 1662510101179,
+  :block/updated-at 1662510101179}
  {:block/name "hls__xssyub0f_1661922996075_0",
   :block/created-at 1661994783902,
   :block/updated-at 1661994783902}
@@ -346,6 +350,24 @@
  {:block/name "security-architecture",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
+ {:block/name "sep 1st, 2022",
+  :block/created-at 1662004803724,
+  :block/updated-at 1662004803724}
+ {:block/name "sep 2nd, 2022",
+  :block/created-at 1662091203722,
+  :block/updated-at 1662091203722}
+ {:block/name "sep 3rd, 2022",
+  :block/created-at 1662177601640,
+  :block/updated-at 1662177601640}
+ {:block/name "sep 4th, 2022",
+  :block/created-at 1662302640132,
+  :block/updated-at 1662302640132}
+ {:block/name "sep 5th, 2022",
+  :block/created-at 1662350404947,
+  :block/updated-at 1662350404947}
+ {:block/name "sep 6th, 2022",
+  :block/created-at 1662436804940,
+  :block/updated-at 1662436804940}
  {:block/name "sergio caltagirone",
   :block/created-at 1661481302433,
   :block/updated-at 1661481302433}
@@ -370,6 +392,9 @@
  {:block/name "todo",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
+ {:block/name "understanding hadoop clusters and the network",
+  :block/created-at 1662510073625,
+  :block/updated-at 1662510909712}
  {:block/name "wait",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}

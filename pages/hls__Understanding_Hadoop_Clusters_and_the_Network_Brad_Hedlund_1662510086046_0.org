@@ -1,0 +1,148 @@
+#+file-path: ../assets/Understanding_Hadoop_Clusters_and_the_Network_Brad_Hedlund_1662510086046_0.pdf
+#+file: [[../assets/Understanding_Hadoop_Clusters_and_the_Network_Brad_Hedlund_1662510086046_0.pdf][Understanding_Hadoop_Clusters_and_the_Network_Brad_Hedlund_1662510086046_0.pdf]]
+#+title: hls__Understanding_Hadoop_Clusters_and_the_Network_Brad_Hedlund_1662510086046_0
+
+* content presented here is largely based on academic work and conversations I’ve had with customers running real production clusters.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 6317e415-d4aa-4455-882d-8b4dacd3d246
+:END:
+* The three major categories of machine roles in a Hadoop deployment are Client machines, Masters nodes, and Slave nodes.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6317e42d-9c14-41da-859e-f3e89b573c44
+:END:
+* he Master nodes oversee the two key functional pieces that make up Hadoop: storing lots of data (HDFS), and running parallel computations on all that data (Map Reduce).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6317e442-bce0-463b-936c-5152d727afb8
+:END:
+* The Name Node oversees and coordinates the data storage function (HDFS), while the Job Tracker oversees and coordinates the parallel processing of data using Map Reduce. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6317e462-6e7a-4b8e-8e0c-9a4d8cd4d5d9
+:END:
+* lave Nodes make up the vast majority of machines and do all the dirty work of storing the data and running the computations.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6317e46a-f510-428e-b790-ade32f32947e
+:END:
+* the role of the Client machine is to load data into the cluster, submit Map Reduce jobs describing how that data should be processed, and then retrieve or view the results of the job when its finished. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6317e482-071f-4639-88aa-d4f5016f73ca
+:END:
+* o server virtualization, no hypervisor layer. That would only amount to unnecessary overhead impeding performance. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6317e496-00af-4988-872a-36519356e454
+:END:
+* The majority of the servers will be Slave nodes with lots of local disk storage and moderate amounts of CPU and DRAM. Some of the machines will be Master nodes that might have a slightly different configuration favoring more DRAM and CPU, less local storage.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 6317e4b9-0816-408d-8507-dda8772adf2e
+:END:
+* If I can chop that huge chunk of data into small chunks and spread it out over many machines, and have all those machines processes their portion of the data in parallel – I can get answers extremely fast – and that, in a nutshell, is what Hadoop does.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 6317e4d1-64f3-4c00-bc5d-7902d073584e
+:END:
+* The Name Node is not in the data path. The Name Node only provides the map of where data is and where data should go in the cluster (file system metadata).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 6317e4ff-4054-4577-840c-40a5249a0da6
+:END:
+* Hadoop has the concept of “Rack Awareness”.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 6317e513-3533-428a-a5cc-59fd7b25dbc0
+:END:
+* There are two key reasons for this: Data loss prevention, and network performance. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 6317e524-c27b-4f57-b8ea-b31b4a155186
+:END:
+* What is NOT cool about Rack Awareness at this point is the manual work required to define it the first time, continually update it, and keep the information accurate.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 6317e538-bf98-4d2b-af5f-048d386d78f2
+:END:
+* he key rule is that for every block of data, two copies will exist in one rack, another copy in a different rack.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 6317e551-0547-485e-af0b-8e14970ccef3
+:END:
+* Here too is a primary example of leveraging the Rack Awareness data in the Name Node to improve cluster performance. Notice that the second and third Data Nodes in the pipeline are in the same rack, and therefore the final leg of the pipeline does not need to traverse between racks and instead benefits from in-rack bandwidth and low latency. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 6317e570-3de2-458c-a849-5b86f1e6c637
+:END:
+* To process more data, faster. When the machine count goes up and the cluster goes wide, our network needs to scale appropriately.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 6317e59c-9ac7-4929-a159-3943f343876b
+:END:
+* Another approach to scaling the cluster is to go deep. This is where you scale up the machines with more disk drives and more CPU cores.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 6317e5b5-e4f0-4df1-b3fc-d1a34e90c9e5
+:END:
+* The Name Node is the central controller of HDFS. It does not hold any cluster data itself. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 6317e609-82c2-4c08-ab8e-b6a05dc4c973
+:END:
+* common misconception is that this role provides a high availability backup for the Name Node. This is not the case.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:id: 6317e62b-d63d-4711-9205-71bccd432e48
+:END:
+* The parallel processing framework included with Hadoop is called Map Reduce, named after two important steps in the model; Map, and Reduce.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 6317e66c-4d1e-4e67-b599-3d011e2ad98e
+:END:
+* As each Map task completes, each node stores the result of its local computation in temporary local storage. This is called the “intermediate data”. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 6317e682-a55b-4567-bbba-43b84087b42b
+:END:
+* This traffic condition is often referred to as TCP Incast or “fan-in”. For networks handling lots of Incast conditions, it’s important the network switches have well-engineered internal traffic management capabilities, and adequate buffers (not too big, not too small). 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:id: 6317e6be-41a5-4e6f-8352-4f37c9ba23ca
+:END:
+* How much traffic you see on the network in the Map Reduce process is entirely dependent on the type job you are running at that given time.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:id: 6317e6f7-8c4d-4f60-b21c-7ffc574ede6f
+:END:
+* o fix the unbalanced cluster situation, Hadoop includes a nifty utility called, you guessed it, balancer
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 21
+:id: 6317e739-df5d-4373-99eb-f4f5b0159c83
+:END:
