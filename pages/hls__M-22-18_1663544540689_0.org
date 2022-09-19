@@ -1,0 +1,118 @@
+#+file-path: ../assets/M-22-18_1663544540689_0.pdf
+#+file: [[../assets/M-22-18_1663544540689_0.pdf][M-22-18_1663544540689_0.pdf]]
+#+title: hls__M-22-18_1663544540689_0
+
+* technologies faces relentless threats from nation state and criminal actors
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 6327ad13-2888-4951-a8f4-e61fb4c66386
+:END:
+* The EO further directs the Office of Management and Budget (OMB) to require agencies to comply with such guidelines. This memorandum requires agencies to comply with the NIST Guidance and any subsequent updates.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 6327ad4e-0e19-4b21-b92f-b02957e779f5
+:END:
+* compliance with standards promulgated by NIST
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6327ad83-c174-453c-a40a-31cffc6f240c
+:END:
+* The term “software” for purposes of this memorandum includes firmware, operating systems, applications, and application services (e.g., cloud-based software), as well as products containing software
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6327adb9-cbe8-45f2-a390-c273cf40cba6
+:END:
+* using a semantic versioning schema of Major.Minor.Patch, the software version number goes from 2.5 to 3.0
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6327ae03-f5ac-4858-af0d-15031424e053
+:END:
+* These requirements do not apply to agency-developed software
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6327ae1e-ed44-487a-b722-a35fec6b5c92
+:END:
+* An agency awarding a contract that may be used by other agencies is responsible for implementing the requirements of this memorandum.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6327ae6f-46de-4f2b-bfd2-79f2835123e0
+:END:
+* Federal agencies must only use software provided by software producers who can attest to complying with the Government-specified secure software development practices, as described in the NIST Guidance
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6327ae96-aa88-46ae-a789-7e59dd3b6356
+:END:
+* A software producer’s self-attestation serves as a “conformance statement” described by the NIST Guidance. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 6327aeb3-4f87-4729-83f9-c41623018f4e
+:END:
+* he agency must obtain a self-attestation for all third-party software subject to the requirements of this memorandum used by the agency
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 6327aecf-3fe4-4db6-918a-706e6a825583
+:END:
+* Agencies should encourage software producers to be product inclusive so that the same attestation may be readily provided to all purchasing agencies.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 6327aeff-0964-41e3-9a03-b779a26d6d10
+:END:
+* he requesting agency shall require the software producer to identify those practices to which they cannot attest, document practices they have in place to mitigate those risks, and require a Plan of Action & Milestones(POA&M) to be developed.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 6327af28-8260-4586-b31e-e9d4976b3d11
+:END:
+* An acceptable self-attestation must include the following minimum requirements:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 6327af4f-ae0e-44ce-bef1-51d741c72e9c
+:END:
+* A third-party assessment provided by either a certified FedRAMP Third Party Assessor Organization (3PAO) or one approved by the agency shall be acceptable in lieu of a software producer's self-attestation, including in the case of open source software or products incorporating open source software, provided the3PAO uses the NIST Guidance as the assessment baseline.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 6327af75-ed59-4813-8127-31d9a006aba8
+:END:
+* gencies may obtain from software producers artifacts that demonstrate conformance to secure software development practices, as needed.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 6327af91-0876-489d-a9bd-38500add8667
+:END:
+* Within 90 days of the date of this memorandum, agencies shall inventory all software subject to the requirements of this memorandum, with a separate inventory for “critical software.”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 6327b05c-81af-468d-832e-6b9a087c2775
+:END:
+* Agencies shall collect attestation letters not posted publicly by software providers for all software subject to the requirements of this memorandum within 365 days after publication of this memorandum.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 6327b07b-42ce-4338-8f5e-6e7b9ad507db
+:END:
+* Waivers. Agencies may request a waiver—only in the case of exceptional circumstances and for a limited duration—for any specific requirement(s) of this memorandum. The waiver request must be submitted to the Director of OMB and must be transmitted 30 days before any relevant deadline in this memorandum and accompanied by a plan for mitigating any potential risks. The Director of OMB, in consultation with the Assistant to the President and National Security Advisor (APNSA), will consider granting the request on a case-by-case basis.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 6327b09e-fefa-4861-8088-ec8716fcf485
+:END:
+* Within 180 days from the date of this memorandum, OMB, in consultation with CISA and the General Services Administration (GSA), will establish requirements for a centralized repository for software attestations and artifacts, with appropriate mechanisms for protection and sharing among Federal agencies.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 6327b0bd-13ad-4f1f-adf0-88ca51bc73b3
+:END:
