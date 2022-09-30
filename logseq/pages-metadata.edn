@@ -156,6 +156,10 @@
  {:block/name "economics of cybersecurity",
   :block/created-at 1661616116680,
   :block/updated-at 1661620187793}
+ {:block/name
+  "empirically evaluating the effect of israeli cybersecurity precautions",
+  :block/created-at 1664501806790,
+  :block/updated-at 1664502616489}
  {:block/name "erik elbieh",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
@@ -232,6 +236,9 @@
   "hls__cncf_kubernetes_policy_management_whitepaper_v1_1643492954114_0",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
+ {:block/name "hls__iris2020_cyentia_1664503009673_0",
+  :block/created-at 1664503043688,
+  :block/updated-at 1664503043688}
  {:block/name "hls__kuerbis-badiei_1661620398101_0",
   :block/created-at 1661620464645,
   :block/updated-at 1661620464645}
@@ -245,6 +252,9 @@
   "hls__understanding_hadoop_clusters_and_the_network_brad_hedlund_1662510086046_0",
   :block/created-at 1662510101179,
   :block/updated-at 1662510101179}
+ {:block/name "hls__weis22-gandal_1664501826588_0",
+  :block/created-at 1664501863293,
+  :block/updated-at 1664501863293}
  {:block/name "hls__xssyub0f_1661922996075_0",
   :block/created-at 1661994783902,
   :block/updated-at 1661994783902}
@@ -257,6 +267,9 @@
  {:block/name "in-progress",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
+ {:block/name "information risk insights study 2020",
+  :block/created-at 1664502991298,
+  :block/updated-at 1664504380396}
  {:block/name "injection-attacks",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
@@ -362,9 +375,27 @@
  {:block/name "sep 18th, 2022",
   :block/created-at 1663544410586,
   :block/updated-at 1663544410586}
+ {:block/name "sep 19th, 2022",
+  :block/created-at 1663614056865,
+  :block/updated-at 1663614056865}
  {:block/name "sep 1st, 2022",
   :block/created-at 1662004803724,
   :block/updated-at 1662004803724}
+ {:block/name "sep 20th, 2022",
+  :block/created-at 1663646436840,
+  :block/updated-at 1663646436840}
+ {:block/name "sep 26th, 2022",
+  :block/created-at 1664203064778,
+  :block/updated-at 1664203064778}
+ {:block/name "sep 27th, 2022",
+  :block/created-at 1664251204541,
+  :block/updated-at 1664251204541}
+ {:block/name "sep 28th, 2022",
+  :block/created-at 1664337604503,
+  :block/updated-at 1664337604503}
+ {:block/name "sep 29th, 2022",
+  :block/created-at 1664424004516,
+  :block/updated-at 1664424004516}
  {:block/name "sep 2nd, 2022",
   :block/created-at 1662091203722,
   :block/updated-at 1662091203722}

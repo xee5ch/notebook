@@ -1,0 +1,178 @@
+#+file-path: ../assets/IRIS2020_cyentia_1664503009673_0.pdf
+#+file: [[../assets/IRIS2020_cyentia_1664503009673_0.pdf][IRIS2020_cyentia_1664503009673_0.pdf]]
+#+title: hls__IRIS2020_cyentia_1664503009673_0
+
+* There are surprisingly few songs about risk-based decision making and the knowledge required to do it well.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 63364d03-c669-459f-b0b9-e931c078e9e7
+:END:
+* Our analysis of those events yields important lessons—and baseline model inputs—about the frequency and impact of breaches to organizations of all types and sizes. We’ve included some of those findings on the next page, but they’re just a taste of what’s in store in the pages that follow.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 63364d2c-79a0-42b6-9ab7-a7cbc17d192d
+:END:
+* IRIS 20/20 Key Findings
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 63364d40-4103-46a8-b058-ef2ad34a2418
+:END:
+* Based on these frequency and loss estimations, we assess that there’s a 6% chance that a Fortune1000 firm will lose $100M or more in a 12-month period due to cyber events.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 63364d72-a3a9-445d-8d29-7d28612ca028
+:END:
+* A quick web search will find many definitions of risk, and we’re not going to attempt to pick just one or proffer yet another. While definitional variations abound, most agree at some level that risk involves the frequency and impact of adverse events. Thus, information risk deals with the occurrence and cost of events that adversely affect information systems.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 63364d8c-d2ca-41df-9949-495934a1b029
+:END:
+* This dataset is widely used, with three features that make it ideal for this research: 1) It is the most comprehensive list of historical cyber incidents we’ve found.2) It tracks losses publicly disclosed in the wake of those incidents. And 3) it includes supplemental firmographic information on the organizations affected by cyber events and the broader economy. Additional information about Advisen’s Cyber Loss Data and our analysis of it can be found in the Methodology & Firmographics section.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 63364daf-59af-4d81-9a21-0e1069709c55
+:END:
+* irst, some firms had multiple breaches during the timeframe. Second, cyber events are not an annual event for most firms. We’ll expand on the first point now and pick up the second in the next section.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 63364dd7-4233-4341-b8f1-babbb2999c82
+:END:
+* Calculating the probability of a firm experiencing a breach requires that we have a reliable estimate of the total number of firms operating in our target population. Obtaining that on a global basis, where firms constantly appear/disappear and the availability/validity of statistics varies from country to country, is difficult to say the least. As a proxy, the Fortune 1000 offers a very well-defined population of organizations to study. Later we will apply the techniques introduced here to the larger population beyond the Fortune 1000.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 63364e00-fc7e-4973-ac80-7f5d660505ea
+:END:
+* Looking at breach rates across prior years is interesting for establishing trends, but we’ve yet to see an organization make risk decisions according to a strict Gregorian calendar. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 63364e32-29ea-4707-8bab-15f099b42093
+:END:
+* his means the largest organizations are not only more likely to have a breach; they’re also much more likely to have larger numbers of breaches. Breach frequencies for firms in the lowest tier of the Fortune 1000 drop quickly at first but then level off. They have about the same chance of having six incidents as having 10.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 63364e89-a887-4e00-86c8-ac9f35e8514e
+:END:
+* The overall likelihood of a publicly disclosable event at any given firm is low, but there is significant variation among sectors. The public sector has far and away the highest rate, with administrative, information, financial, and management sectors following.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 63364ed5-0dc7-411c-b20e-eb0c6f6cd9f6
+:END:
+* Circling back to the comparatively high breach likelihood shown for the public sector, some explanation is warranted. It’s tempting to conclude that government agencies must be way more vulnerable (or attacked) than all other organizations. But stricter breach reporting requirements and transparency efforts are a more likely explanation. Supporting this hypothesis, Verizon’s Data Breach Investigations Report consistently shows a much larger number of incidents for the public sector since US-CERT began contributing statistics they collect from agencies.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 63364ef6-d08b-48aa-b0af-69ee8943955d
+:END:
+* But we’ll leave you to choose your own adventure instead. Do keep in mind that industry classifications, regulation, reporting requirements, and data collection all have major effects on these results.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 63364f29-aee4-47b1-bc66-575cb226d104
+:END:
+* Not only are the biggest firms much more likely to have a breach, but Table 3 shows their expected number of events in a year is much larger too. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 63364f5b-63b3-4e07-b0fb-9f4096ea50da
+:END:
+* All in all, it appears that each ten-fold increase in a firm’s revenue brings approximately a ten-fold increase in the frequency of cyber events. It seems too easy to the point of being cliché to quote Biggie 6 on this one, but we’ll do it anyway: “It’s like the more money we come across, the more problems we see.”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 63364f77-d268-4312-aa25-ce5749229967
+:END:
+* It’s clear that Figure 8 is not the classic bell-shaped “normal” distribution you may remember from Statistics 101. The vast majority of breach losses occur at the lower end of the spectrum and we see a long tail of rare-but-extreme values extending to the right. T
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:id: 63364fcb-5b6d-4a9b-ac8c-ccc392039696
+:END:
+* That tells us something very important about breach losses: They follow a lognormal distribution. 8
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:id: 63364ff4-57f0-42a7-a9b7-c09203e0cf82
+:END:
+* Again, that inflated mean results from a relatively small number of extremely large loss events that simply don’t reflect the magnitude of a typical breach. This is why FUD-mongers love touting the average loss rather than the median or geometric mean (and rarely show more than one statistic).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 6336501f-5015-45fd-bf7d-b852b2bfca75
+:END:
+* There’s a long history of efforts to establish a “cost per record” for data breaches. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 6336503b-755e-4a0d-9023-fa9e473b2d4e
+:END:
+* So there is evidence that larger breaches cost more, but it’s definitely not a linear relationship. That means the popular method of multiplying the number of records times an average cost won’t yield valid estimates. Let’s examine why such a calculation simply doesn’t hold water.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 63365071-5b62-47a6-905e-9c46e7ee4235
+:END:
+* The Ponemon report clearly states that their cost-per-record metric does not apply to breaches over 100K records, but that doesn’t stop numerous people from abusing it. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 633650c1-be20-4b9a-8852-2c3414895987
+:END:
+* This makes it easier to see, for instance, that predicted losses using the Ponemon model routinely exceed actual losses by $10M and those overestimates stretch upwards of $100B for a single loss event!
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:id: 633650f3-84fb-403b-b529-b7dd05208c46
+:END:
+* record count does meaningfully contribute to a proper loss model that includes other factors.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:id: 6336511e-9489-4fe3-871a-b54838aa5cb3
+:END:
+* Whereas the frequency of cyber events rises in concert with corporate rankings, the average impact of those events does not appear to exhibit the same predictable trend. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 21
+:id: 6336515f-26d4-4488-ad4f-6338e0369efd
+:END:
+* Moving downstream from the Fortune 1000, we do see a more apparent (but not surging) upward trend in typical losses with increasing revenues. Firms under $1M in revenues generally report losses below $100K. The cost of the average cyber events doesn’t exceed $200K until revenues climb above the $1B line. After that, typical losses look more or less similar to one another and to the pattern we saw for the Fortune 1000.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:id: 6336517d-f72d-4fde-ab3e-45e6aa5ddfcc
+:END:
+* While the extremity of losses do indeed grow with organization size, their relative impact does not. It’s difficult to do the proper math with the revenue ranges provided, but a rough estimate will demonstrate the point. A $100B enterprise that experiences a typical cyber event ($292K) should expect a cost that represents 0.000003% of annual revenues.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:id: 633651b4-26eb-4a5a-b5ee-6c3ea15a96c0
+:END:
+* As we consider the findings presented in Figure 17, the financial sector strikes us as a bit odd. One might assume that financial firms would bleed cash after a breach, but that doesn’t seem to be the case. They apparently curtail losses quite well, despite being among the sectors most likely to suffer a breach. We suspect their long history dealing with risk and regulation helps them mitigate loss events better than the average organization.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:id: 633651f7-5573-475f-9c87-ce1032b8b78e
+:END:
+* One way of getting to the bottom line for risk managers is to create something called an exceedance probability curve (EP Curve) or loss exceedance curve (LEC). We’ll use the latter term since it seems to be more common in the domain of cyber risk.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 24
+:id: 63365211-3c9d-4be8-b79b-c56bbb2e88ce
+:END:
+* Wondering how to create your own LECs?
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 24
+:id: 63365235-aa87-489e-9c09-35cfdf8ab4e5
+:END:
