@@ -1,0 +1,142 @@
+#+file-path: ../assets/weis22-gandal_1664501826588_0.pdf
+#+file: [[../assets/weis22-gandal_1664501826588_0.pdf][weis22-gandal_1664501826588_0.pdf]]
+#+title: hls__weis22-gandal_1664501826588_0
+
+* Using the survey, in this paper, we empirically examine whether security precautions adopted by firms do in fact reduce the chances of being attacked. We find that using four basic security precautions reduces the probability of experiencing a cyber incident from 69% to 21%.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 63364867-478a-485f-8496-26e45385189a
+:END:
+* Firms focus on frameworks such as NIST CSF, COBIT and ISO 27001 that emphasize the process of implementing various controls, without regard to their effectiveness
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 63364882-137e-4b67-9904-801a0a9e7b97
+:END:
+* This is understandable since the relationship between making security investments and avoiding cyber incidents depends on multiple factors, including target value and attacker strategy, each of which exhibits randomness
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 633648a0-ea5b-4e1f-89e1-58b64aeb20f3
+:END:
+* A huge problem with empirical work on this topic is that the timing of security investments is unknown.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 633648c1-26fc-4d52-9e73-91ce204ed463
+:END:
+* it is very likely that firms for the most part became aware of the document and responded to it (by implementing or not implementing the guidelines) prior to the 12 month period (2019-2020) for which incidents were reported in the survey. This is because implementation of he four basic cybersecurity precautions we employ in this paper is simple and fairly straightforward and takes a relatively short amount of time. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 633648ff-3539-45ba-a681-7b16a9baea2c
+:END:
+* we find that the estimated coefficient on security precautions is (not surprisingly) positive and statistically significant.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6336491e-5994-4b88-8e1e-8fd8763b8fa1
+:END:
+* Strong password policy (e.g. periodical password reset, minimum password length policy, requiring combination of letters, numbers and characters)• Keeping systems up-to-date per manufacturer’s recommendation, or at a more frequent rate• Having multiple updated backup copies, with one offsite and usually offline• Means of detecting and responding to malware at endpoints and servers (e.g. antivirus system)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 63364938-be95-4936-b43a-812adff37f7c
+:END:
+* This is because, like all surveys, the CBS survey relies on self-reports of cyber incidents. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 63364949-3671-4d91-9c71-aca37ac02242
+:END:
+* But there is a “disconnect” between acknowledgement of the problem and action to address the problem. What is the relationship between vulnerabilities, preventive measures, and security incidents, like being targeted by ransomware or experiencing a data breach? Surprisingly little is known about the relationship among these variables, 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 6336498b-48a2-499e-9a4a-3bb13b6817dd
+:END:
+* One key reason why this knowledge gap exists is that the firms themselves do not try to measure these relationships. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 63364996-7810-4674-9a5b-aca1b151f40a
+:END:
+* First, there is an inherent information asymmetry about the quality of security products and services [1, 2].
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 633649b3-f219-4b15-82b7-29652a2193c4
+:END:
+* Second, the relationship between spending on security controls and expected losses is not direct
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 633649ca-82c4-4f21-aa79-463c6c284a6e
+:END:
+* Third, we lack reliable estimates of the costs resulting from cyber attacks.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 633649d3-8868-4a40-8929-56c6afcb1a57
+:END:
+* urthermore, a number of risk-rating services have appeared (e.g., offerings from SecurityScorecard, QuadMetrics, and BitSight) that commercialize the results found by researchers.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 633649f6-71d5-4a89-a262-50cabc9e2804
+:END:
+* These cases showed that, while the metrics can often predict breaches, the underlying causal factors remain unknown.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 63364a05-4fb7-47b4-b2f2-d17750d51563
+:END:
+* Data remains with the CBS; only the outputs of the statistical scripts that were cleared for public disclosure are available to authors.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 63364a49-1c0b-43f8-9159-50642031defb
+:END:
+* e will evaluate how technological dependence, employee headcount, industry headcount, ecommerce presence, etc. affects susceptibility to compromise. This is important because we will be able to shed light on (for example) which sectors are more likely to be targeted and successfully compromised.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 63364a5d-de3b-4dd3-897b-a311ca7f5bd3
+:END:
+* here is a particularly high incidence of cyberattacks in high-tech industries
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 63364a85-4fca-4b5e-b08f-ba026b0e65bc
+:END:
+* Small (10–49 employees) and medium-size firms (50–249 employees) implemented on average significantly fewer of the twenty security measures than did the large firms.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 63364a94-3e3c-411c-9a48-4d74d3093260
+:END:
+* ortunately we have an exogenous instrument for security precautions from the survey: The instrument is “implementation” which is a dummy variable that takes on the value one for those enterprises that report awareness of the cyber directives and instructions and full implementation of the directives.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 63364ae7-7b35-4409-96df-6671fa5decdc
+:END:
+* In the second regression for each of the two different variables for cybersecurity precautions, we do instrument for the cybersecurity precaution variable using the implementation variable. Table 1 shows that in such a case, the estimated coefficient on cybersecurity precautions in negative and statistically significant. This means that other things being equal, employing security precautions reduces the probability of a cybersecurity incident.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 63364b1a-2fdb-4eb5-b61f-86a36908da35
+:END:
+* Additionally, Table 1 shows that high-tech firms, international firms, firms that use cloud services, and firms that use information about visitors’ behavior on its website are more likely to suffer an incident than other firms - and that the effects are statistically significant.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 63364b2a-6274-4548-bd6f-f1d963906e97
+:END:
+* Additionally, more work is needed to connect the experience of cybersecurity incidents with the harm they cause (i.e., the right side of the causal model in Figure 1). Establishing such connections is hard for many reasons, including that fewer firms suffer harmful attacks and most cannot readily quantify the harms imposed.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 63364b55-0da8-4428-8658-5e9ca08382ef
+:END:
