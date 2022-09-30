@@ -239,6 +239,9 @@
  {:block/name "hls__iris2020_cyentia_1664503009673_0",
   :block/created-at 1664503043688,
   :block/updated-at 1664503043688}
+ {:block/name "hls__ist-ransomware-task-force-report_1664504652835_0",
+  :block/created-at 1664504778071,
+  :block/updated-at 1664504778071}
  {:block/name "hls__kuerbis-badiei_1661620398101_0",
   :block/created-at 1661620464645,
   :block/updated-at 1661620464645}
@@ -357,6 +360,10 @@
  {:block/name "python",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
+ {:block/name
+  "ransomware task force combating  ransomware recommendations",
+  :block/created-at 1664504638246,
+  :block/updated-at 1664512572298}
  {:block/name "ricardo iramar dos santos",
   :block/created-at 1643782701140,
   :block/updated-at 1643782701140}
@@ -399,6 +406,9 @@
  {:block/name "sep 2nd, 2022",
   :block/created-at 1662091203722,
   :block/updated-at 1662091203722}
+ {:block/name "sep 30th, 2022",
+  :block/created-at 1664510402490,
+  :block/updated-at 1664510402490}
  {:block/name "sep 3rd, 2022",
   :block/created-at 1662177601640,
   :block/updated-at 1662177601640}

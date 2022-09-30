@@ -1,0 +1,280 @@
+#+file-path: ../assets/IST-Ransomware-Task-Force-Report_1664504652835_0.pdf
+#+file: [[../assets/IST-Ransomware-Task-Force-Report_1664504652835_0.pdf][IST-Ransomware-Task-Force-Report_1664504652835_0.pdf]]
+#+title: hls__IST-Ransomware-Task-Force-Report_1664504652835_0
+
+* To shift these dynamics, the international community needs a comprehensive approach that influences the behavior of actors on all sides of the ecosystem, including deterring and disrupting attackers, shoring up preparation and response of potential victims, and engaging regulators, law enforcement, and national security experts. We also need international cooperation and adoption of processes, standards, and expectations.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 633653ca-1acf-4c4b-83dd-56f554b9be24
+:END:
+* Priority recommendations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 633653dc-3216-4b7e-9bdd-59e363c0f2e7
+:END:
+* The costs of ransomware go far beyond the ransom payments themselves. Cybercrime is typically seen as a white-collar crime, but while ransomware is profit-driven and “non-violent” in the traditional sense, that has not stopped ransomware attackers from routinely imperiling lives.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 6336542d-cb2b-445e-bed2-867992df50a6
+:END:
+* Government policy choices regarding ransomware should focus on this critical threat: statistical analysis reveals that ransomware-driven delays in care in these healthcare systems invariably contributes to a loss of life due to the inability of patients to receive timely care.11
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 63365468-b617-4e29-926b-4528bbaf4b6d
+:END:
+* Reported ransomware payments do not cover the costs associated with service downtime and recovery.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 633654b2-5392-4269-99fd-95bc8a484ef5
+:END:
+* in the United States for example, firms that pay ransoms (and their facilitators) may find themselves in violation of regulations imposed by the Office of Foreign Assets Controls (OFAC).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 633655ca-99b4-45ca-9cd8-afbcde97fc57
+:END:
+* The challenge is that not all cyber insurers are at the same level of sophistication, and some may even view a lack of security baseline requirements to be a unique selling proposition. Given the prevalence and cost of ransomware claims, 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 633655f9-21f5-4e46-a98f-9f8f1c174f23
+:END:
+* Reducing the ransomware threat will require global cooperation due to the highly decentralized nature of cryptocurrency, dispersed nature of the criminal networks involved, the internet’s basic infrastructure, and the differing legal and regulatory regimes around the world.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:id: 6336563b-5540-4e6b-bad0-5b1ece568a98
+:END:
+* In 2020, two-thirds of the ransomware attacks analyzed by cybersecurity firm Group-IB were perpetrated by cyber criminals using a RaaS model. 36 This “as a service” model follows similar evolutions in the mainstream software and infrastructure industries, which have seen success from “software as a service” and “infrastructure as a service” business models.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 6336567a-2140-4087-b12b-a4e3320bdee7
+:END:
+* Many ransomware criminals operate with impunity, as their countries’ governments are unwilling or unable to prosecute this form of crime. In other cases, the organizations executing ransomware attacks may be state-sponsored, and may in fact be helping nations evade economic sanctions
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 63365698-3f49-44f5-b475-885c44496180
+:END:
+* The U.S. The Dutch National Police, Europol, McAfee, and Kaspersky Lab founded an initiative called“No More Ransom”, which provides decryption keys, information on ransomware, and preventative advice, and has done so for years.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 633656f2-a8b5-4ea1-a141-dd96b2c8a992
+:END:
+* The framework is organized around four goals: deter ransomware attacks through a nationally and internationally coordinated, comprehensive strategy; disrupt the ransomware business model and reduce criminal profits; help organizations prepare for ransomware attacks; and respond to ransomware attacks more effectively.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:id: 63365709-af07-48dc-a302-c515776c837f
+:END:
+* While the Ransomware Task Force involved participants from around the world, the majority of members were based in the United States and were primarily familiar with the U.S. legal and policy landscape. As a result, and to help ensure our recommendations are specific and actionable, the findings and recommendations detailed in this report have a decidedly U.S.-focused lens. However, we believe many of the recommendations can and should also be translated to other jurisdictions.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:id: 63365724-6f3a-453c-a2b5-a9ed5aa2b856
+:END:
+* Using existing high-level forums (such as the G7, G7 Finance Ministers, G20, Interpol, Europol, and others51), senior-level officials and ministers from major nations should agree to one or more joint declarations condemning ransomware as a national security concern and/or a threat to critical infrastructure, and commit to pursue ransomware actors. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 21
+:id: 63365772-10d0-442b-b273-ca10e06a008b
+:END:
+* The U.S. Government should lead the development of a network of ransomware investigative hubs across the globe, including by leveraging cyber assistant legal attachés (ALATs) and International Computer Hacking and Intellectual Property (ICHIP) lawyers. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:id: 63365797-2bd7-436f-8f07-029b9f429539
+:END:
+* The Ransomware IWG will also help ensure that intragovernmental conflicts can be escalated efficiently through the White House policy-coordination and national security decision-making process. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:id: 633657ca-9be6-4d0f-9103-73da8a7d80dc
+:END:
+* Proposed Framework for a Public-Private Operational Ransomware Campaign
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 25
+:id: 63365806-d647-44ce-a54e-fce95505659f
+:END:
+* Nations should exert pressure on other nations that refuse to take action against ransomware criminals. These strategies could include economic and trade sanctions; constrain “safe haven” country activity in international financial markets
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:id: 63365854-f52c-418d-830b-58f0f7972a44
+:END:
+* Lawmakers need to pursue and enforce consistent licensing and registration requirements for cryptocurrency exchanges, crypto kiosks, and OTC trading desks where criminals “cash out” their cryptocurrency from ransomware payments. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 29
+:id: 6336588d-7b29-4ff8-aeb9-52313d09eb2c
+:END:
+* Traditional financial institutions that fund these entities should also impose stricter rules.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 30
+:id: 633668e0-fcb5-4ef1-be26-df2096eb2052
+:END:
+* Many insurers currently maintain individual subrogation units, but these do not typically act within the context of ransomware.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 31
+:id: 63366931-6a7c-4861-bcef-6b7b512ab443
+:END:
+* empowers an insurer to pursue the rights of the insured to recover the amount of a loss from the parties who are legally liable for it. Subrogation thus serves to make both victim and insurer“whole” in the event of a civil recovery.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 31
+:id: 63366950-8f82-4456-ac41-60aa5bcb396c
+:END:
+* his infrastructure may include malicious servers used to facilitate or conduct attacks against victims. If a service provider is tipped to malicious infrastructure, it should be able to take action against the infrastructure without fear of legal liability.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 33
+:id: 6336699a-cfe6-4fe6-a439-e37c9f647308
+:END:
+* The government should increase the sharing of intelligence about ransomware actors with the private and nonprofit sectors, including key data points that specifically lead back to the threat actors. Such information could include threat actor personas, tradecraft, and attribution (including roles and responsibilities); behavioral tactics and techniques; and related technical information (i.e., indicators of compromise). 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 33
+:id: 633669c1-fd70-4541-b25b-97b187c62089
+:END:
+* Guides and technological tools to mitigate ransomware are currently available; however, many are insufficient, overly simplified, or too complicated, and the general level of noise surrounding this problem is confusing and problematic.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 35
+:id: 63366a6c-0fcb-4688-8380-1dac3f8dd373
+:END:
+* t that time, the U.S. National Institute of Standards and Technology (NIST) led a multi-stakeholder process to develop the Framework for Improving Critical Infrastructure Cybersecurity. This framework has been widely adopted by organizations around the world and serves as a foundational cybersecurity risk management resource.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 35
+:id: 63366a99-e09d-4fcb-b816-5e45f8e749f8
+:END:
+* The ransomware-specific framework should also identify what approaches are most successful in dealing with ransomware and why. The framework should identify what constitutes a reasonable due diligence review prior to payment, consistent with actions 4.1.1 and 4.1.2, which address the creation of ransomware emergency response authorities and a ransomware response fund.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:id: 63366ab7-62d7-41d3-8aef-c794bd338411
+:END:
+* Second, a nonprofit entity, such as the Cybercrime Support Network, should collect and maintain a reference library of decision aids and best practice guides for responding to a ransomware attack. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 63366aec-ce2a-4574-95c1-1892cb1d560f
+:END:
+* A government-backed awareness campaign will not only help raise the profile of ransomware as a serious business issue, but it will also increase the credibility and need for focus among busy organizational leaders.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 63366b1d-4de0-4d2e-b565-a0daab12b3cf
+:END:
+* Regulations and standards related to cybersecurity vary widely, and in most cases do not specifically address ransomware. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:id: 63366b3e-7e8d-4669-bc16-7d2747889802
+:END:
+* MSPs do not commonly provide extensive security coverage or ransomware mitigations, but doing so would likely create widespread positive impact for small-to-medium-sized organizations.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 40
+:id: 63366b7f-7426-4b8e-8406-65ed12273668
+:END:
+* as when FEMA identified cybersecurity as a “priority area” in2018 for the largest DHS preparedness grant, and required fund recipients to spend at least 5% of their funds on cybersecurity for critical infrastructure.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 40
+:id: 63366ba8-c0eb-411e-bf55-d70bdf7e01c2
+:END:
+* A recent amendment to the HITECH ACT68 requires the U.S. Department of Health and Human Services, when considering whether an entity should be fined for a HIPAA Security Rule-related violation, to consider the extent to which the entity has demonstrated alignment to an established risk management framework. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 41
+:id: 63366bce-393c-430b-ac48-a43699d0a0dd
+:END:
+* A cyber-disaster authority would enable federal agencies to assist victim organizations and local governments, as well as make other resources available, such as incident response support and forensic analysis
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:id: 63366bf9-eb60-4b36-bd3a-7d95cb5f3b20
+:END:
+* This approach would be similar to the Terrorism Risk Insurance Program, which “provides for a transparent system of shared public and private compensation for certain insured losses resulting from a certified act of terrorism.” 7
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 43
+:id: 63366c21-d0c6-452c-812d-f0a6cc5da83c
+:END:
+* n the United States, the Treasury Department’s guidance on ransomware payments essentially requires organizations to consult with the Department if they want to pay the ransom.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 43
+:id: 63366c43-3ff7-4ef6-80d0-37885d15f68c
+:END:
+* For example, the U.S. Treasury Department has indicated that ransom payments could violate sanctions against certain individuals or organizations. Treasury’s guidance also indicates that organizations can be held strictly liable for such payments, which means they can be punished for sanctions violations, even if they were unaware
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 43
+:id: 63366cae-0e41-45ff-84c6-b898de6b9a8b
+:END:
+* While everyone agrees that ransomware is a significant problem, there is a lack of reliable, representative data about ransomware’s scope and scale.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:id: 63366d05-9f71-451e-800a-9368936c188b
+:END:
+* To implement this action, the Task Force recommends the creation of the Ransomware Incident Response Network (RIRN). The RIRN would serve several functions, including facilitating receipt and sharing of incident reports, directing organizations to ransomware incident response services, aggregating data, and sharing or issuing alerts about ongoing threats.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:id: 63366dbd-6cab-4e1e-8464-e83f5fa7424c
+:END:
+* In order to reduce the burden of ransomware reporting while increasing its utility for recipients, a standard ransomware incident report format should be developed through a multi-stakeholder process. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:id: 63367141-de90-49cf-9794-ac55a3ed38c1
+:END:
+* Creating such a standard format would also make aggregating and anonymizing reports easier.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:id: 63367164-05ed-434e-a98f-979e28ba0906
+:END:
+* This mandate should require organizations to report directly to a non-regulatory government agency. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:id: 633671a1-ab2f-46cc-8ae4-0d9bd1afb269
+:END:
+* The Task Force recommends that national governments require organizations to conduct a cost-benefit analysis prior to making a ransom payment. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:id: 633671d6-fd5c-4dca-9571-218d56c4f47e
+:END:
+* Many organizations would benefit from having a standard analytic matrix to carry out this task. However, most existing decision guides do not explicitly tackle this question and clearly lay out the various cost factors. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:id: 633671f2-b388-4ed2-bdb4-5fed5dcc1c5f
+:END:
+* This means they will focus on countries or sectors where governments have not implemented the same policy or are unable to provide a safety net for victims. Even in jurisdictions that offer support for critical entities, organizations that do not qualify for this support may instead pay the ransom without disclosing the incident. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:id: 63367225-a6aa-4875-8261-b3662938555b
+:END:
+* With all these pragmatic considerations in mind, the Ransomware Task Force did not reach consensus on prohibiting ransom payments, 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:id: 63367237-831b-44f3-962f-16203778b2b1
+:END:
