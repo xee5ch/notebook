@@ -1,0 +1,34 @@
+#+file-path: ../assets/rtf-progress-report-may22-1_1664540941470_0.pdf
+#+file: [[../assets/rtf-progress-report-may22-1_1664540941470_0.pdf][rtf-progress-report-may22-1_1664540941470_0.pdf]]
+#+title: hls__rtf-progress-report-may22-1_1664540941470_0
+
+* One week after the RTF published its report, the United States suffered its most high profile ransomware attack against its critical infrastructure when the DarkSide criminal group attacked the Colonial Pipeline Company,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 6336e150-16c2-4e02-88f4-7b7060b0520e
+:END:
+* Despite substantial focus and effort from governments and other institutional leaders, supported and championed by the RTF, the full impact of these actions has not yet been seen and there is more to be done. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 6336e18d-f978-442c-91d9-4ad3e4a30a94
+:END:
+* A great deal of ransomware activity has long originated from former Soviet Union nations, and the current Russia/Ukraine conflict is likely to exacerbate this trend as sanctions, withdrawal of Western businesses, and other downstream economic effects of continuing warfare force people to seek new opportunities to make a living.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 6336e1d9-d025-490a-b375-50da7396b136
+:END:
+* A notable development has been Contileaks,16 a huge cache of information leaked describing the inner workings of the team behind the prolific Conti ransomware, which was used in the HSE attack.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 6336e1f2-74a7-4e4c-bb98-543a9a92b86d
+:END:
+* Status of the Ransomware Task Force’s Recommendations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 6336e21a-c11b-4ff3-b604-e787a0be3fef
+:END:
