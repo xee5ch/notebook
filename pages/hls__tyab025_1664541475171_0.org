@@ -1,0 +1,304 @@
+#+file-path: ../assets/tyab025_1664541475171_0.pdf
+#+file: [[../assets/tyab025_1664541475171_0.pdf][tyab025_1664541475171_0.pdf]]
+#+title: hls__tyab025_1664541475171_0
+
+* We began with a qualitative study where we captured security and policy experts’ perceptions of PKI in a set of interviews. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 6336e33e-69e5-4c1d-bfba-3a3738be5555
+:END:
+* we conducted a quantitative analysis of real-world PKI incidents on the web since 2001. Our data comprise reports from Bugzilla, root program operators, academic literature, security blogs, and the popular press. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 6336e36b-aa9b-4a60-aa45-d884951fa37c
+:END:
+* We conclude that there are significant sources of failures of PKI that neither the usability nor traditional computer security community is engaging, nor can arguably engage separately. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 6336e37f-701d-4ff2-862f-d4b008f693ab
+:END:
+* We found that experts identified weak cryptography and software bugs as the major and well-known sources of error. However, in reality, the primary cause of certificate failures is CAs’ misinterpretation of baseline requirement (BR).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6336e3b7-2e4e-4810-88fd-24e16c10b6a3
+:END:
+* We found that violation of the BRs is the cause of 57% of realworld incidents.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6336e3d6-081a-4e29-9ea4-87ede79768e2
+:END:
+* there are increasing numbers of devices and applications, such as the Internet of things (IoT), with limited user interaction. In these cases, the decision to trust a CA is not made by those who interact with the remote services. It is made by RPOs and device manufacturers. Yet the Root Programs were designed for a very different environment, as reflected by the name of the governance body: the CA Browser Forum.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6336e409-78f8-4bb1-85c1-1e7e77d12014
+:END:
+* to identify the existing gaps between real cases of PKI incidents and the perceptions of risks and failures in PKI by the experts. We find a significant disconnection between these two. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6336e73c-3413-4ab3-891b-779b6764a749
+:END:
+* In Park’s study of PKI adoption in South Korean, he concludes that technical excellence was not what led to the success of creating widespread trust. Rather, the concentration of root authority and the use of a single, widely trusted platform enabled widespread adoption of a national infrastructure 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 6336e7b1-30b2-49f3-94e7-ae39c44737ad
+:END:
+* For example, the response to the massive exposure of private keys resulting from HeartBleed was underwhelming. Few certificates were renewed before they expired.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 6336e869-bc38-4f63-ba82-98e9b50af09f
+:END:
+* n addition, we observed disagreements between the policymakers and applied technologists at the previous Chatham House rule workshop, particularly about the frequency and modes of failure
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 6336ea06-2644-4b3d-9c58-761942e47e73
+:END:
+* We eliminated the response from one participant because the policy expert answered every question with some hostility (e.g. every answer was “I do not know”).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 6336ea55-12f2-4b4e-a3eb-856caaf9da29
+:END:
+* Findings: overview of experts’ perception of PKI failures
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 6338360a-756f-432f-812c-e6d308965926
+:END:
+* Missing certificate
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 6338361b-f120-47eb-8abd-d78e3b61636b
+:END:
+* Certificate expired
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 63383626-9994-45ed-a362-5cb1a164c125
+:END:
+* Valid certificates with invalid facts
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 63383643-e436-42fa-8be0-226735b0a788
+:END:
+* Corrupted certificate authorities
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 63383655-8378-498a-b450-7cf95302fd0b
+:END:
+* Experts’ recommendations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 6338366b-0e06-4211-bf12-913f067d88f5
+:END:
+* The goal was to create a transitive relationship where a group of manufacturers and technology providers can trust each other because they have all made verified commitments to the same principles and are audited by the same parties.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 6338367f-f68b-4f27-9dd7-e17b6f9ef909
+:END:
+* more than one technologist proposed that government bodies or NGOs should be involved in the PKI process to eliminate the occurrence of rogue certificates and problematic CAs.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 6338369a-9b14-4383-a32c-f895d34cafbe
+:END:
+* Policymakers indicated that this is a technical problem of usability and risk communication of attestation. One policymaker said, “be careful not to create more problems while innovating.”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 633836b1-c065-4109-9b7b-acc0d7608150
+:END:
+* After developing codebooks, we sought the similarities between the technologists and policymakers. There was nontrivial disagreement, as noted above, where each had recommendations for the others.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 633836c7-627c-4a95-b49a-f8c641671cb5
+:END:
+* Rather than a statistical analysis, this represents a summary consensus of the experts. The suggestions for future development are as follows:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 633836df-ad4d-43cb-8c48-3ff488bd2dc1
+:END:
+* For each incident, we include the following data fields:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 63383728-5c47-4aff-b1d7-963c6822ec41
+:END:
+* Findings: comparing real-world PKI failures vs experts’ perceptions
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 633837ad-2ca7-4a55-8f89-5cf53d8e4a52
+:END:
+* We initially sought to weigh the harm done by each incident but found this infeasible. It is because not all failures are equally harmful. For example, backdating a certificate is somewhat trivial for operational purposes but is dangerous when used to keep weak cryptography in the field. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 633837c2-3cec-467b-aff5-561e394dc608
+:END:
+* Common type of incidents
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 633837d9-6083-4b66-b530-a8a111c469ab
+:END:
+* Fields in certificates noncompliant to the BR
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 633837e9-9c0c-4e07-a43e-eb4e96faad75
+:END:
+* Audit report failures,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 633837f3-534a-4249-b43a-43165c34a4c3
+:END:
+* Non-BR-compliant revocation info
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 63383802-5e80-44df-9278-0ee2ea5de545
+:END:
+* Serial number failures
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 6338380e-b82a-4ee4-a508-d86103a49912
+:END:
+* Common causes of incidents
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 63383827-7585-4a77-9ec4-39301213ec10
+:END:
+* The interviews indicated an intense focus on the endpoint at the critical failure mode.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 63383836-09a8-441d-aea5-219e6acd8c6a
+:END:
+* Both policymakers and technologists perceive that failures are most likely to originate in the internet browser or server associated with a specific visit or service request. However, most parties assumed that the corresponding CAs correctly issued certificates to begin with. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 63383851-6d5d-4cb7-8732-c5d3b860e165
+:END:
+* In fact, our metadata analysis indicates that the most common cause of real-world failure is CAs’ misinterpretation/unawareness of BR.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 63383862-0e45-475f-b7ce-5911f71362e8
+:END:
+* The second most common cause was Software Bugs, which was identified as the primary cause of 87 incidents.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 6338386e-5961-40af-9f55-752618132d5c
+:END:
+* Another severe cause worth mentioning is Business model/CA decision, which was identified as the primary cause of 69 incidents. In this situation, the CAs decide not to comply with the requirements set by the RPOs and the CA/Browser Forum. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 63383882-88ae-4af7-96e5-27b4735413fa
+:END:
+* As a major point of agreement, our metadata analysis shows that the issuance of rogue certificates is an unsolved problem. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 63383894-927e-4aa8-8b5e-b7ad204d5833
+:END:
+* ncidents caused by the Problematic Root CAs were more numerous and more likely to be associated with subCAs and intermediate CAs than other incidents. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 63383ab2-508b-4450-a4f7-a669406b6770
+:END:
+* Experts argued that CAs providing digital certificates for free is a significant source of rogue certificates. Their opinions were that these CAs had been associated with the issuance of certificates with malicious motivations behind them. However, in our metadata analysis, we identified 0 rogue certificate incidents associated with those CAs, which means they are not more unreliable than other CAs. For example, only 10 out of 557 incidents were associated with Let’s Encrypt, which has a very high self-reporting rate (70%). Within these 10 incidents, only 1 of them possibly resulted in a rogue certificate. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 63383aff-12d0-4cb7-bc34-1e0f26a86b6c
+:END:
+* Our analysis showed a trend of increasing transparency and selfreporting. Such disclosures are arguably a positive externality of the mandated use of “Certificate Transparency” in the issuance of digital certificates. Issued certificates are now publicly logged and monitored by third parties. The discovery of faulty certificates has been made both more likely and easier, particularly with the inclusion of different tools tailored to the analysis of the logs platforms (i.e. lints). 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 63383b20-d9a4-4f13-8483-d0f1dfe00a0b
+:END:
+* Even with increased transparency, the lack of disclosure practices by CAs remains an important contributor to reasons not to trust the current.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 63383b2d-b6ae-45f6-94ee-3a832acd9e4f
+:END:
+* Our results indicate a clear mismatch between experts’ perceptions and the causes of real-world PKI failures. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 63383b42-5002-44cd-b4a0-4eaa769864e1
+:END:
+* On the contrary, the metadata analysis of real-world incidents indicated that the major cause of PKI failures is the systematic problems with CAs. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 63383b4e-e0a5-4241-ab33-7f08e657ae0b
+:END:
+* In our interview, experts expected PKI to play a significant role in preventing phishing attacks. However, our metadata analysis indicated that the issuance of misleading certificates is one of the least solvable problems.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 63383d59-1826-4647-9c7e-655bf5fd0753
+:END:
+* All experts reported having visited malicious sites where no warnings appeared, and all participants visited legitimate websites that generated warnings. This result reflects that effective communication to users requires the differentiation of types of risk posed by the certificate.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 63383d8b-364f-40a5-a721-69c31ef69fd4
+:END:
+* Our metadata analysis identified CA’s Misinterpretation/Unawareness of BR as the most common cause of real-world failures, which experts did not realize in the interviews.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 63383da4-ef07-4263-876e-3cb9903d6cc1
+:END:
+* Our perceptions study also found that the actual requirements for CAs are not very well understood.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 63383ddb-a25c-48dd-a885-50782678bbd1
+:END:
+* When asked about what requirements should be implemented to regulate PKI and CAs in the future, none of our participants could provide a path forward. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 63383e0e-40dd-489e-9c18-703ae7951c57
+:END:
+* However, the BR recognizes that conflicts like these inherently occur; so, in BR Section 9.16.3, they address the discrepancies between the governance requirements of the BR and a country/jurisdiction regulation. Yet, there is no indicator or guidance for the individual operator either seeking a certificate or relying upon one. Second, intermediate and subordinate CAs may be under the direct governance of a parent root CA. In these cases, CAs in subordinate positions of the CA chain-of-trust must operate under root CAs’ guidelines and follow any stipulated requirement. Again, there are no clear indicators of this.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 63383e38-ee00-443c-a4ac-54081e144ee0
+:END:
+* One core and unexpected challenge was while the failure modes were the subject of much agreement, resolving these failures was identified as a technical challenge by policymakers and a regulatory challenge by technical experts.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 63383e75-b99b-4bb1-9747-7343effd02ca
+:END:
