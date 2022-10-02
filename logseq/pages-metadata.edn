@@ -246,6 +246,9 @@
  {:block/name "hls__ist-ransomware-task-force-report_1664504652835_0",
   :block/created-at 1664504778071,
   :block/updated-at 1664504778071}
+ {:block/name "hls__j.future.2020.02.002_1664632169994_0",
+  :block/created-at 1664632835347,
+  :block/updated-at 1664632835347}
  {:block/name "hls__kuerbis-badiei_1661620398101_0",
   :block/created-at 1661620464645,
   :block/updated-at 1661620464645}
@@ -286,6 +289,10 @@
  {:block/name "injection-attacks",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
+ {:block/name
+  "intelligent mobile malware detection using permission requests and api calls",
+  :block/created-at 1664631785996,
+  :block/updated-at 1664633689915}
  {:block/name "intrusion analysis",
   :block/created-at 1661481250962,
   :block/updated-at 1661481250962}

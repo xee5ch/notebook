@@ -1,0 +1,100 @@
+#+file-path: ../assets/j.future.2020.02.002_1664632169994_0.pdf
+#+file: [[../assets/j.future.2020.02.002_1664632169994_0.pdf][j.future.2020.02.002_1664632169994_0.pdf]]
+#+title: hls__j.future.2020.02.002_1664632169994_0
+
+* A recent study [12] indicated that the majority of Android malware is repackaged in other legitimate (popular) apps
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 63384803-057b-4710-b936-dc3e0a576059
+:END:
+* mobile malware authors download popular benign applications from the Google Play Store, decompile them, inject malicious content into them, and finally, reupload the injected apps in the third-party markets for user uptake.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 63384818-ae06-415f-8034-dcec3a51cad9
+:END:
+* Current anti-malware scanners are not effective against these evading techniques
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 63384823-7069-4980-9d61-0bfa507da1a8
+:END:
+* esearchers applied different obfuscation techniques in ten malicious apps from six different families, and they ran these new obfuscated binaries against 10 well-known anti-malware scanners. The result indicated that none of the anti-malware scanners could detect any of these malicious apps. With the large number of mobile applications, it is imperative to swiftly analyse and check the available applications
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 633848eb-4b71-4a1a-ba75-68bc9516f046
+:END:
+* This paper focuses on the permissions and frequency distribution of API calls in order to differentiate malicious applications from non-malicious applications. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 63384909-728f-4a54-837a-83a04fdf09f2
+:END:
+* To perform an in-depth analysis of different public and private packages, classes, and methods with the purpose of evaluating our proposed method in terms of the efficacy in dealing with large datasets and accuracy.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 63384917-6c1b-43b4-9f92-d8722dac9428
+:END:
+* List of Android permissions.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 63384930-c653-48ed-a199-26f3ce1284ad
+:END:
+* Google introduced the granting of dangerous permissions at runtime and shows the various categories of permissions. Google does not, however, deliver full documentation of the manner in which they classified those permissions as normal permissions or dangerous permissions.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 63384965-dffb-472d-aba7-e043878c8285
+:END:
+* have shown that some applications with no permissions can still access sensitive information, such as taking pictures in the background and recording keystrokes
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 6338497a-4da0-4f9d-b1a0-6d05cf7c2478
+:END:
+* A large number of requested permissions are actually not used within the application’s code itself but, rather, are required by the advertisement packages.– Malware can perform malicious behaviour without employing any permission [39].
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 63384998-4420-4837-82fa-9a4c16a52fcc
+:END:
+* 50 features of API calls, permissions, intents, and other attributes were extracted, such as command strings and the presence of embedded executables, using the Android package(APK) analysis tool. The authors collected a dataset of 13,805 malicious applications and 22,378 benign applications that were first seen in the period from 2012–2016.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 633849d8-202e-4bb6-a76c-059266d7eeaa
+:END:
+* o evaluate the detection accuracy over the time period, each of the machine learning algorithms was implemented in each of the four groups (2012, 2013, 2014 and 2015–2016). Their research findings demonstrated that the detection accuracy rate becomes much less accurate in distinguishing benign applications over the time period. The authors argue that some of the features could become less discriminative as more evasion techniques start appearing more frequently in malicious applications, thus making it challenging to extract the relevant features associated with malware apps. Hence, we focus throughout this paper on enforcing correlative strategies to isolate the most requested features of both API calls and permissions from the malware apps and then build a complex detection mechanism.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 63384a01-45ce-4060-8c37-f1c8fcbf4eba
+:END:
+* reference for these libraries is accessible from the ‘‘android.jar" in the Android SDK. Furthermore, our system is designed to find similarities and differences in a large set of apps rather than by comparing two Android applications.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 63384a62-895e-4d6d-abc0-6bf6784216d0
+:END:
+* The work of Karbab et al. [57] investigated the effectiveness of the raw sequences of API calls and deep learning techniques to detect malicious applications, and their tool is known as ‘‘MalDozer’’. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 63384abe-2123-451c-bb40-786b2ced1eff
+:END:
+* two types of datasets: (i) a benign dataset, which contains benign apps, and (ii) a malware dataset, which contains only malware apps. For the malware dataset, we leverage reference datasets, such as AndroZoo, Contagio, MalShare, VirusShare and VirusTotal. The total number of malicious apps in this dataset is 13,719; all of the malware dataset was scanned and flagged as malware by at least 10 anti-malware products in the VirusTotal.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 63384b06-da86-43d4-a599-54f4910f4a35
+:END:
+* A Python script has been developed to automatically execute and decompile the entire dataset as follows:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:id: 63384b56-5e29-4c54-bcfd-541cd1f10968
+:END:
