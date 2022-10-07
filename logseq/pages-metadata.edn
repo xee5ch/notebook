@@ -151,6 +151,9 @@
  {:block/name "digital policy, regulation, and governance",
   :block/created-at 1661620381761,
   :block/updated-at 1661626554436}
+ {:block/name "dmia: an ios malware detect system",
+  :block/created-at 1664676471358,
+  :block/updated-at 1664676854959}
  {:block/name "doing",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
@@ -205,6 +208,9 @@
  {:block/name "governance",
   :block/created-at 1661620434553,
   :block/updated-at 1661620434553}
+ {:block/name "guide for cybersecurity event recovery",
+  :block/created-at 1665107973089,
+  :block/updated-at 1665111546831}
  {:block/name "hack back: a diy guide",
   :block/created-at 1661733443743,
   :block/updated-at 1661998133693}
@@ -240,6 +246,10 @@
   "hls__cncf_kubernetes_policy_management_whitepaper_v1_1643492954114_0",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
+ {:block/name
+  "hls__dmia_a_malware_detection_system_on_ios_platform_1664676481731_0",
+  :block/created-at 1664676507119,
+  :block/updated-at 1664676507119}
  {:block/name "hls__iris2020_cyentia_1664503009673_0",
   :block/created-at 1664503043688,
   :block/updated-at 1664503043688}
@@ -255,6 +265,9 @@
  {:block/name "hls__m-22-18_1663544540689_0",
   :block/created-at 1663544595269,
   :block/updated-at 1663544595269}
+ {:block/name "hls__nist.sp.800-184_1665107980826_0",
+  :block/created-at 1665108033968,
+  :block/updated-at 1665108033968}
  {:block/name "hls__phineas_fisher_hackback_1661733458617_0",
   :block/created-at 1661997509845,
   :block/updated-at 1661997509845}
@@ -359,6 +372,15 @@
  {:block/name "oct 1st, 2022",
   :block/created-at 1664596800923,
   :block/updated-at 1664596800923}
+ {:block/name "oct 2nd, 2022",
+  :block/created-at 1664683467375,
+  :block/updated-at 1664683467375}
+ {:block/name "oct 3rd, 2022",
+  :block/created-at 1664769600070,
+  :block/updated-at 1664769600070}
+ {:block/name "oct 6th, 2022",
+  :block/created-at 1665107089867,
+  :block/updated-at 1665107089867}
  {:block/name "oso",
   :block/created-at 1643782701140,
   :block/updated-at 1643782701140}

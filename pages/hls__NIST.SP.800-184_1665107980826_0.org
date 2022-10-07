@@ -1,0 +1,346 @@
+#+file-path: ../assets/NIST.SP.800-184_1665107980826_0.pdf
+#+file: [[../assets/NIST.SP.800-184_1665107980826_0.pdf][NIST.SP.800-184_1665107980826_0.pdf]]
+#+title: hls__NIST.SP.800-184_1665107980826_0
+
+* In 2015, members of the Federal Government reviewed cybersecurity capabilities and, as documented in the Cybersecurity Strategy and Implementation Plan (CSIP) [2], identified significant inconsistencies in cyber event response capabilities among federal agencies. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 633f8841-a3d1-4866-8462-e2fc9af95227
+:END:
+* This document is not an operational playbook;
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 633f885f-e69a-4239-a0ec-2dcf9933b243
+:END:
+* NIST Special Publication (SP) 80061[5] defines an event as “any observable occurrence in a system or network”, while an incident is defined as a violation of acceptable policies, or security policies and best practices.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 633f888c-192b-486c-9737-d5b9475e3141
+:END:
+* Although there are existing federal policies, standards, and guidelines on cyber event handling, none of them has focused solely on improving cybersecurity recovery capabilities, and the fundamental information is not captured in a single document.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 633f88d1-08cd-44f7-ad33-790e8d7d3454
+:END:
+* It is not intended to be used by organizations responding to an active cyber event,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 633f88f6-1859-4255-8ea8-02fe0908705b
+:END:
+* Planning also enables the organization to explore “what if” scenarios, which might be largely based on recent cyber events that have negatively impacted other organizations,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 633f8a6e-2834-48c3-a8de-8bc886934c09
+:END:
+* Recovering normal operations for these services after a cyber event is often not a binary activity.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 633f8a82-4d6a-4795-b41b-cb9b83fb470f
+:END:
+* While this document is primarily focused on recovering from a cybersecurity event, it is important to understand that a Cyber Incident Response Plan (CIRP)7 should be developed as part of a larger Business Continuity Plan (BCP). 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 633f8aa2-0be8-4939-a776-b3308e539c9f
+:END:
+* For recovery planning and execution, the organization needs a reliable source of information regarding its people, process, and technology assets, and the assets of external partners that are connected to or associated with enterprise resources. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 633f8ace-e9d2-4b9e-9ada-03acbdab4383
+:END:
+* Understanding recovery objectives relies upon understanding the interdependencies among resources. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:id: 633f8ae9-10ce-45ea-8ce0-43da15440014
+:END:
+* Much of the planning and documentation for recovering from a cybersecurity event needs to be in place before the event occurs.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:id: 633f8b06-bce7-4d29-8b53-57e137354ef6
+:END:
+* This publication describes this activity as “a form of risk assessment that models aspects of the attack and defense sides of a particular logical entity, such as a piece of data, an application, a host, a system, or an environment. The fundamental principle underlying threat modeling is that there are always limited resources for security and it is necessary to determine how to use those limited resources effectively.” 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:id: 633f8cba-6546-4369-911f-51ae35a61aff
+:END:
+* Due to the sensitive information that may be included in a recovery plan, an organization should treat it and protect with the same due care as an information system security plan.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:id: 633f8cd0-9988-4964-a68b-8c95a55c4ac7
+:END:
+* Additionally, organizations should evaluate the use of containment principles to isolate access to business resources that do not need to be closely integrated with key resources.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:id: 633f8ce5-a9bc-408b-96e4-6e2f033a56d4
+:END:
+* Organizations should have a good understanding of the system boundaries, trust relationships, and identities that exist in their environment. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:id: 633f8cf2-38b6-4598-887d-3f133cb3b997
+:END:
+* Once an organization has a handle on the identities in its environment, it must ensure that it has the proper access controls applied to them, especially in regards to the management and control of the infrastructure. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:id: 633f8d01-5b3b-451f-a5e6-a6e5bb8d4fb7
+:END:
+* Data integrity is the key driver and leads to confidence of the data.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:id: 633f8d0d-d12d-442e-a476-20cfa52617a4
+:END:
+* A critical component of cyber event recovery is having guidance and playbooks that support the asset prioritizations and recovery objectives identified in Section 2.1 and 2.2. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:id: 633f8d1a-fdef-4ce5-ad61-224fe90f58c8
+:END:
+* A recovery plan9 provides a method to document and maintain specific strategies and decisions regarding the approved means for implementing and conducting business recovery processes. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:id: 633f8d39-c010-4f62-a5b1-44fc0c686864
+:END:
+* Service level agreements 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:id: 633f8d7f-d37e-4c30-b3da-cd77c5f1f4c6
+:END:
+* Authority
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 633f8d8f-5666-4658-aaee-1334421eb19c
+:END:
+* Recovery team membership
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 633f8d99-83a9-4edc-8d06-5515bb4923bf
+:END:
+* Specific recovery details and procedures
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 633f8da3-16eb-463d-a991-03c75fc3770f
+:END:
+* Out of band communications
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 633f8dac-464f-4cf7-a9ab-6992bb85c619
+:END:
+* Communication plan 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 633f8db3-7c56-42dc-965c-8517f3de6025
+:END:
+* Off-site storage details
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 633f8dc3-7255-4772-9201-5db60af36957
+:END:
+* Operational workarounds
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 633f8dcd-5896-441d-85bd-1410cd44fda7
+:END:
+* Facility recovery details
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 633f8dd8-fdc6-4e9c-b7ca-b590a5e1bf89
+:END:
+* Infrastructure, hardware, and software
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 633f8ddf-576f-4abc-8b56-616b59aebe73
+:END:
+* The intention of cyber event recovery planning is not to duplicate all of this information in another document, but to ensure that all necessary information is documented, readily accessible, and actionable.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 633f8e0c-b4aa-43bb-8137-197e9c93d680
+:END:
+* This allows for both a flexible approach that can adapt to different situations as well as the required technical specificity to ensure key actions are carried out in a high quality manner. Procedures should be automated10 as much as possible in order to reduce errors in a challenging operating environment, which is typical of recovery operations.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 633f8e3c-76b0-40a0-9317-85540d08ffd3
+:END:
+* Recovery plans should identify members of the organization’s privacy team who will be responsible for identifying potential risks to individuals who may be affected by the cyber event11
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 633f8e59-1294-4125-ab63-b0fa602ee554
+:END:
+* Recovery teams should integrate specific recovery procedures based upon the processes used within the organization. Such procedures may include technical actions such as restoring systems from clean backups, rebuilding systems from scratch, enhancing the identity management system and trust boundary, replacing compromised files with clean versions, installing patches, remediating software misconfigurations, securing applications and services, changing passwords, increasing the intensity of monitoring, and tightening network perimeter security (e.g., firewall rulesets, boundary router access control lists). 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 633f8e96-d2cf-4bea-b3ce-36c67624e1a7
+:END:
+* Depending on the severity and nature of the incident and recovery operations, the decision to initiate recovery processes may be made not by the recovery personnel, but by the organization’s incident response team, CISO, business owners, and/or other personnel involved in decision making for addressing cyber events. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 633f8ee3-4e53-4e32-985f-6629529438d0
+:END:
+* For example, starting recovery before the investigation response has achieved key understandings of the adversary’s footprint and objectives may alert the adversary that an infiltration has been discovered, triggering a change in tactics that would defeat the recovery operation.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 633f8efc-7c86-449c-a9a9-41475ab18b5a
+:END:
+* full recovery or restoration may not be the immediate goal
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 633f8f1c-9870-434c-bf02-4c4774b739b7
+:END:
+* Achieving resilience might mean that a given resource is able to continue operation in a diminished capacity,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 633f8f53-d4c3-44f1-90af-6d49e94816d5
+:END:
+* Organizations should define key milestones for meeting intermediate recovery goals and terminating active recovery efforts. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 633f8f7c-63ed-40e8-831e-fd5be22ecda8
+:END:
+* Identifying the root cause(s) of a cyber event is important to planning the best response, containment, and recovery actions. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 633f8f92-f446-41fc-9b03-49e21441ef35
+:END:
+* Before execution of recovery efforts start in earnest, the investigation should achieve two key objectives
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 633f9028-10c8-4034-b3d6-6173e81ad195
+:END:
+* Basic knowledge of the adversary’s objective
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:id: 633f903c-a055-466c-b685-6ab53ba7ffb6
+:END:
+* High confidence in either understanding the technical mechanisms the adversary is using to persist access to the environment or confirming non-persistent intent
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:id: 633f9049-72d7-4f0a-9e22-701c4a3df3dd
+:END:
+* While the search for the root cause may continue separately, there are instances where recovery will be initiated before that cause is determined.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:id: 633f909e-0687-42e6-abd1-cdf7fd1897b5
+:END:
+* Once a resource is targeted and attacked, it is often targeted again or other resources within the organization are attacked in a similar manner. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:id: 633f90bc-4684-43a1-a97b-965bbc3ca15d
+:END:
+* Key stakeholders need to know sufficient information so that they understand their responsibilities during the recovery stage and can maintain confidence in the recovery team’s abilities.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:id: 633f9116-dd25-4dc2-89ea-38c70b06c0be
+:END:
+* Individual members of the recovery team may not have sufficient information to provide accurate and timely reporting of recovery status and activities.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:id: 633f912d-1f7d-4bde-a75b-7adde54f306f
+:END:
+* encouraged to share actionable information about cyber threats with other organizations. For example, an organization that has just recovered from a major new threat could document its recovery steps and share them with others so that those organizations could recover from the same threat or similar threats much more quickly, or in some cases could detect cyber events more quickly and perhaps prevent them altogether. Sharing recovery insights has become necessary in response to adversaries sharing their methodologies, tools, and other information with each other for mutual benefit. Organizations can similarly benefit by sharing recovery information.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 21
+:id: 633f91bb-258a-49a3-91d2-a15a2c8e3d35
+:END:
+* Cyber event recovery planning is not a one-time activity.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:id: 633f9224-211b-4fa9-ac6d-2150a9561e1d
+:END:
+* Validating recovery capabilities refers to ensuring that the technologies, processes, and people involved in recovery efforts are well prepared to work together to effectively and efficiently recover normal business operations from disruptive cyber events.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:id: 633f9235-256b-4df8-a303-c1362cee4758
+:END:
+* Some organizations have found it helpful to intentionally introduce system failures as part of daily operations to ensure that participants are always resilient and ready for a cyber event.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:id: 633f925b-ccad-48d1-bae1-10c986f2364c
+:END:
+* In addition to identifying potential improvements to recovery capabilities through reviews by personnel and periodic tests and exercises, organizations should also identify improvements from lessons learned during actual cyber event recovery actions. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 24
+:id: 633f92e5-dcd4-4fdb-bca1-9e3b80728fb7
+:END:
+* essons learned from actual cyber event recovery actions takes two forms. Short-term improvements can be achieved through identification of low-level issues, such as a particular system not being patched often enough, which enabled it to be compromised while other similar systems stayed secure. Long-term improvements to the organization’s security posture can be achieved through identification of high-level issues, such as providing inputs on commonly seen system security issues to organizational risk assessment and management activities, which in turn inform the enterprise information security program. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 25
+:id: 633f9348-7b28-4f74-bc94-0928f786afd4
+:END:
+* The majority of recovery metrics will be used to improve the quality of recovery actions within the organization, such as to improve specific aspects or to perform a cost/benefit analysis of a particular approach. Other metrics might be used as part of compulsory reporting
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:id: 633f9375-5206-4456-acbd-f362c72ceb46
+:END:
+* The tactical recovery phase will depend on performing the following actions before and during the cyber event:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 29
+:id: 633f93e3-5da0-4b25-8130-8d43b6330e62
+:END:
+* Metrics and other factors used to effectively plan for restoration priority may include:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 32
+:id: 633f946c-c0ff-4e17-88b3-f7c3f41ef926
+:END:
+* A plan is developed to include longer-term goals to fully remediate the ransomware and other classes of ransomware. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:id: 633f95bb-ac27-452c-87bc-77d917067db5
+:END:
+* Checklist of Elements Included in a Playbook
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:id: 633f95ec-05e2-4d93-b01a-074a0ca93d0c
+:END:
