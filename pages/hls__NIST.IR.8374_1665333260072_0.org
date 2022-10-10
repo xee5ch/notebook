@@ -1,0 +1,28 @@
+#+file-path: ../assets/NIST.IR.8374_1665333260072_0.pdf
+#+file: [[../assets/NIST.IR.8374_1665333260072_0.pdf][NIST.IR.8374_1665333260072_0.pdf]]
+#+title: hls__NIST.IR.8374_1665333260072_0
+
+* An inventory of physical devices should be undertaken, reviewed, and maintained to ensure these devices are not vulnerable to ransomware.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 6342f83d-7a6d-4a5c-9f6d-f1724767457f
+:END:
+* currently installed, last patch date, and current known vulnerabilities. This information supports the remediation of vulnerabilities that could be exploited in ransomware attacks.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 6342f854-4c0d-4317-8bd3-2452de5952ed
+:END:
+* Malicious code is often not immediately executed, so there may be time between insertion of malicious code and its activation
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:id: 634303dc-9ed5-4d85-9d35-192e8460b717
+:END:
+* BASIC RANSOMWARE TIPS
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 6343305f-90b4-40b3-9bd3-a443577fcdfb
+:END:

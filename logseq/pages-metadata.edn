@@ -133,6 +133,9 @@
  {:block/name "cncf",
   :block/created-at 1643782701143,
   :block/updated-at 1643782701143}
+ {:block/name "computer security incident handling guide",
+  :block/created-at 1665333100458,
+  :block/updated-at 1665333100458}
  {:block/name "contents",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
@@ -265,6 +268,9 @@
  {:block/name "hls__m-22-18_1663544540689_0",
   :block/created-at 1663544595269,
   :block/updated-at 1663544595269}
+ {:block/name "hls__nist.ir.8374_1665333260072_0",
+  :block/created-at 1665333309193,
+  :block/updated-at 1665333309193}
  {:block/name "hls__nist.sp.800-184_1665107980826_0",
   :block/created-at 1665108033968,
   :block/updated-at 1665108033968}
@@ -381,6 +387,9 @@
  {:block/name "oct 6th, 2022",
   :block/created-at 1665107089867,
   :block/updated-at 1665107089867}
+ {:block/name "oct 9th, 2022",
+  :block/created-at 1665333099813,
+  :block/updated-at 1665333229914}
  {:block/name "oso",
   :block/created-at 1643782701140,
   :block/updated-at 1643782701140}
@@ -402,6 +411,9 @@
  {:block/name "python",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
+ {:block/name "ransomware risk management",
+  :block/created-at 1665333237647,
+  :block/updated-at 1665347689161}
  {:block/name
   "ransomware task force combating  ransomware recommendations",
   :block/created-at 1664504638246,
