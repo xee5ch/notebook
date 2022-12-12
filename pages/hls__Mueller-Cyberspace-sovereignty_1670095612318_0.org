@@ -1,0 +1,168 @@
+#+file-path: ../assets/Mueller-Cyberspace-sovereignty_1670095612318_0.pdf
+:PROPERTIES:
+:file: [[../assets/Mueller-Cyberspace-sovereignty_1670095612318_0.pdf][Mueller-Cyberspace-sovereignty_1670095612318_0.pdf]]
+:file-path: ../assets/Mueller-Cyberspace-sovereignty_1670095612318_0.pdf
+:END:
+
+* It is a sign of the changing times that the first papers to raise the issue of sovereignty in cyberspace were animated not by an attempt to apply traditional forms of state sovereignty to the Internet, but by the claim that cyberspace was its own sovereign domain. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:hl-color: yellow
+:id: 638ba323-2acd-4c4a-8a05-496ae84c5879
+:END:
+* They did not engage with the theory of sovereignty as such, but their vision of a globalized jurisdiction led directly to the creation of the Internet Corporation for Assigned Names and Numbers (ICANN) in 1998.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:hl-color: yellow
+:id: 638ba34d-adc0-44de-aeeb-87f809ba5136
+:END:
+* he ensuing debate over “multi-stakeholder” governance was – and still is – really a battle about sovereignty in cyberspace.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:hl-color: yellow
+:id: 638ba372-d700-45ab-9118-e65b6b86cec6
+:END:
+* Often unrecognized in this struggle is the relevance of Nobel Laureate Elinor Ostrom’s work on institutional analysis and development (Ostrom, 1990, 2005). Contention over Internet governance is a prime example of institutional innovation prompted by the emergence of new, technologicallygenerated resource spaces
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:hl-color: yellow
+:id: 638ba393-7fdb-47b7-9340-1a9aed5c08f1
+:END:
+* The Internet Engineering Task Force (IETF), which formed in the mid-1980s, was a genuinely new organizational form. It evolved out of informal meetings of the computer scientists and network engineers who developed the protocol standards. The IETF did not sell its standards documents, it published them freely online. It was the world’s first large-scale open source software development community.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:hl-color: yellow
+:id: 638ba3bb-2ed1-4dd0-89c9-3497050b4a38
+:END:
+* All these Internet institutions depart from sovereignty. Their scope of governance is transnational rather than national, and authority is rooted in private actors. They bear out Ostrom’s belief that collective action amongst a community could solve common pool governance problems.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 638ba3ec-aec8-465e-81f0-39ea00d70dac
+:END:
+* It is common to characterize this as the “multi-stakeholder model,” (Strickling & Hill, 2017) but the rhetoric of multistakeholderism is misplaced and often misleading. The key feature of this regime is not the presence of multiple stakeholders. It is the elevated status of the nonstate actor, which supplants the sovereign state or intergovernmental treaties and regimes in its authority to define rules and policies.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: purple
+:id: 638ba40a-ece1-429c-bb2c-9c669cf38fc0
+:END:
+* Despite the impressive record of institutional development and self-governance in cyberspace, one must recognize that compatibility and connectivity are the prime directives in all the domains of governance mentioned above. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 638ba41a-ed97-48af-b885-3b7b65a81fa5
+:END:
+* These are the areas where articulation with territorial states has become troublesome:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 638ba440-6f24-4f30-887b-d88ba291d540
+:END:
+* Yet while sovereignty advocates may see these problems as evidence of the ‘inevitability’ of a reversion to the state-centric norm, the joke is really on them. Far from being the solution to cybersecurity, nation-states have become one of the chief threats to it. They have ignored sovereign boundaries to aggressively utilize the Internet’s global connectivity to attack each other and ordinary businesses. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 638ba46d-9680-4c42-8818-539e93ac3677
+:END:
+* Similarly, European governments are having a hard time enforcing a “right to be forgotten” in their territory without also imposing it on Internet users in America, where it violates free speech guarantees in the constitution
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 638ba48e-95cc-4638-9e6b-2831df05acd3
+:END:
+* . It is the problem of misalignment: the mismatch between the transnational spaces for societal interaction created by the internet and the territorial boundaries of national governments.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 638bab19-2aaf-4ca7-848b-1bb790719fb4
+:END:
+* There is a direct connection between the concept of sovereignty and the theory of the state. If one accepts Weber’s classic definition of the state as a monopoly on the legitimate use of force, then sovereignty bounds that privileged status to a specific, well-defined territory. Sovereignty as an institution is intended to mitigate anarchy among states by confining them to a defined territory
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:hl-color: yellow
+:id: 638bab44-0cf5-4847-86a3-35d28e9c3771
+:hl-stamp: 1670097734316
+:END:
+* A careful study of the forms and practices of sovereignty led Stephen Krasner(Krasner, 1999) to conclude that sovereignty is best understood as “organized hypocrisy” 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:hl-color: purple
+:id: 638bab56-0ab9-49e9-ac24-1a67ca16884c
+:END:
+* Sovereignty in cyberspace is a bankrupt idea that provides no useful solutions to the problems of Internet governance.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:hl-color: purple
+:id: 638bab6d-101f-41d2-a842-0bfbb8697c87
+:END:
+* While physical facilities are necessary to run the software and transmit and store the information that moves over the Internet, as soon as the protocols are running over those facilities, they become part of a nongeographic virtual space where simultaneous action is possible irrespective of location. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: yellow
+:id: 638babaa-ff74-4f2b-90aa-b732937222b4
+:END:
+* There is no monopoly on the legitimate use of force in cyberspace.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 638bac01-62c1-4b8f-a5fa-4f67c8034984
+:END:
+* The possibility of coercive use of cyber capabilities exists wherever the Internet protocols are in use, wherever one can acquire the equipment and software resources to mount a DDoS attack, code an exploit, generate a phishing email and so on. Given the existence of global connectivity and instantaneous action across national boundaries, there is no relevant distinction between state actors and nonstate actors, except in the special case when a cyber-attacker and all victims happen to be in the territory of a single state.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 638bac1e-0ce4-40d2-8171-93ef15b06a96
+:END:
+* This objection, however, confuses the private goods and services enabled by Internet connectivity with the common cyberspace in which they function. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:hl-color: purple
+:id: 638bac41-4dd1-4b09-84b1-33e449dce696
+:END:
+* But many facilities and services interconnected through these protocols are private goods, their value is highly dependent on the existence of the common space
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:hl-color: yellow
+:id: 638bac5c-ad2c-4674-a04f-ed32bb468deb
+:END:
+* What happens if we abandon notions of sovereignty in cyberspace? What changes? There is no contention here that such a move would magically solve most Internet governance problems. It is, rather, an attempt to gain acceptance of a basic reality – a principle in regime-theoretic terms – that provides a foundation for appropriate forms of governance going forward. Such a recognition matters because its acceptance would mitigate inter-state conflict, shift the criteria for decision making, and redistribute power among decision makers.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:hl-color: yellow
+:id: 638baca6-f1cd-4996-8bea-175f3db0bd9f
+:END:
+* Nobel Laureate Ostrom emphasized the ability of communities to develop self-governing institutions that need not be based on the hierarchical authority of states. As we have seen, self-governance by a transnational Internet community is both possible, and already exists in several key areas. The problem with the self-governance approach in global affairs, however is that it intersects with the organized violence of states and their military rivalries. Most of the Ostrom literature on self-governance has assumed that self-governance takes place within a context of civil order, which assumes an authority with a monopoly on the legitimate use of force somewhere in the background.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:hl-color: yellow
+:id: 638bacf7-fdaf-45ff-b0c8-0d37e0d46fb1
+:END:
+* Going forward, the pressing question for Internet governance is how to keep state power bounded by territory while at the same time freeing the producers and users of cyberspace to govern themselves.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:hl-color: purple
+:id: 638bad0f-bc3f-4e11-b743-a60b4532c4b9
+:END:

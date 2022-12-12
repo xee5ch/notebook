@@ -1,0 +1,646 @@
+#+file-path: ../assets/33-11038_1665842277494_0.pdf
+#+file: [[../assets/33-11038_1665842277494_0.pdf][33-11038_1665842277494_0.pdf]]
+#+title: hls__33-11038_1665842277494_0
+
+* proposing to require periodic disclosures about a registrant’s policies and procedures to identify and manage cybersecurity risks, management’s role in implementing cybersecurity policies and procedures, and the board of directors’ cybersecurity expertise, if any, and its oversight of cybersecurity risk.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 634abcfc-eb29-4346-82fe-28d612eae062
+:END:
+* Further, the proposed rules would require the cybersecurity disclosures to be presented in Inline eXtensible Business Reporting Language (“Inline XBRL”). 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 634abd71-62dc-4be7-8be5-529505c52ce5
+:END:
+* Public company investors and other participants in the capital markets depend on companies’ use of secure and reliable information systems to conduct their businesses
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 634abd9b-8d7c-48ff-960b-935fc700a9d7
+:END:
+* With an increase in the prevalence of cybersecurity incidents, there is an increased risk of the effect of cybersecurity incidents on the economy and registrants. Large scale cybersecurity attacks can have systemic effects on the economy as a whole, including serious effects on critical infrastructure and national security
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:id: 634abdd6-f63f-4cee-99bc-76a6272bc98f
+:END:
+* The cost to companies and their investors of cybersecurity incidents is rising and doing so at an increasing rate.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 634abdf3-0c90-485f-b317-51efce790659
+:END:
+* The types of costs and adverse consequences that companies may incur or experience as a result of a cybersecurity incident include the following
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:id: 634abdfd-b9cc-4744-9939-12a6abca0f1c
+:END:
+* Recent research suggests that cybersecurity is among the most critical governance-related issues for investors, especially U.S. investors
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:id: 634abe29-b987-4e82-b6c4-66d0adcbbfd1
+:END:
+* We believe investors would benefit from more timely and consistent disclosure about material cybersecurity incidents, because of the potential impact that such incidents can have on the financial performance or position of a registrant. We also believe that investors would benefit from greater availability and comparability of disclosure by public companies across industries regarding their cybersecurity risk management, strategy, and governance practices in order to better assess whether and how companies are managing cybersecurity risks. The proposal reflects these policy goals.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:id: 634abe42-c830-4459-9f5a-29c1535650f4
+:END:
+* We are also proposing to add new Item 106 of Regulation S-K that would require a registrant to: (1) provide updated disclosure in periodic reports about previously reported cybersecurity incidents; (2) describe its policies and procedures, if any, for the identification and management of risks from cybersecurity threats, including whether the registrant considers cybersecurity risks as part of its business strategy, financial planning, and capital allocation; and (3) require disclosure about the board’s oversight of cybersecurity risk, management’s role in assessing and managing such risk, management’s cybersecurity expertise, and management’s role in implementing the registrant’s cybersecurity policies, procedures, and strategies.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 634abe76-82df-4ef2-835c-2636366d5907
+:END:
+* We also are proposing to amend Item 407 of Regulation SK to require disclosure of whether any member of the registrant’s board has expertise in cybersecurity, and if so, the nature of such expertise
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 634abe9d-0fda-48a5-8878-53c9cc75165e
+:END:
+* Although there are no disclosure requirements in Regulation S-K or S-X that explicitly refer to cybersecurity risks or incidents, in light of the increasing significance of cybersecurity incidents, over the past decade the Commission and staff have issued interpretive guidance concerning the application of existing disclosure and other requirements under the federal securities laws to cybersecurity risks and incidents
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:id: 634ac1d5-f4e7-4615-891e-0dc49eacc58c
+:END:
+* existing provisions in Regulations S-K and S-X that may require disclosure about cybersecurity risks, governance, and incidents:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:id: 634ac1ff-2a3b-4ccd-8449-b158185e9f44
+:END:
+* The majority of registrants reporting material cybersecurity incidents do so in a Form 8K, press release, or periodic report.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 634ac231-e512-4ef7-adb3-13dca743a123
+:END:
+* The staff has also observed that, while the majority of registrants that are disclosing cybersecurity risks appear to be providing such disclosures in the risk factor section of their annual reports on Form 10-K, the disclosures are sometimes blended with other unrelated disclosures, which makes it more difficult for investors to locate, interpret, and analyze the information provided.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:id: 634ac24d-eebd-454f-88db-5fb40b945bfa
+:END:
+* One report noted a disconnect in which the industries experiencing the most high profile cybersecurity incidents provided disclosure with the “least amount of information.”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:id: 634ac268-6477-479b-9e57-39d12f98587a
+:END:
+* Specifically, we are proposing to:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:id: 634ac4ee-8597-49fa-8792-d7d171aa4858
+:END:
+* Specifically, we propose to amend Form 8-K by adding new Item 1.05 that would require a registrant to disclose the following information about a material cybersecurity incident, to the extent the information is known at the time of the Form 8-K filing:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 21
+:id: 634ac557-420d-4c53-8dfc-826bb5848949
+:END:
+* We are proposing that the trigger for an Item 1.05 Form 8-K is the date on which a registrant determines that a cybersecurity incident it has experienced is material, rather than the date of discovery of the incident, so as to focus the Form 8-K disclosure on incidents that are material to investors.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:id: 634ac58c-b930-4f70-b922-124fd92257e8
+:END:
+* What constitutes “materiality” for purposes of the proposed cybersecurity incidents disclosure would be consistent with that set out in the numerous cases addressing materiality
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:id: 634ac5aa-818a-42bb-8807-5596fb793def
+:END:
+* Information is material if “there is a substantial likelihood that a reasonable shareholder would consider it important”54 in making an investment decision, or if it would have “significantly altered the ‘total mix’ of information made available.”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:id: 634ac5bb-c634-40ae-b55e-064a53d2dc1b
+:END:
+* In articulating this materiality standard, the Supreme Court recognized that“[d]oubts as to the critical nature” of the relevant information “will be commonplace.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:id: 634ac5c7-5b64-426b-b2c3-bfd5c210f0b3
+:END:
+* A materiality analysis is not a mechanical exercise, nor should it be based solely on a quantitative analysis of a cybersecurity incident.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:id: 634ac5d3-8a9a-4567-927e-a8c577fb610c
+:END:
+* The following is a non-exclusive list of examples of cybersecurity incidents
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 24
+:id: 634ac5e6-a05a-4997-aca2-4c325e48bcb3
+:END:
+* Proposed Item 1.05 would not provide for a reporting delay when there is an ongoing internal or external investigation related to the cybersecurity incident
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 25
+:id: 634ac605-74c8-4315-8579-07ce050ace22
+:END:
+* Additionally, any such delay provision could undermine the purpose of proposed Item 1.05 of providing timely and consistent disclosure of cybersecurity incidents given that investigations and resolutions of cybersecurity incidents may occur over an extended period of time and may vary widely in timing and scope.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 25
+:id: 634ac623-16c4-45cd-9aca-960e65a6082a
+:END:
+* To the extent that proposed Item 1.05 of Form 8-K would require disclosure in a situation in which a state law delay provision would excuse notification, there is a possibility a registrant would be required to disclose the incident on Form 8-K even though it could delay incident reporting under a particular state law. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:id: 634ac669-807f-4677-9e5e-af0f87d73640
+:END:
+* We are also proposing to amend Rules 13a-11(c) and 15d-11(c) under the Exchange Act to include new Item 1.05 in the list of Form 8-K items eligible for a limited safe harbor from liability under Section 10(b) or Rule 10b-5 under the Exchange Act.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:id: 634ac696-d9af-42d2-9eb6-aa1e74a41ee0
+:END:
+* In the past, when we have adopted new disclosure requirements that differed from the traditional periodic reporting obligations of companies, we have acknowledged concerns about the potentially harsh consequences of the loss of Form S-3 or Form SF-3 eligibility, and addressed such concerns by specifying that untimely filing of Forms 8-K relating to certain topics would not result in the loss of Form S-3 or Form SF-3 eligibility
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:id: 634ac6af-a828-4d3d-a1a8-6b4afa0df0b9
+:END:
+* We are proposing this requirement to balance the need for prompt and timely disclosure regarding material cybersecurity incidents with the fact that a registrant may not have complete information about a material cybersecurity incident at the time it determines the incident to be material.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 32
+:id: 634ac74e-f72b-40ec-9456-62c87a41820d
+:END:
+* roposed Item 106(d)(1) provides a means for investors to receive regular updates regarding the previously reported incident when and for so long as there are material changes, additions, or updates during a given reporting period.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 32
+:id: 634ac758-282c-4bd6-97ec-569d764fa984
+:END:
+* In order to assist registrants in developing updated incident disclosure in its periodic reports, proposed Item 106(d)(1) provides the following non-exclusive examples of the type of disclosure that should be provided, if applicable:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 33
+:id: 634ac996-4e18-4872-ae54-ba8f940b27a5
+:END:
+* Proposed Item 106(d)(2) would require disclosure when a series of previously undisclosed individually immaterial cybersecurity incidents become material in the aggregate.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 33
+:id: 634ac9a6-1f7e-4092-a3a8-fd1e1b4433d8
+:END:
+* While such incidents conceptually could take a variety of forms, an example would be where one malicious actor engages in a number of smaller but continuous cyber-attacks related in time and form against the same company and collectively, they are either quantitatively or qualitatively material, or both.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 34
+:id: 634ac9b7-93aa-4d50-9fe2-ca2f57284139
+:END:
+* Policies and procedures reasonably designed to provide oversight, risk assessments, and incident responses may be adopted to help prevent or mitigate cyber-attacks and potentially prevent future attacks. Staff in the Division of Corporation Finance has observed that most of the registrants that disclosed a cybersecurity incident in 2021 did not describe their cybersecurity risk oversight and related policies and procedures
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 35
+:id: 634ac9d9-82a1-4143-8948-9a74ab249750
+:END:
+* We are proposing Item 106(b) of Regulation S-K to require registrants to provide more consistent and informative disclosure regarding their cybersecurity risk management and strategy. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 35
+:id: 634ac9eb-68b3-452f-861a-8af84998f914
+:END:
+* Given that a significant number of cybersecurity incidents pertain to third party service providers, the proposed rules would require disclosure concerning a registrant’s selection and oversight of third-party entities as well.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:id: 634aca05-f78e-4310-8a82-12f1a3d63ffe
+:END:
+* For example, a company with a business model that relies highly on collecting and safeguarding sensitive and personally identifiable information from its customers may consider raising additional capital to invest in enhanced cybersecurity protection, improvements in its information security infrastructure, or employee cybersecurity training
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:id: 634ad09d-42b8-4906-b305-7de1fe647867
+:END:
+* We also propose requiring disclosure of whether cybersecurity related risk and previous incidents have affected or are reasonably likely to affect the registrant’s results of operations or financial condition
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 634ad0aa-4ac2-41e9-98f7-bfc2a228466f
+:END:
+* Specifically, proposed Item 106(b) of Regulation S-K would require disclosure, as applicable, of whether
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:id: 634ad0b9-dcb4-4481-b115-f79a3b0141e4
+:END:
+* Accordingly, proposed Item 106(c) would require disclosure of a registrant’s cybersecurity governance, including the board’s oversight of cybersecurity risk and a description of management’s role 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:id: 634ad0dc-f7a7-42db-9c8a-1f565b9944d3
+:END:
+* proposed Item 106(c)(1) would include a discussion, as applicable, of the following
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:id: 634ad0e4-a7ac-48c0-88f3-c22fba8a7077
+:END:
+* Proposed Item 106(c)(2) would require a description of management’s role in assessing and managing cybersecurity-related risks and in implementing the registrant’s cybersecurity policies, procedures, and strategies. This description would include, but not be limited to, the following information:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 40
+:id: 634ad0fe-173e-43d4-94eb-5a405e71c882
+:END:
+* Definitions
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 41
+:id: 634ad25d-436c-48b9-b007-918a6a639333
+:END:
+* Are there concerns that certain disclosures required under Item 106 would have the potential effect of undermining a registrant’s cybersecurity defense efforts or have other potentially adverse effects by highlighting a registrant’s lack of policies and procedures related to cybersecurity? If so, how should we address these concerns while balancing investor need for a sufficient description of a registrant’s policies and procedures for purposes of their investment decisions?
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 43
+:id: 634ad751-06bd-4608-9876-fb4ac9194bd8
+:END:
+* We propose to amend Item 407 of Regulation S-K by adding paragraph (j) to require disclosure about the cybersecurity expertise of members of the board of directors of the registrant, if any. If any member of the board has cybersecurity expertise, the registrant would have to disclose the name(s) of any such director(s), and provide such detail as necessary to fully describe the nature of the expertise.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:id: 634ad81f-5352-472e-8343-a620868699f9
+:END:
+* Proposed Item 407(j) would not define what constitutes “cybersecurity expertise,” given that such expertise may cover different experiences, skills, and tasks.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:id: 634ad82d-801f-4725-961a-65035493f7c8
+:END:
+* include the following non-exclusive list of criteria that a registrant should consider in reaching a determination on whether a director has expertise in cybersecurity:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:id: 634ad83d-b314-4677-82ad-ba10cd72f0ef
+:END:
+* Should we require disclosure of the names of persons with cybersecurity expertise on the board of directors, as currently proposed in Item 407(j)(1)? Would a requirement to name such persons have the unintended effect of deterring persons with this expertise from serving on a board of directors?
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:id: 634ad860-5368-4fe2-96a0-6d2fa0df91ea
+:END:
+* The Commission created Form 40-F in connection with its establishment of a multijurisdictional disclosure system (“MJDS”)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:id: 634ad88c-0e48-427e-b9c0-90cda06401f1
+:END:
+* would include block text tagging of narrative disclosures, as well as detail tagging of quantitative amounts disclosed within the narrative disclosures. Inline XBRL is both machine-readable and human-readable, which improves the quality and usability of XBRL data for investors
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 50
+:id: 634ad8a3-7f2a-4b33-853a-7d0e07373b3c
+:END:
+* currently vary widely across registrants
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 53
+:id: 634ad92b-e38c-4f99-bef3-e11cdae3409a
+:END:
+* In 2021, a survey of audit committee members identified cybersecurity as the second highest risk that their audit committee would focus on in 2022, second only to financial reporting and internal controls
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 53
+:id: 634adc8c-2791-432d-ad5b-06c9b83cbc3a
+:END:
+* As with incident reporting, there is a lack of uniformity in current reporting practice for cybersecurity risk management, strategy, and governance disclosure
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 54
+:id: 634adc9d-14f0-4760-859b-909788565371
+:END:
+* To provide investors and other market participants with more timely, informative, and consistent disclosure about cybersecurity incidents, and cybersecurity risk management, strategy, and governance, we are proposing the following amendments.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 54
+:id: 634adcb2-9e12-4aa6-b654-e26d297e13dc
+:END:
+* At the outset, we note that, where possible, we have attempted to quantify the benefits, costs, and effects on efficiency, competition, and capital formation expected to result from the proposed amendments
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 55
+:id: 634adcc3-74d2-4703-bb88-ff1ad1f32daa
+:END:
+* To assess the economic impact of the proposed rules, the Commission is using as its baseline the existing regulatory framework for cybersecurity disclosure. As discussed in Section I, although a number of rules and regulations impose an obligation on companies to disclose cybersecurity risks and incidents in certain circumstances, the Commission’s regulations currently do not explicitly address cybersecurity.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 56
+:id: 634adcd5-9c60-4596-ab78-720f5dd9a63a
+:END:
+* the Commission issued the 2018 Interpretive Release to assist operating companies in preparing disclosure about cybersecurity risks and incidents under existing disclosure rules
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 56
+:id: 634ae6d5-1751-42cf-a91a-28b8dbb5ec13
+:END:
+* For example, federal contractors may be required to monitor and report cybersecurity incidents and breaches or face liability under the False Claims Act.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 57
+:id: 634ae893-33b4-48d5-b9d2-2cfa9c5a0709
+:END:
+* The proposed new disclosure requirements would apply to various filings, including current reports, periodic reports, and certain proxy statements filed with the Commission
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:id: 634ae8ca-c9bd-4494-9be0-f0faa84a7e19
+:END:
+* Thus, the parties that are likely to be affected by the proposed rules include investors, registrants, other market participants that use the information in these filings (such as financial analysts, investment advisers, and portfolio managers) and external stakeholders such as consumers and other companies in the same industry as affected firms.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:id: 634ae8d1-e4e1-47e2-8b33-19f0016e403a
+:END:
+* This includes approximately7,848 companies filing on domestic forms and 973 FPIs filing on foreign forms based on all companies that filed such forms or an amendment thereto during calendar year 2020
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:id: 634ae8dd-0caa-4329-bae8-39b4fcb333d7
+:END:
+* Our textual analysis121 of all calendar year 2020 Form 10-K filings and amendments(7,683) reveals that out of 6,634 domestic filers approximately 64% (4,272) of them made any cybersecurity-related disclosures. The filers’ average size in terms of total assets and market capitalization was approximately $14.1 billion and $7.5 billion, respectively.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:id: 634ae8fb-a77b-481e-a2a0-a75ab2e290bc
+:END:
+* We further estimate that, in 2020, approximately 603 domestic companies reported having a director on their board with cybersecurity experience or expertise.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 634ae91c-12cd-47c3-8e01-f27c5eb24a63
+:END:
+* The proposed amendments also would entail costs. For instance, in addition to the costs of providing the disclosure itself, more detailed disclosure could potentially increase the vulnerability of registrants and the risk of future attacks.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:id: 634ae935-cdba-487e-af70-1b55d67eac39
+:END:
+* We also expect the proposed amendments to affect compliance burdens. The quantitative estimates of changes in those burdens for purposes of the Paperwork Reduction Act of 1995(“PRA”) are further discussed in Section [IV] below.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 63
+:id: 634ae94c-50b7-4fa5-9cd8-920c66b2b316
+:END:
+* or purposes of the PRA, we estimate that the proposed amendments would result in an increase of 2,000 and 180 burden hours from the increase in the number Form 8-K and Form 6-K filings respectively
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 63
+:id: 634ae957-d7a2-426b-a4e3-97ba30d37769
+:END:
+* Specifically, investors would benefit because
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 63
+:id: 634ae966-d8e0-4284-acc3-add79967f47f
+:END:
+* staff has observed that certain cybersecurity incidents were reported in the media but not disclosed in a registrant’s filings
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:id: 634ae98c-77c2-4f14-b1cb-a270b075084e
+:END:
+* For example, one study finds a significant mean cumulative abnormal return of -0.84% in the three days following cyberattack announcements, which, according to the study, translates into an average value loss of $495 million per attack
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 634ae9b2-c0b7-4e1e-ad41-44357ad3f11a
+:END:
+* Malicious actors may trade ahead of an announcement of a data breach that they caused or pilfer material information to trade on ahead of company announcements. Trading on undisclosed cybersecurity information is particularly pernicious, because profits generated from this type of trading would provide incentives for malicious actors to “create” more incidents and proprietary information to trade on.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 634ae9d4-0c6c-4b15-ba4a-9e848834c820
+:END:
+* The proposed disclosure about cybersecurity incidents and cybersecurity risk management, strategy, and governance could also lead to more uniform and comparable disclosures, benefiting investors by lowering their search costs and information processing costs.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:id: 634ae9e9-72c0-4bb3-b088-ecc394522870
+:END:
+* We note that to the extent that the disclosures related to cybersecurity risk management, strategy, and governance become too uniform or “boilerplate,” the benefit of comparability may be diminished. However, we also note that given the level of the specificity that would be required, the resulting disclosures are unlikely to become boilerplate.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:id: 634aea00-c61b-4d0d-901d-9a1c9f4d5d47
+:END:
+* The proposed requirement to tag the cybersecurity disclosure in Inline XBRL would likely augment the aforementioned informational and comparability benefits by making the proposed disclosures more easily retrievable and usable for aggregation, comparison, filtering, and other analysis
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:id: 634aea39-0611-4f1a-af05-1ea2923ef5c6
+:END:
+* Also, unlike XBRL financial statements (including footnotes), which consist of tagged quantitative and narrative disclosures, the proposed cybersecurity disclosures would consist largely of tagged narrative disclosures
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 70
+:id: 634aea67-9d5c-45ea-acbb-75902677aaee
+:END:
+* Tagging narrative disclosures can facilitate analytical benefits such as automatic comparison or redlining of these disclosures against prior periods and the performance of targeted artificial intelligence or machine learning assessments
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 70
+:id: 634aea6f-9ec3-480a-8281-2d2adaa4afa9
+:END:
+* Economic theory suggests that better disclosure could reduce information asymmetry between management and investors, reducing the cost of capital, and thereby improving firms’ liquidity and their access to capital markets.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 71
+:id: 634aea8a-7d2f-4935-891e-4a0574963fe0
+:END:
+* Currently, the stigma or reputation loss associated with cybersecurity breaches may result in companies limiting reporting about or delaying reporting of cybersecurity incidents.146 If all registrants are required to report cybersecurity incidents on Form 8-K within four business days as proposed, this could reduce the reputation costs that any one company might suffer after reporting an attack and also reduce the incentives to underreport.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 73
+:id: 634aeabf-1bce-467f-93d4-a04239eed47f
+:END:
+* In addition, by formalizing the disclosure requirements related to cybersecurity incidents and cybersecurity risk management, strategy, and governance and specifying the topics to be discussed, the proposed amendments could reduce compliance costs for those registrants who are currently providing disclosure about these topics
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 73
+:id: 634aead0-6560-4062-8648-af2a2deff105
+:END:
+* Costs
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:id: 634aeb26-5d90-4dfd-a0e1-7abe580a3b03
+:END:
+* However, academic research so far has not provided evidence that more detailed cybersecurity risk disclosures would necessarily lead to more attacks.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 75
+:id: 634aeb39-6b65-487b-8140-846fc6e6e1e9
+:END:
+* he disclosed security risk factors with risk-mitigation themes are less likely to be related to future breach announcements.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 634aeb48-b2e5-4c25-aacf-2c18608b14f0
+:END:
+* Second, the proposed cybersecurity incident disclosure could potentially increase information uncertainty related to securities, because the disclosure about the impact of the incident on the registrant’s operations may lack the precision needed for investors and the market to properly value these securities
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 634aeb96-262f-4736-90d3-43d2a3a6a292
+:END:
+* s a result, registrants’ disclosure about the impact of a cybersecurity incident could be qualitative in nature or lack the precision needed for investors and the market to properly value the securities, potentially leading to information uncertainty, investor under or overreaction to certain disclosures, and thereby mispricing of registrants’ securities
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:id: 634aeba2-0d39-4b08-929c-65e696ad78a0
+:END:
+* Additionally, while the proposed disclosure could have the overall effect of reducing registrants’ cost of capital as discussed in Section III.C.1.b, we also recognize that a subset of registrants might experience an increase in costs of capital. More specifically, under the proposed amendments, registrants with less robust cybersecurity risk management measures might be priced more unfavorably compared to those with stronger measures, potentially leading to an increase in cost of capital for these registrants
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 77
+:id: 634aebb1-7f18-473f-ad1c-55ef736d92c8
+:END:
+* Registrants would also incur compliance costs to fulfill the proposed disclosure requirements related to Form 8-K (Form 6-K for FPIs) incident reporting and Form 10-Q/10-K(Form 20-F for FPIs) ongoing reporting.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 77
+:id: 634aebc4-bbc5-43d5-8815-afbbbc87ea67
+:END:
+* We note that BDCs could be subject to both the proposed rules and rule amendments in the Investment Management Cybersecurity Proposing Release154 and those proposed in this release if both proposals were to be adopted.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 78
+:id: 634aec01-97c8-47b7-9aee-d9be3498924d
+:END:
+* The compliance costs would also include costs attributable to the Inline XBRL tagging requirements. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 78
+:id: 634aec08-92a7-48e3-96ed-ba57be24d864
+:END:
+* Other than the Paperwork Reduction Act costs discussed in Section IV below, we are unable to quantify the potential increase in costs related to the proposed rules due to the lack of data.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 79
+:id: 634aec19-4a45-4d4f-b878-3e74b00b9167
+:END:
+* Indirect Economic Effects
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 80
+:id: 634aec29-dd19-4de9-9016-4c99c436f82b
+:END:
+* he disclosures themselves could result in certain indirect benefits. Registrants might respond to the proposed disclosures by devoting more resources to cybersecurity governance and risk management.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 80
+:id: 634aedca-5b94-4c6a-90e9-c2987afb7f4e
+:END:
+* Registrants may also decide to incur certain indirect costs as a result of the proposed amendments. For example, the proposed rules would require disclosure of whether members of the board or management staff have expertise in cybersecurity. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 80
+:id: 634aedd4-88f2-41e7-9a0c-0f15cd91fdf0
+:END:
+* For example, there is evidence that increased disclosure of cybersecurity incidents by registrants can reduce the risk of identity theft for individuals
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 82
+:id: 634aedfc-29c1-4217-a0af-ab84382e9ef1
+:END:
+* As a result, the proposed disclosures could reduce information asymmetry and mispricing in the market, improving liquidity and market efficiency. However, we also recognize that, because registrants’ disclosure about the impact of a cybersecurity incident could be qualitative in nature and lack the precision needed for investors and the market to properly value the securities, the proposed incident disclosure might lead to information uncertainty and investor overreaction
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 83
+:id: 634aee22-2edd-4de3-9b6f-b6c2d5578ec6
+:END:
+* While this approach may be less costly for the registrant as it may involve fewer compliance costs and less legal liability compared to a filing of a Form 8-K, the website disclosure would not be located in the same place as other companies’ disclosures of material cybersecurity incidents.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 84
+:id: 634aee4a-48a1-4991-9fd0-0da2644ff8d5
+:END:
+* The lack of a central repository, such as the EDGAR system,162 and a lack of uniformity of website disclosures could increase the costs for investors and other market participants
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 84
+:id: 634aee56-799d-41bb-acee-31233d67bee3
+:END:
+* Reporting material cybersecurity incidents at the end of the quarter or year would allow registrants more time to assess the financial impact of such incidents. The resulting disclosure might be more specific or informative for investors and other market participants to value the securities and make more informed decisions. The compliance costs would be less under this alternative, because registrants would not have an obligation to file Form 8-K. With lower compliance costs under this alternative, registrants could use the resources that would go towards disclosure on Form 8-K to instead fill gaps in their cybersecurity defenses exposed by the attack, potentially making it less likely that malicious actors would be able to exploit such vulnerabilities.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 85
+:id: 634aee7d-e5b4-4806-b367-e29b7ef1d287
+:END:
+* However, evidence suggests that smaller companies may have an equal or greater risk than larger companies of being attacked, making the proposed disclosures particularly important for their investors.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 86
+:id: 634aee93-1d53-4091-8eb7-6d5a5c565fa9
+:END:
+* We also considered changing the scope of the proposed tagging requirements, such as by excluding certain subsets of registrants.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 86
+:id: 634aee9f-a3c6-40df-aa38-6551433d58d3
+:END:
+* However, narrowing the scope of the proposed tagging requirements, whether based on registrant type, size, or other criteria, would diminish the extent of any informational benefits that would accrue as a result of the proposed disclosure requirements by making the excluded registrants’ cybersecurity disclosures comparatively costlier to process and analyze.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 87
+:id: 634aeeae-0e5a-4036-b57f-5427192306c6
+:END:
+* Certain provisions of our rules and forms that would be affected by the proposed amendments contain “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995 (“PRA”).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 90
+:id: 634aeec4-37d1-44a7-b418-605a7bb23122
+:END:
+* PRA Table 1: Estimated Paperwork Burden Associated with the Proposed New Rules and Amendments
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 91
+:id: 634aeedb-be40-4e39-afca-0657e18c018c
+:END:
+* PRA Table 4 below sets forth the percentage estimates we typically use for the burden allocation for each collection of information and the estimated burden allocation for the proposed new collection of information. We also estimate that the average cost of retaining outside professionals is $400 per hour.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 94
+:id: 634aeef9-f550-4161-baec-54f205dc016e
+:END:
+* PRA Table 4. Estimated Burden Allocation for the Affected Collections of Information
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 94
+:id: 634aef02-0642-4b69-a60c-d5840684fadc
+:END:
+* PRA Table 5. Calculation of the Incremental Change in Burden Estimates of Current Responses Resulting from the Proposed Amendments
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 95
+:id: 634aef13-87dc-4336-8ba1-f29a966349c4
+:END:
+* INITIAL REGULATORY FLEXIBILITY ACT ANALYSIS
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 99
+:id: 634aef53-5021-4b8f-b01b-84ccc21105b1
+:END:
+* Duplicative, Overlapping, or Conflicting Federal Rules
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 101
+:id: 634aef6f-709c-4a60-8b31-374f6ef728e0
+:END:
+* §229.106 (Item 106) Cybersecurity.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 105
+:id: 634aefcf-8307-42a5-8886-f3f6d8a18e33
+:END:

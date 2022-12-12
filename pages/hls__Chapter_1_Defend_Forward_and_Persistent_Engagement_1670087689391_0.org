@@ -1,0 +1,160 @@
+#+file-path: ../assets/Chapter_1_Defend_Forward_and_Persistent_Engagement_1670087689391_0.pdf
+:PROPERTIES:
+:file: [[../assets/Chapter_1_Defend_Forward_and_Persistent_Engagement_1670087689391_0.pdf][Chapter_1_Defend_Forward_and_Persistent_Engagement_1670087689391_0.pdf]]
+:file-path: ../assets/Chapter_1_Defend_Forward_and_Persistent_Engagement_1670087689391_0.pdf
+:END:
+
+* Events like the breach in the Office of Personnel Management, the hack of Sony Pictures International, and the WannaCry, Petya, and NotPetya ransomware attacks, to name a few, led strategists and policymakers alike to the realization that the United States’ existing cybersecurity posture, with its emphasis on restraint, was failing.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:hl-color: purple
+:id: 638b8427-8985-4027-9ea4-d413a6903606
+:END:
+* Taking account of the persistent, hostile cyber campaigns of the United States’ strategic competitors, the new strategy is anchored in the recognized need to “take action in cyberspace during day-to-day competition to preserve U.S. military advantages and to defend U.S. interests.”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:hl-color: purple
+:id: 638b844a-2d8b-47d4-9a4f-0e7292a7a6f1
+:END:
+* Key to this shift in strategic posture is the introduction of the concept of defending forward in cyberspace “to disrupt or halt malicious cyber activity at its source, including activity that falls below the level of armed conflict.”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:hl-color: yellow
+:id: 638b845c-0a6c-49fe-95d1-a550fc739c51
+:END:
+* The RSG was part of a whole-ofgovernment effort to defend the integrity of the 2018 midterm elections from foreign interference and influence. It involved a range of groundbreaking operations in support of wider US government actions, including discrete offensive cyber operations to disrupt Russia’s active use of cyber capabilities to spread disinformation and undermine the 2018 elections.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:hl-color: yellow
+:id: 638b8488-d6d7-489a-a1ff-71760a2c6979
+:END:
+* Among the most consequential were the new DoD Cyber Strategy with its Defend Forward concept and USCYBERCOM’s operational approach of Persistent Engagement; cyber-specific statutory provisions in the FY19 National Defense Authorization Act that, among other things, clarified the status of military cyber operations as traditional military activities exempt from the approval and oversight procedures applicable to covert actions; and a new presidential policy delegating more authorities to DoD for cyberspace operations.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:hl-color: yellow
+:id: 638b84b6-2c67-4f55-8e98-d9049cdfcc09
+:END:
+* Until 2018, the United States had applied a deterrence strategy in cyberspace.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:hl-color: purple
+:id: 638b84cd-9898-4105-afef-1bcd4b7f96f1
+:END:
+* “It is our policy that we shall undertake the least action necessary to mitigate threats and that we will prioritize network defense and law enforcement as preferred courses of action.”7 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:hl-color: yellow
+:id: 638b84e3-ff5e-4e7f-80e9-8946966a69b6
+:END:
+* Under this approach, deterrence was essentially treated as a synonym for security and had come to mean all things to all people. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 638b8521-8856-4e04-b6f6-fd1091ef128c
+:END:
+* Rather than ask how to increase security in cyberspace, policymakers asked how to deter in cyberspace.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: purple
+:id: 638b85ae-079d-40b8-9185-405277a2aa1a
+:END:
+* rested on the incorrect assumption that deterrence concepts developed to address nuclear and other traditional threats apply equally in the context of cyberspace.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 638b85ca-32ef-44c8-a19d-ed6574e4f8f3
+:END:
+* everaging these characteristics, adversaries act persistently in cyberspace in campaigns deliberately calibrated to avoid direct and open armed conflict by remaining opaque and below the use-offorce threshold, thereby generating uncertainty, decision delay, and inaction.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 638b8613-6fd8-4266-af13-9247db7fb444
+:END:
+* DoD’s pivot hinged on several insights, which flowed from this analysis and which gained momentum from Operation Glowing Symphony (OGS), USCYBERCOM’s first global-scale operation to persistently disrupt and degrade ISIS infrastructure and operations worldwide. It is important to emphasize that this and other operations gave the Command (and the DoD) not only confidence in its tactics, organization, and capabilities but also a feeling for how campaigns can be won in cyberspace by seizing and retaining the operational initiative.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 638b8641-359d-41cd-a37f-5f8cea64aa06
+:END:
+* In other words, in cyberspace, restraint is punished while persistence and action are rewarded.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: purple
+:id: 638b865c-7b7d-4f44-9c49-aa7ab97c6585
+:END:
+* To regain the initiative in strategic cyber competition, DoD needs to partner with other government agencies, the private sector, and allies to increase cyber resilience of government and critical infrastructure networks, defend forward beyond the perimeter of DoD networks, and proactively contest, disrupt, and degrade cyber aggression before it reaches US, allied, and partner networks.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:hl-color: yellow
+:id: 638b869e-e739-41b3-80df-392f172450ba
+:END:
+* USCYBERCOM coined the term“Defend Forward” as one of three aspects of the command’s approach to sustaining strategic advantage in cyberspace: increasing resiliency, defending forward, and contesting adversaries
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:hl-color: yellow
+:id: 638b86da-f4ff-4c22-8651-a622e560b105
+:END:
+* The RSG demonstrated USCYBERCOM’s pivot from a “response force” to a “persistence force.”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: yellow
+:id: 638b8725-467e-489d-832b-68d0832fbf39
+:END:
+* First, Defend Forward is often equated incorrectly with “forward defense” or “forward positioning” (presence as a deterrent) as practiced by the United States and NATO during the Cold War. Defend Forward is not about messaging through force posture and disposition. It is about actively operating and engaging.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 638b8767-e60c-49ba-9f15-650c16f3c91e
+:END:
+* Second, some critique Defend Forward and Persistent Engagement as exercises of preemptive self-defense, raising inapt objections to the lack of severity and imminency of adversary threats necessary to justify proactive, counter-cyber operations.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 638b877f-92b6-439e-b217-92cad3667f04
+:END:
+* They do not involve uses of force and therefore need not be legally predicated on an assessment of actual or threatened armed attack, imminent or otherwise.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:hl-color: yellow
+:id: 638b879d-c79e-4f8d-ad1e-9f01f5add10c
+:END:
+* The significant SolarWinds and Microsoft Exchange breaches discovered at the end of 2020 and in early2021— widely attributed to Russia and China, respectively—have led some to question this proposition and even place blame on the Defend Forward construct. Their criticisms are premature and rest on flawed understandings too numerous to expound on here. Such critics presume without evidence that the DoD was provisioned with the authorities and resources necessary to fully execute Defend Forward operations at scale, and they ignore the uncomfortable fact that the Russian government, by operating on US domestic infrastructure, exploited a legally imposed blind spot in the intelligence picture. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:hl-color: yellow
+:id: 638b87ce-691a-4482-be88-8a15d3a5234d
+:END:
+* As noted above, the real fulcrum of the shift in cyber strategy is the embrace of the need, under certain circumstances, to conduct out-of- network cyber operations and campaigns to disrupt cyber threats at or as close as practicable to their source. Neither Defend Forward nor Persistent Engagement is inherently aggressive or offensive as some have claimed.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: yellow
+:id: 638b8992-28f3-4530-bf90-98270b74c12e
+:END:
+* There is no question, however, that non-consensual cyber-effects operations are a core element of the Defend Forward concept and it is unlikely that we will see a reversal of this strategy shift any time soon. Initial indications are that the Defend Forward concept has borne fruit, and it has been endorsed, in essence, by the Cyberspace Solarium Commission and tacitly by Congress through enabling legislation and statements of support. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: yellow
+:id: 638b89a8-c68b-400e-8db0-b136d1ea81de
+:END:

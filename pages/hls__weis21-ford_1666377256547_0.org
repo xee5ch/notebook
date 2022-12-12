@@ -1,0 +1,106 @@
+#+file-path: ../assets/weis21-ford_1666377256547_0.pdf
+#+file: [[../assets/weis21-ford_1666377256547_0.pdf][weis21-ford_1666377256547_0.pdf]]
+#+title: hls__weis21-ford_1666377256547_0
+
+* lthough some evidence of negative cumulative abnormal returns (CAR) in the days surrounding the announcement were observed, along with one extreme case leading to insolvency, the results were not statistically significant overall with the notable exception of the Spanish market, which appeared to be more sensitive to data breaches, reacting rapidly
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 6352e640-79c7-4908-a16d-55b4eee3d6c5
+:END:
+* reports that 60+% of medium and large size firms in the UK “have identified[cyber] breaches or attacks”. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 6352e657-7985-4ebe-8c62-0d7031164c2c
+:END:
+* Existing literature in this area was found to be somewhat sparse recently and exhibited a strong US bias, hence this paper will focus on European markets and compare/contrast with the literature.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 6352e671-5c89-4c3e-af0a-d23caf8bdc92
+:END:
+* invest in improving their cyber security posture through an understanding of the impact of data breach disclosures on market price. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 6352e683-84ca-4272-8c2b-9d86fecdbde3
+:END:
+* For example, Cavusoglu, Mishra, and Raghunathan(2004) reported that those firms suffering a serious data breach lost, on average, 2.1% of their market value within two days of the announcement, whereas Goel and Shawky (2009) cite a figure of around 1%.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 6352e6a5-b92c-4dc1-8da6-af0e2d9614f3
+:END:
+* Commenting on their findings, Richardson et al. (2019:249) argue that “companies are unlikely to change their investment patterns unless the cost of breaches increases dramatically or regulatory bodies enforce change”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 6352e6d3-a489-48ab-988d-48eaa7656151
+:END:
+* The market model has been shown to stand up well against three and four factor models in similar studies. For example, Deane et al. (2019: 117) reported that the Fama–French– Carhart (four factor) model “did not substantially differ from the market model”, an observation echoed by Richardson et al. (2019), Rosati et al. (2019) and Lin et al. (2020).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 6352e72d-ee60-4c2d-b81d-3ce3daf949b5
+:END:
+* After completing the above steps, the resulting dataset comprised 33 records. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 6352e768-ed47-4952-85ae-49d374b8ebea
+:END:
+* a useful potential data source relevant for Europe mentioned in the literature was the Breach Level Index (BLI) as provided by Gemalto (Thales Group 2017), however since its acquisition by Thales, this data source seems to be no longer publicly available.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 6352e77e-ad17-46a3-97df-992ceb693aba
+:END:
+* Tweneboah-Kodua et al. (2018:641) recommend avoiding overlap of the estimation and event windows in this way to avoid “parameter contamination”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 6352e7c2-0a34-4b8b-8b42-2bf28057697d
+:END:
+* Figure 3 showed that Travelex was a major outlier (having a CAR of -75% over a 3-day window) and would fall into the category which Richardson et al.(2019: 248) describe as “those rare situations involving massive data exposures”. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 6352e7fd-0c4f-4ce0-8dc6-b8054630e848
+:END:
+* That Fox-IT, a cyber security specialist company itself, suffered such a negative market reaction would certainly come as no surprise, albeit seemingly somewhat late. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 6352e831-014b-4f51-87c9-44801d8b1acd
+:END:
+* show little reaction at all over this time period which is somewhat unexpected based on previous studies. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 6352e859-3f42-4965-a35a-409376684c1c
+:END:
+* The basic materials sector shows the largest short term negative impact after five days although it should be noted that there was only one company (Norsk Hydro) assigned to this sector, so it made sense to choose the (0, 2) window for a closer look at sector performance.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 6352e873-c4cc-4d20-a511-89d8a8d1a6fd
+:END:
+* Where it was possible to gather an indication of the number of records breached, this information was added to the dataset (25 examples). It can be seen that the financial services sector was responsible for over 99% of all the records breached,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:id: 6352e8d3-9cbc-4d92-a446-8bc0cb422c10
+:END:
+* These findings are consistent with Richardson et al. (2019) who refer to their observations on the(lack of) economic impact of data breach announcements as“much ado about nothing” yet other, mostly earlier, US based research in this area did find significant evidence of negative market reaction supporting the finding of Yayla and Hu(2011) that markets were becoming less sensitive to data breach disclosure over time. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 6352e968-93df-4dcf-a2a5-5c6af3e31b91
+:END:
+* One shortcoming identified as part of this research was the lack of a publicly available breach database like, for example, PRC which features heavily in similar US based studies. Although the VCDB project seems well-intentioned as a global research resource, what is really needed is a much more comprehensive and richer dataset in order to study European and other markets to a depth equivalent to that of US research in this area.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:id: 6352e985-2b01-454d-89dd-b281fd0ae54b
+:END:

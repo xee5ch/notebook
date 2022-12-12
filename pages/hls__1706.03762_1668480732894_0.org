@@ -1,0 +1,102 @@
+#+file-path: ../assets/1706.03762_1668480732894_0.pdf
+#+file: [[../assets/1706.03762_1668480732894_0.pdf][1706.03762_1668480732894_0.pdf]]
+#+title: hls__1706.03762_1668480732894_0
+
+* Attention mechanisms have become an integral part of compelling sequence modeling and transduction models in various tasks, allowing modeling of dependencies without regard to their distance in the input or output sequences
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:hl-color: yellow
+:id: 6372ff5a-bdb3-48f3-a9a5-c7f2ec135aa7
+:END:
+* e propose the Transformer, a model architecture eschewing recurrence and instead relying entirely on an attention mechanism to draw global dependencies between input and output.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:hl-color: yellow
+:id: 6372ff6c-1f37-461e-ba50-6ae5bf673cb5
+:END:
+* n these models, the number of operations required to relate signals from two arbitrary input or output positions grows in the distance between positions, linearly for ConvS2S and logarithmically for ByteNet
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:hl-color: yellow
+:id: 6372ff86-e2ef-40c5-b594-93754d8212a4
+:END:
+* Self-attention, sometimes called intra-attention is an attention mechanism relating different positions of a single sequence in order to compute a representation of the sequence. Self-attention has been used successfully in a variety of tasks including reading comprehension, abstractive summarization, textual entailment and learning task-independent sentence representations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:hl-color: yellow
+:id: 6372ffa6-0220-4d6b-9aa0-0c92f2c33bd9
+:END:
+* An attention function can be described as mapping a query and a set of key-value pairs to an output, where the query, keys, values, and output are all vectors
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:hl-color: yellow
+:id: 6372fff3-3545-4312-afa2-d02e1def5019
+:END:
+* The Transformer uses multi-head attention in three different ways:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 63730050-b75f-4ec7-8fa9-2ace6c4d63a0
+:END:
+* We chose the sinusoidal version because it may allow the model to extrapolate to sequence lengths longer than the ones encountered during training.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:hl-color: yellow
+:id: 637300b4-3626-40c8-b1c1-152cb49155cb
+:END:
+* Learning long-range dependencies is a key challenge in many sequence transduction tasks. One key factor affecting the ability to learn such dependencies is the length of the paths forward and backward signals have to traverse in the network.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:hl-color: yellow
+:id: 637300dc-3a82-404d-bef4-99696bf6c715
+:END:
+* To improve computational performance for tasks involving very long sequences, self-attention could be restricted to considering only a neighborhood of size r in6 the input sequence centered around the respective output position. This would increase the maximum path length to O(n/r). We plan to investigate this approach further in future work.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:hl-color: yellow
+:id: 63730106-36c2-4b9a-a5e9-536afd0e46cb
+:END:
+* Residual Dropout We apply dropout [33 ] to the output of each sub-layer, before it is added to the sub-layer input and normalized. In addition, we apply dropout to the sums of the embeddings and the positional encodings in both the encoder and decoder stacks. For the base model, we use a rate of Pdrop = 0.1.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:hl-color: yellow
+:id: 63730142-9644-447c-bd4b-6753cf76bf58
+:END:
+* During training, we employed label smoothing of value ls = 0.1 [ 36 ]. This hurts perplexity, as the model learns to be more unsure, but improves accuracy and BLEU score
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: yellow
+:id: 63730167-f93f-487e-b329-d8a68a8cd2ba
+:END:
+* To evaluate the importance of different components of the Transformer, we varied our base model in different ways, measuring the change in performance on English-to-German translation on the development set, newstest2013.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: yellow
+:id: 6373018b-da49-4333-b55d-89cfa4bdf2f6
+:END:
+* In Table 3 rows (B), we observe that reducing the attention key size dk hurts model quality.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 637301a5-c285-485a-8eaf-1a25a83430ff
+:END:
+* Our results in Table 4 show that despite the lack of task-specific tuning our model performs surprisingly well, yielding better results than all previously reported models with the exception of the Recurrent Neural Network Grammar [8].
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:hl-color: yellow
+:id: 637303ac-5714-4ec7-b6a8-1d3d85c057a3
+:END:

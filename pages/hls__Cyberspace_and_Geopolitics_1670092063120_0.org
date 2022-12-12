@@ -1,0 +1,335 @@
+#+file-path: ../assets/Cyberspace_and_Geopolitics_1670092063120_0.pdf
+:PROPERTIES:
+:file: [[../assets/Cyberspace_and_Geopolitics_1670092063120_0.pdf][Cyberspace_and_Geopolitics_1670092063120_0.pdf]]
+:file-path: ../assets/Cyberspace_and_Geopolitics_1670092063120_0.pdf
+:END:
+
+* The workshop’s key takeaway was an embrace of the existing fragmentation of the cyber norm ecosystem. Participants saw the variety of cyber norm efforts not as detrimental but rather as an opportunity to broaden the base of engaged stakeholders and to deepen understandings of normative expectations within relevant communities.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:hl-color: purple
+:id: 638b955e-cad7-4a5e-bda8-ce3d47546264
+:END:
+* At the same time, the workshop highlighted four weaknesses that constrain the effectiveness of these frameworks individually and collectively:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:hl-color: yellow
+:id: 638b9579-33a5-4a1f-96ca-3142485cae6f
+:END:
+* In response to this threat, many stakeholders have turned to the idea of “cyber norms”— expectations of appropriate behavior in cyberspace—to regulate state behavior and limit damages 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: yellow
+:id: 638b989a-bac2-4ab6-ad8f-679fae29d8eb
+:END:
+* Multilateral norm diplomacy involves efforts by states to devise cyber norms for states. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 638b98ad-1a80-456d-a977-711f986ae365
+:END:
+* Private norm processes involve groupings of high-profile experts from diverse backgrounds who study and offer recommendations on cyber norms for states or other stakeholders. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 638b98bf-d16f-4811-aadd-4e33e7dad641
+:END:
+* Industry-focused norm processes involve efforts by industry to identify norms for industry vis-à-vis cybersecurity. The two most prominent examples to date of such processes are the Microsoft-initiated Cybersecurity Tech Accord and the Siemens-led Charter of Trust.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 638b98d6-1209-4dc6-b001-fa72999a8f43
+:END:
+* Multistakeholder norm processes refer to inclusive fora that offer multiple stakeholders, including some combination of states, international organizations, industry, civil society, or academia, opportunities to discuss, identify, or advance cyber norms. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 638b98e0-37d0-4d3b-be7e-43b944942e95
+:END:
+* Given the limits of this committee’s mandate, the UN GGE does not focus on cyber issues that member states decided do not fall under the First Committee’s purview, including data privacy and espionage.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: yellow
+:id: 638b9975-6dc2-4206-94da-cc55d635ccbb
+:END:
+* there have been six GGE working groups; three of these groups achieved substantive outcomes, which together form the current UN framework.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: yellow
+:id: 638b99be-312f-465b-9fbe-0e35431718c0
+:END:
+* Workshop participants argued that GGE members were talking past one another from 2004 until2009, with Russia pushing for arms control in cyberspace. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: yellow
+:id: 638b99d6-abb7-4050-b2d4-db489cd8eb24
+:END:
+* he dynamic geopolitical environment of 2016 and2017 also made agreement more difficult among some of the great power participants. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: yellow
+:id: 638b99f5-1953-473d-8462-94c505044ac8
+:END:
+* Cuba and Russia were especially opposed to the idea that states may respond to cyber attacks with noncyber means. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:hl-color: yellow
+:id: 638b9a10-ca0f-41ff-9bc5-1a6c6479b1a4
+:END:
+* Despite the failures of 2017, the United States sponsored a resolution to establish a new GGE from2019 to 2021. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:hl-color: yellow
+:id: 638b9a22-0f82-441c-b698-add4dcce675e
+:END:
+* At the same time, the GGE has demonstrated limitations. It is not clear, for example, how widely its list of norms has been internalized by states that have participated in GGEs, let alone states generally.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:hl-color: yellow
+:id: 638b9a41-50d6-4430-8468-eeda15f45381
+:END:
+* More importantly, the GGE’s 2017 failure raises questions about the political will to employ the GGE in good faith going forward. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:hl-color: yellow
+:id: 638b9a65-f1c9-4dd5-9ff9-e16f0bc59879
+:END:
+* Yet, Russian sponsorship of the OEWG juxtaposed to U.S. sponsorship of the GGE suggests the two processes may operate in tension with each other—progress in one being met by competing proposals, if not outright resistance, in the other.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:hl-color: yellow
+:id: 638b9a7c-13ca-49f5-bb3c-96277656beb7
+:END:
+* Like the GGE, the OEWG shares the strengths—and weaknesses—that come from having a process situated in the United Nations’ First Committee oriented toward multilateral agreement and a disarmament mindset. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:hl-color: yellow
+:id: 638b9ab7-e1e6-4d92-ab53-819e94156f2c
+:END:
+* The Global Commission was driven by two think tanks, the Hague Centre for Strategic Studies and the EastWest Institute, and funded by several private institutions as well as several states, chiefly the Netherlands, France, and Singapore.4
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:hl-color: yellow
+:id: 638b9af4-a09a-4b15-b03c-c3d4f864082e
+:END:
+* Its norm promotion efforts, including a norm calling on states and other stakeholders to protect the “public core” of the internet from destabilizing cyber behavior, resonated with other cyber norm processes.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:hl-color: yellow
+:id: 638b9b15-cb45-4525-827c-d71ac1eb4a84
+:END:
+* The Global Commission’s chief strength lies in its gathering of expertise from a diverse array of disciplines and backgrounds. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:hl-color: yellow
+:id: 638b9b4f-a76b-4b4a-b21d-c431e7231270
+:END:
+* Nonetheless, the Global Commission’s funding sources, especially from Western and like-minded governments, could lead some to discount its norm proposals as favoring a liberal democratic vision of cyberspace.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:hl-color: yellow
+:id: 638b9dbe-52f1-4dbe-92fd-3d2b23dddfd0
+:END:
+* The Paris Call for Trust and Security in Cyberspace is an effort to build support for nine normative principles to organize the behavior of both states and other stakeholders in cyberspace. Although many of these principles originated in other processes, the Paris Call has broadened support for them with its more than 1,000 signatories and new plans to create communities of interest to investigate mechanisms for further elaborating and improving conformance with these norms. However, until it receives more great power endorsements, the Paris Call may be limited in its impact.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:hl-color: yellow
+:id: 638b9dd5-4dff-4618-99da-9230928005e6
+:END:
+* According to participants involved in the process, the Paris Call is not meant to be “the one call to rule them all,” but rather builds on previous cyber norm processes, seeking to mainstream government and international organization processes beyond state-centered fora.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:hl-color: yellow
+:id: 638b9dec-7a7e-428b-b77c-a54cace159b1
+:END:
+* Although four of the Five Eyes intelligence alliance (United Kingdom, Canada, Australia, and New Zealand) and all of the EU member states are signatories, the United States is not. Nor is India, China, or the Russian Federation. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:hl-color: yellow
+:id: 638b9e08-7e95-4511-ab58-8cdda2f7ba3e
+:END:
+* Ideas for a political commitment for cyberspace have existed for some time, including as one of the follow-on ideas to the Microsoft president’s original call for a “Digital Geneva Convention.”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:hl-color: yellow
+:id: 638b9e24-fdbd-4a64-b959-3632cce40f08
+:END:
+* Other aspects of the Paris Call, such as positive support for the Budapest Convention on Cybercrime, may explain the hostility of states like Russia and China.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:hl-color: yellow
+:id: 638b9eaf-463c-4ee8-8a6d-fded41c717dd
+:END:
+* Other participants questioned whether the Paris Call continued a tendency to emphasize words over action.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:hl-color: yellow
+:id: 638b9ebb-8f17-4a26-a988-b443154d6951
+:END:
+* he Charter of Trust contains three major commitments: “protect the data of individuals and companies,” “prevent damage to people, companies and infrastructures,” and “create a reliable foundation on which confidence in a networked, digital world can take root and grow.”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 638b9edf-0149-43cb-ab4c-78632ed854d8
+:END:
+* he Cybersecurity Tech Accord is a group of over one hundred technology companies that publicly commit to “improve the security, stability, and resilience of cyberspace.”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 638b9eea-2a7b-4e4c-8940-f4599613017b
+:END:
+* Notably, both the Charter of Trust and the Cybersecurity Tech Accord have signed on to the Paris Call, suggesting these industry-led processes can cooperate with more state-oriented ones.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 638b9efa-5573-4974-a5e1-c937b98e14f2
+:END:
+* “Joint Statement on Advancing Responsible State Behavior in Cyberspace” endorsed earlier cyber norm efforts, including the GGE reports from 2010, 2013, and 2015, along with the OEWG, as possible avenues toward an “international rules-based order” to “guide state behavior in cyberspace.”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 638b9f0b-e5d8-40a3-a248-4ef636ada743
+:END:
+* The current fragmentation of the cyber norm ecosystem into various processes may result from different states or stakeholders preferring specific fora that they believe will most align with their interests. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 638b9f1d-69a0-4e94-9570-0b148825d1ac
+:END:
+* For workshop participants, however, fragmentation may be more a feature of cyber norm processes than a bug. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: purple
+:id: 638b9f29-6937-4985-847f-a2da42f9f2f1
+:END:
+* Cross-pollination is already in evidence across several cyber norm processes, lending credence to the potential for a future race to the top. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 638b9f49-80e9-46ef-b694-65d6e60764ef
+:END:
+* More broadly, a class of “cyber norm professionals” connects all these processes, as states, nongovernmental organizations, industry, and civil society have experts who participate in one or more of these processes simultaneously.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 638b9f85-2048-464a-9fee-af8f135d006c
+:END:
+* Another important distinction for norm proponents is the value of having a “high-ambition coalition” in norm promotion efforts even as others may value processes that enable great powers to have frank discussions over norms
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 21
+:hl-color: yellow
+:id: 638b9fe8-96bb-43e9-a886-e4c7836695b7
+:END:
+* Workshop participants drew a distinction between broadening the base of participants and deepening understanding of and adherence to existing norms. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 21
+:hl-color: yellow
+:id: 638b9ff9-cc19-4e17-aa2d-0bc5be4bd475
+:END:
+* Inherent characteristics of the cyber domain: The evolving nature of the internet poses challenges for the development of effective norms
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:hl-color: purple
+:id: 638ba018-3767-4ee9-8084-f16afc7458bd
+:END:
+* Lack of transparency about state behavior
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:hl-color: purple
+:id: 638ba054-2dbf-4f23-b4bf-886d1ebb4465
+:END:
+* Absence of great power cooperation
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:hl-color: purple
+:id: 638ba077-4a2e-47ac-abcb-588de6c61679
+:END:
+* Lack of incentives for internalizing norms
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:hl-color: purple
+:id: 638ba081-3b37-4ce4-98c7-4954cdfee036
+:END:
+* Focused research on specific cyber norms to measure their alignment with actual behavior in cyberspace
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:hl-color: purple
+:id: 638ba0a0-99d8-44a0-af44-2126684cc331
+:END:
+* A shared global database of cyber processes that can improve transparency on what each process does, who participates, and how its work is received in other processes (that is, what sort of cross-pollination is occurring versus triggering competing or conflicting norm proposals)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:hl-color: purple
+:id: 638ba0a8-6c35-4bb5-b180-f35591b9e9e1
+:END:
+* More multistakeholder engagement with great powers on exercising their power responsibly to improve the identification and operation of cyber norms for states and other stakeholder groups (for example, industry, civil society)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:hl-color: purple
+:id: 638ba0ae-7074-4a87-90b9-a0c0ad13e188
+:END:
+* Research efforts to identify a menu of incentives to promote norm adoption and implementation, including a list of potential consequences that can follow cases of nonconformance
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:hl-color: purple
+:id: 638ba0b9-e523-460a-975d-e5c8b5163ba5
+:END:
+* For all the attention to cyber norms, there remains little research or few guides on how to incentivize their adoption and diffusion. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 24
+:hl-color: purple
+:id: 638ba0f0-2049-4ff2-9b40-4520c5d235b0
+:END:
+* malicious activity. The EU cyber diplomacy tool box is one such promising effort. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 24
+:hl-color: yellow
+:id: 638ba113-e5ef-4103-bcc7-72ee1777276c
+:END:

@@ -1,0 +1,144 @@
+#+file-path: ../assets/1609.08144_1668399975021_0.pdf
+#+file: [[../assets/1609.08144_1668399975021_0.pdf][1609.08144_1668399975021_0.pdf]]
+#+title: hls__1609.08144_1668399975021_0
+
+* Our model consists of a deep LSTM network with 8 encoder and 8 decoder layers using residual connections as well as attention connections from the decoder network to the encoder.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:hl-color: yellow
+:id: 6371c397-242c-4a45-800b-1680a2aa1da6
+:END:
+* To accelerate the final translation speed, we employ low-precision arithmetic during inference computations. To improve handling of rare words, we divide words into a limited set of common sub-word units (“wordpieces”) for both input and output.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:hl-color: yellow
+:id: 6371c3b3-5e2f-40be-9d07-b99f4e52ef7b
+:END:
+* Our beam search technique employs a length-normalization procedure and uses a coverage penalty, which encourages generation of an output sentence that is most likely to cover all the words in the source sentence. To directly optimize the translation BLEU scores, we consider refining the models by using reinforcement learning, but we found that the improvement in the BLEU scores did not reflect in the human evaluation
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:hl-color: yellow
+:id: 6371c3d7-f393-40fb-9837-50ef3babaecf
+:END:
+* The strength of NMT lies in its ability to learn directly, in an end-to-end fashion, the mapping from input text to associated output text. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:hl-color: purple
+:id: 6371c40e-5e25-491a-a74c-93904e80b863
+:END:
+* For inference they are generally much slower than phrase-based systems due to the large number of parameters used. Secondly, NMT lacks robustness in translating rare words. Though this can be addressed in principle by training a “copy model” to mimic a traditional alignment model
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:hl-color: yellow
+:id: 6371c44d-e95d-478c-add8-341219bb3768
+:END:
+* Since then, many novel techniques have been proposed to further improve NMT: using an attention mechanism to deal with rare words
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:hl-color: yellow
+:id: 6371c4bd-8a71-478e-8d15-7ba0e8e61017
+:END:
+* Our model (see Figure 1) follows the common sequence-to-sequence learning framework [41] with attention [ 2 ]. It has three components: an encoder network, a decoder network, and an attention network. The encoder transforms a source sentence into a list of vectors, one vector per input symbol. Given this list of vectors, the decoder produces one symbol at a time, until the special end-of-sentence symbol (EOS) is produced. The encoder and decoder are connected through an attention module which allows the decoder to focus on different regions of the source sentence during the course of decoding.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:hl-color: yellow
+:id: 6371c4d6-e731-45b9-952c-88af5446fda0
+:END:
+* However, simply stacking more layers of LSTM works only to a certain number of layers,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 6371c56f-9a80-4215-b3ff-9f9be2825771
+:END:
+* In our experience with large-scale translation tasks, simple stacked LSTM layers work well up to 4 layers, barely with 6 layers, and very poorly beyond 8 layers.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 6371c589-e55e-4af8-b070-a561a5040f1a
+:END:
+* we adopt the wordpiece model (WPM) implementation initially developed to solve a Japanese/Korean segmentation
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:hl-color: yellow
+:id: 6371c6aa-9461-4821-b216-eca69e94273c
+:END:
+* As mentioned above, in translation it often makes sense to copy rare entity names or numbers directly from the source to the target. To facilitate this type of direct copying, we always use a shared wordpiece model for both the source language and target language. Using this approach, it is guaranteed that the same string in source and target sentence will be segmented in exactly the same way, making it easier for the system to learn to copy these tokens.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:hl-color: yellow
+:id: 6371c711-118d-4678-b742-54ded16ecde3
+:END:
+* A second approach we use is the mixed word/character model.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: yellow
+:id: 6371c742-fad0-43be-8e88-d1540ba0d39a
+:END:
+* Special prefixes are prepended to the characters, to 1) show the location of the characters in a word, and 2) to distinguish them from normal in-vocabulary characters.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: yellow
+:id: 6371c751-508d-43df-bd1d-25777e4a1d75
+:END:
+* . In other words, using maximum-likelihood training only, the model will not learn to be robust to errors made during decoding since they are never observed, which is quite a mismatch between the training and testing procedure.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: yellow
+:id: 6371c786-91de-4a53-bdc9-8a1f1a13cb10
+:END:
+* One of the main challenges in deploying our Neural Machine Translation model to our interactive production translation service is that it is computationally intensive at inference, making low latency translation difficult, and high volume deployment computationally expensive.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 6371c7ec-afb8-4d29-974c-7d432d8bd6bf
+:END:
+* Table 1 also shows that decoding our model on CPU is actually 2.3 times faster than on GPU
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: yellow
+:id: 6371c89f-5604-4ff6-a9e6-85c6f43aef15
+:END:
+* During beam search, we typically keep 8-12 hypotheses but we find that using fewer (4 or 2) has only slight negative effects on BLEU scores. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:hl-color: yellow
+:id: 6371c901-0af6-4ce1-b64a-1c36178fa406
+:END:
+* Besides pruning the number of considered hypotheses, two other forms of pruning are used.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:hl-color: yellow
+:id: 6371c90c-173b-4f70-911b-f844cf5a76ef
+:END:
+* The models in our experiments are word-based, character-based, mixed word-character-based or several wordpiece models with varying vocabulary sizes.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:hl-color: yellow
+:id: 6371c9b9-e762-4d2f-a255-c1b4e248710a
+:END:
+* Our key findings are: 1) that wordpiece modeling effectively handles open vocabularies and the challenge of morphologically rich languages for translation quality and inference speed, 2) that a combination of model and data parallelism can be used to efficiently train state-of-the-art sequence-to-sequence NMT models in roughly a week, 3) that model quantization drastically accelerates translation inference, allowing the use of these large models in a deployed production environment, and 4) that many additional details like length-normalization, coverage penalties, and similar are essential to making NMT systems work well on real data.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 6371ca14-3697-4b4f-a195-0c4ce9b40f27
+:END:

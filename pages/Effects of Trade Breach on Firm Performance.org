@@ -1,0 +1,40 @@
+* [[../assets/weis21-searle_1666378155770_0.pdf][weis21-searle.pdf]]
+* ((6352f0f0-a63e-4687-9561-27fa4ee88651))
+* ((6352f103-a93f-4d98-ab08-dba23e33278c))
+* ((6352f128-74c3-4fd8-af48-4db05a9ea7c6))
+* ((6352f13f-d9a7-427d-9c0a-fd9e98be31cc))
+* ((6352f16a-8ad5-45c6-a6a1-87ea81700e5e))
+* ((6352f183-d85b-4954-bce3-dba7ab2c8ef4))
+* ((6352f1a1-4374-4dcb-9bd3-9987c9e267fb))
+* ((6352f1c1-7f28-4a1c-959a-aad4330ad1d2))
+* ((6352f1f4-d7e6-47ba-a5da-252a5582c998))
+* ((6352f20e-399b-420e-91db-05c67ecc34ed))
+* ((6352f221-e830-47f7-a859-a894846eed82))
+* ((6352f239-84ae-4f6e-b73b-e9affb8aded2))
+* ((6352f252-7e22-4349-973e-aab4bb0bb087))
+* ((6352f26c-36cd-4442-8bea-33b01fd2b69a))
+* ((6352f29a-5e20-4b13-b49d-a4d2b3029209))
+* ((6352f2ba-f2cd-4268-9c53-ec9e407a89cc))
+* ((6352f2df-4b43-4d83-b014-ffc5e5e430bf))
+* ((6352f36b-cfd5-4b63-a19d-2241cdc880a3))
+* ((6352f3b3-4cc0-4783-a93b-83461432c698))
+* ((6352f3ec-28d0-488b-99ea-34e416c14f61))
+* ((6352f41c-9df2-48a9-96ee-0b8483a473ed))
+* ((6352f448-6b97-40ce-9229-7513e2e4bf9b))
+* ((6352f468-dc66-4252-b726-36633ae7bf5d))
+* ((6352f48a-2d28-4bcb-bd4a-e15d32436d17))
+* ((6352f4bb-f179-42fa-aec4-339ad66a4470))
+* ((6352f4d9-8cd3-42d0-9871-4d34b7a42c31))
+* ((6352f4f4-d72e-4f5d-8ca1-4f62b2054d31))
+* ((6352f515-da67-4182-9eb6-574b4b6dde9b))
+* ((6352f537-c033-4ca8-8ea1-755661764fa7))
+* ((6352f54e-00dc-46bb-9aa3-64ce6b55aa31))
+* ((6352f5e0-efbc-4702-868e-331933bf94b8))
+:PROPERTIES:
+:id: 6352f552-ad04-433f-ac7c-6f26fae346ba
+:END:
+*
+* ((6352f5e0-efbc-4702-868e-331933bf94b8))
+* ((6352f65f-8ba8-4a43-8b06-59e0b2e86ea2))
+* For managers, the implication is that the benefits of the protection of trade secrets may be overstated.
+*

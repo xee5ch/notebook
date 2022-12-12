@@ -1,4 +1,13 @@
-[{:block/name
+[{:block/name "..",
+  :block/created-at 1666360583522,
+  :block/updated-at 1666360583522}
+ {:block/name "../assets",
+  :block/created-at 1666360583497,
+  :block/updated-at 1666360583497}
+ {:block/name "../assets/33-11038_1665842277494_0.pdf][sec",
+  :block/created-at 1666360583472,
+  :block/updated-at 1666360583472}
+ {:block/name
   "../assets/asghari-vaneeten-bauer_1661616170301_0.pdf][asghari-vaneeten-bauer_1661616170301_0.pdf",
   :block/created-at 1661616464526,
   :block/updated-at 1661616464526}
@@ -51,6 +60,9 @@
  {:block/name "appsec",
   :block/created-at 1643782701140,
   :block/updated-at 1643782701140}
+ {:block/name "attention is all you need",
+  :block/created-at 1668480722250,
+  :block/updated-at 1668482202074}
  {:block/name "aug 25th, 2022",
   :block/created-at 1661478895116,
   :block/updated-at 1661478895116}
@@ -81,6 +93,9 @@
  {:block/name "b",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
+ {:block/name "bert",
+  :block/created-at 1668482233721,
+  :block/updated-at 1668483693593}
  {:block/name "beyond corp part iii_ the access proxy",
   :block/created-at 1643490358131,
   :block/updated-at 1643490401243}
@@ -145,6 +160,18 @@
  {:block/name "cybersecurity policy",
   :block/created-at 1661620447794,
   :block/updated-at 1661620447794}
+ {:block/name "cyberspace and geopolitics",
+  :block/created-at 1670092008328,
+  :block/updated-at 1670095126982}
+ {:block/name "dec 3rd, 2022",
+  :block/created-at 1670086996863,
+  :block/updated-at 1670087111361}
+ {:block/name "dec 4th, 2022",
+  :block/created-at 1670200184867,
+  :block/updated-at 1670200184867}
+ {:block/name "defend forward and persistent engagement",
+  :block/created-at 1670087134160,
+  :block/updated-at 1670089131576}
  {:block/name "diamond model",
   :block/created-at 1661480661335,
   :block/updated-at 1661909270122}
@@ -166,6 +193,9 @@
  {:block/name "economics of cybersecurity",
   :block/created-at 1661616116680,
   :block/updated-at 1661620187793}
+ {:block/name "effects of trade breach on firm performance",
+  :block/created-at 1666378150249,
+  :block/updated-at 1666381458881}
  {:block/name
   "empirically evaluating the effect of israeli cybersecurity precautions",
   :block/created-at 1664501806790,
@@ -208,6 +238,9 @@
  {:block/name "google research",
   :block/created-at 1643782701144,
   :block/updated-at 1643782701144}
+ {:block/name "google’s neural machine translation system",
+  :block/created-at 1668399961193,
+  :block/updated-at 1668401688114}
  {:block/name "governance",
   :block/created-at 1661620434553,
   :block/updated-at 1661620434553}
@@ -230,12 +263,27 @@
  {:block/name "hadi asghari",
   :block/created-at 1661616340450,
   :block/updated-at 1661616340450}
+ {:block/name "hls__1609.08144_1668399975021_0",
+  :block/created-at 1668400023168,
+  :block/updated-at 1668400023168}
+ {:block/name "hls__1706.03762_1668480732894_0",
+  :block/created-at 1668480858574,
+  :block/updated-at 1668480858574}
+ {:block/name "hls__1810.04805_1668482241928_0",
+  :block/created-at 1668482264087,
+  :block/updated-at 1668482264087}
  {:block/name "hls__2004.14360_1661999267169_0",
   :block/created-at 1661999330486,
   :block/updated-at 1661999330486}
+ {:block/name "hls__33-11038_1665842277494_0",
+  :block/created-at 1666360584183,
+  :block/updated-at 1666360584183}
  {:block/name "hls__41913_1661921211548_0",
   :block/created-at 1661995902196,
   :block/updated-at 1661995902196}
+ {:block/name "hls__506150a_1667165688609_0",
+  :block/created-at 1667165755120,
+  :block/updated-at 1667165755120}
  {:block/name "hls__asghari-vaneeten-bauer_1661616170301_0",
   :block/created-at 1661616464522,
   :block/updated-at 1661616464522}
@@ -246,9 +294,16 @@
   :block/created-at 1661481453887,
   :block/updated-at 1661481453887}
  {:block/name
+  "hls__chapter_1_defend_forward_and_persistent_engagement_1670087689391_0",
+  :block/created-at 1670087719530,
+  :block/updated-at 1670087719530}
+ {:block/name
   "hls__cncf_kubernetes_policy_management_whitepaper_v1_1643492954114_0",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
+ {:block/name "hls__cyberspace_and_geopolitics_1670092063120_0",
+  :block/created-at 1670092126382,
+  :block/updated-at 1670092126382}
  {:block/name
   "hls__dmia_a_malware_detection_system_on_ios_platform_1664676481731_0",
   :block/created-at 1664676507119,
@@ -268,6 +323,9 @@
  {:block/name "hls__m-22-18_1663544540689_0",
   :block/created-at 1663544595269,
   :block/updated-at 1663544595269}
+ {:block/name "hls__mueller-cyberspace-sovereignty_1670095612318_0",
+  :block/created-at 1670095651472,
+  :block/updated-at 1670095651472}
  {:block/name "hls__nist.ir.8374_1665333260072_0",
   :block/created-at 1665333309193,
   :block/updated-at 1665333309193}
@@ -280,6 +338,10 @@
  {:block/name "hls__rtf-progress-report-may22-1_1664540941470_0",
   :block/created-at 1664541008835,
   :block/updated-at 1664541008835}
+ {:block/name
+  "hls__the_data_that_transformed_ai_research—and_possibly_the_world_-_reader_mode_1668401745191_0",
+  :block/created-at 1668401841900,
+  :block/updated-at 1668401841900}
  {:block/name "hls__tyab025_1664541475171_0",
   :block/created-at 1664541502429,
   :block/updated-at 1664541502429}
@@ -287,6 +349,12 @@
   "hls__understanding_hadoop_clusters_and_the_network_brad_hedlund_1662510086046_0",
   :block/created-at 1662510101179,
   :block/updated-at 1662510101179}
+ {:block/name "hls__weis21-ford_1666377256547_0",
+  :block/created-at 1666377280954,
+  :block/updated-at 1666377280954}
+ {:block/name "hls__weis21-searle_1666378155770_0",
+  :block/created-at 1666380016912,
+  :block/updated-at 1666380016912}
  {:block/name "hls__weis22-gandal_1664501826588_0",
   :block/created-at 1664501863293,
   :block/updated-at 1664501863293}
@@ -299,6 +367,9 @@
  {:block/name "hyperledger fabric",
   :block/created-at 1643569475705,
   :block/updated-at 1643569847082}
+ {:block/name "impact of data breaches on european markets",
+  :block/created-at 1666377246293,
+  :block/updated-at 1666378120727}
  {:block/name "in-progress",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
@@ -369,18 +440,51 @@
  {:block/name "nist sp 800-161 volume 1",
   :block/created-at 1643782454919,
   :block/updated-at 1643782459437}
+ {:block/name "nov 10th, 2022",
+  :block/created-at 1668056400294,
+  :block/updated-at 1668056400294}
+ {:block/name "nov 13th, 2022",
+  :block/created-at 1668399321827,
+  :block/updated-at 1668399321827}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668402001935,
+  :block/updated-at 1668402001935}
+ {:block/name "nov 6th, 2022",
+  :block/created-at 1667752754406,
+  :block/updated-at 1667752754406}
+ {:block/name "nov 7th, 2022",
+  :block/created-at 1667797200699,
+  :block/updated-at 1667797200699}
+ {:block/name "nov 8th, 2022",
+  :block/created-at 1667883602261,
+  :block/updated-at 1667883602261}
+ {:block/name "nov 9th, 2022",
+  :block/created-at 1667970002267,
+  :block/updated-at 1667970002267}
  {:block/name "now",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
  {:block/name "numerics",
   :block/created-at 1643782701143,
   :block/updated-at 1643782701143}
+ {:block/name "oct 10th, 2022",
+  :block/created-at 1665374400104,
+  :block/updated-at 1665374400104}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664596800923,
   :block/updated-at 1664596800923}
+ {:block/name "oct 21st, 2022",
+  :block/created-at 1666360582783,
+  :block/updated-at 1666360582783}
+ {:block/name "oct 23rd, 2022",
+  :block/created-at 1666553334805,
+  :block/updated-at 1666553334805}
  {:block/name "oct 2nd, 2022",
   :block/created-at 1664683467375,
   :block/updated-at 1664683467375}
+ {:block/name "oct 30th, 2022",
+  :block/created-at 1667165638494,
+  :block/updated-at 1667165638494}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664769600070,
   :block/updated-at 1664769600070}
@@ -389,7 +493,7 @@
   :block/updated-at 1665107089867}
  {:block/name "oct 9th, 2022",
   :block/created-at 1665333099813,
-  :block/updated-at 1665333229914}
+  :block/updated-at 1665367085886}
  {:block/name "oso",
   :block/created-at 1643782701140,
   :block/updated-at 1643782701140}
@@ -427,6 +531,12 @@
  {:block/name "robert hansen",
   :block/created-at 1643782701143,
   :block/updated-at 1643782701143}
+ {:block/name "sec cybersecurity disclosure recommendations",
+  :block/created-at 1666360583565,
+  :block/updated-at 1666360583565}
+ {:block/name "sec proposed rule on cybersecurity incident disclosure",
+  :block/created-at 1666360583561,
+  :block/updated-at 1666360583561}
  {:block/name "security",
   :block/created-at 1643782701144,
   :block/updated-at 1643782701144}
@@ -490,12 +600,22 @@
  {:block/name "sergio caltagirone",
   :block/created-at 1661481302433,
   :block/updated-at 1661481302433}
+ {:block/name "sovereignty and cyberspace",
+  :block/created-at 1670095604247,
+  :block/updated-at 1670098194900}
+ {:block/name "statistical errors with p-values",
+  :block/created-at 1667165677467,
+  :block/updated-at 1667166047611}
  {:block/name "supply-chain",
   :block/created-at 1643782701143,
   :block/updated-at 1643782701143}
  {:block/name "system administration",
   :block/created-at 1642974769476,
   :block/updated-at 1642996684939}
+ {:block/name
+  "the data that transformed ai research and possibly the world",
+  :block/created-at 1668401735683,
+  :block/updated-at 1668402257303}
  {:block/name "the diamond model: an analyst's best friend",
   :block/created-at 1661713181761,
   :block/updated-at 1661713210272}

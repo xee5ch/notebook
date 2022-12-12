@@ -1,0 +1,46 @@
+#+file-path: ../assets/506150a_1667165688609_0.pdf
+#+file: [[../assets/506150a_1667165688609_0.pdf][506150a_1667165688609_0.pdf]]
+#+title: hls__506150a_1667165688609_0
+
+* The irony is that when UK statistician Ronald Fisher introduced the P value in the1920s, he did not mean it to be a definitive test.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 635eee3b-41de-42aa-a9e3-ebc0c6bed20d
+:END:
+* For all the P value’s apparent precision, Fisher intended it to be just one part of a fluid, non-numerical process that blended data and background knowledge to lead to scientific conclusions. But it soon got swept into a movement to make evidence-based decisionmaking as rigorous and objective as possible.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 635eee5a-9835-461f-a52a-1c00021476cf
+:END:
+* many of the authors were non-statisticians without a thorough understanding of either approach, they created a hybrid system that crammed Fisher’s easy-to-calculate P value into Neyman and Pearson’s reassuringly rigorous rule-based system. This is when a P value of 0.05 became enshrined as ‘statistically significant’, for example. “The P value was never meant to be used the way it’s used today,” says Goodman.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 635eee96-763c-403f-aa67-d42696e9e570
+:END:
+* The P value cannot say this: all it can do is summarize the data assuming a specific null hypothesis. It cannot work backwards and make statements about the underlying reality.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 635eef07-7372-403f-8ee9-4a0f7143a46f
+:END:
+* The more implausible the hypothesis — telepathy, aliens, homeopathy — the greater the chance that an exciting finding is a false alarm, no matter what the P value is.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 635eef29-0016-4a31-9841-3c743ee9b182
+:END:
+* Critics also bemoan the way that P values can encourage muddled thinking. A prime example is their tendency to deflect attention from the actual size of an effect. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:id: 635eef3f-35da-4d58-8682-1b19e1dfa33a
+:END:
+* Perhaps the worst fallacy is the kind of self-deception for which psychologist Uri Simonsohn of the University of Pennsylvania and his colleagues have popularized the term P-hacking; it is also known as data-dredging, snooping, fishing, significance-chasing and double-dipping. “P-hacking,” says Simonsohn,“is trying multiple things until you get the desired result” — even unconsciously. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:id: 635eef56-2be8-45ba-a4fe-302dcf3b283c
+:END:
