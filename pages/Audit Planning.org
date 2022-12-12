@@ -1,0 +1,175 @@
+* Definition: An audit plan is a step-wise approach to be followed to conduct an audit.
+* Audit charter
+:PROPERTIES:
+:collapsed: true
+:END:
+** independence of the audit function is ensured through a management-approved audit charter
+** Important characteristics:
+*** formal document defining internal audit's objective, authority, and responsibility
+*** must be approved by top management
+*** policy-level governance document: procedure details are recorded elsewhere to minimize changes in this strategic document
+*** reviewed annually to ensure alignment with business objectives
+** Key elements of the charter document:
+*** mission, purpose, and objective of the audit function
+*** scope of the audit function
+*** responsibilities of management
+*** responsibilities of internal auditors
+*** authorized personnel of the internal audit work
+** If outsourced, the objective of the audit and detailed scope, should be incorporated in an audit engagement letter (not in charter)
+* Audit planning details
+:PROPERTIES:
+:collapsed: true
+:END:
+** Key concepts:
+*** Audit universe: An inventory of all the functions/processes/units under the organization.
+*** Qualitative risk assessment: In a qualitative risk assessment, risk is assessed using qualitative parameters such as high, medium, and low.
+*** Quantitative risk assessment: In a quantitative risk assessment, risk is assessed using numerical parameters and is quantified.
+*** Risk factors: Factors that have an impact on risk. The presence of those factors increases the risk, whereas the absence of those factors decreases the risk.
+** Benefits of audit planning:
+:PROPERTIES:
+:collapsed: true
+:END:
+*** Clarifies the following details of an audit:
+**** objectives of the audit
+**** scope of the audit
+**** periodicity of the audit
+**** members of the audit team
+**** method of audit
+*** These benefit the audit by:
+**** It helps the auditor to focus on high-risk areas
+**** It helps in the identification of resource requirements to conduct the audit
+**** It helps to estimate the budget for the audit
+**** It helps to carry out audit work in a defined structure, which ultimately benefits the auditor as well as the auditee units
+** audit plan should be reviewed and approved by top management
+** approval is obtained from the audit committee of the board
+** An auditor should consider the following for individual audit assignments:
+*** Prior audit reports
+*** Risk assessment reports
+*** Regulatory requirements
+*** Standard operating processes
+*** Technological requirements
+** thorough understanding of business process applications and controls is very important
+**
+* Business process applications and controls
+:PROPERTIES:
+:collapsed: true
+:END:
+** auditor should focus on the areas that are most meaningful to management
+** common applications in business processes and associated risks
+*** E-commerce
+**** compromise of confidential user data
+**** data integrity issues due to unauthorized alterations
+**** system being unavailable may impact business continuity
+**** repudiation of transactions by either party
+*** Electronic Data Interchange (EDI)
+**** One of the biggest risks applicable to EDI is transaction authorization
+**** Due to electronic interactions, no inherent authentication occurs
+**** There could be related uncertainty with a specific legal liability when we don't have a trading partner agreement
+**** Any performance-related issues with EDI applications could have a negative impact on both parties
+**** Other EDI-related risks include unauthorized access, data integrity and confidentiality, and the loss or duplication of EDI transactions.
+*** Point of Sale (POS)
+**** risk of skimming, that is, the unauthorized capturing of card data with the purpose of duplicating the card
+**** risk of the unauthorized disclosure of PINs
+*** Electronic banking
+**** Heavy dependence on internet service providers, telecommunication companies, and other technology firms
+**** Cyber risks such as system hacking, system unavailability, and a lack of transaction integrity
+*** Electronic funds transfer
+**** Heavy dependence on internet service providers, telecommunication companies, and other technology firms
+**** Cyber risks such as system hacking, system unavailability, and a lack of transaction integrity
+*** Image processing
+**** Implementation without appropriate planning and testing may result in system failure
+**** The workflow system may need to be completely redesigned to integrate with the image processing system
+**** Traditional controls and audit processes may not be applicable to image processing systems. New controls must be designed for automated processes
+**** Cyber risks such as system hacking, system unavailability, and a lack of transaction integrity.
+*** AI and expert systems
+**** Incorrect decisions or actions performed by the system due to incorrect assumptions, formulas, or databases in the system
+**** Cyber risks such as system hacking, system unavailability, and a lack of transaction integrity
+***
+* Types of controls
+:PROPERTIES:
+:collapsed: true
+:END:
+** Preventive
+*** The use of qualified personnel
+*** The segregation of duties
+*** The use of SOPs to prevent errors
+*** Transaction authorization procedures
+*** Edit checks
+*** Access control procedures
+*** Firewalls
+*** Physical barriers
+** Detective
+*** Internal audits and other reviews
+*** Log monitoring
+*** Checkpoints in production jobs
+*** Echo controls in telecommunications
+*** Error messages over tape labels
+*** Variance analysis
+*** Quality assurance
+** Deterrent
+*** Business continuity planning
+*** Disaster recovery planning
+*** Incident response planning
+*** Backup procedures
+** Corrective
+*** CCTV cameras or "under surveillance" signs
+*** Warning signs
+** Difference between detective and deterrent controls
+*** When a preventive control is implemented, an intruder is prevented from performing an act. They do not have a choice in whether or not to perform the act.
+*** When a deterrent control is implemented, the intruder is being given a warning. Here, the intruder has a choice: either to act as per the warning or ignore the warning.
+** What are compensating controls?
+*** Compensating controls are alternate measures that are employed to ensure that weaknesses in a system are not exploited. In many cases, a strong control in one area can compensate for a weakness in another area.
+** What are control objectives?
+*** A control objective is a reason why a control is implemented. Control objectives are linked to business objectives.
+*** Control objectives ought to address:
+**** effectiveness and efficiency of operational processes
+**** adherence to regulatory requirements
+**** the protection of assets.
+** What are control measures?
+*** Control measures are implemented to achieve control objectives. Control measures are activities that are taken to prevent, eliminate, or minimize the risk of threat occurrence.
+* Risk-based audit planning
+** Important definitions
+*** What is a risk? It's the product of probability and impact.
+*** What is a vulnerability? A weakness in a system. Generally, a vulnerability can be controlled by the organization.
+*** What is a threat? An element that exploits a weakness. Generally, a threat is not in the control of the organization.
+*** What is inherent risk? The risk that an activity poses, excluding any controls or mitigating factors
+*** What is residual risk? The risk that remains after taking controls into account.
+** Advantages of risk-based audit planning:
+*** Effective risk-based auditing reduces the audit risk that arises during an audit.
+*** Risk-based auditing is a proactive approach that helps in identifying issues at an early stage.
+*** One of the major factors in a risk assessment is compliance with contractual and legal requirements. Risk-based auditing helps an organization to identify any major deviation from contractual and legal requirements. This improves compliance awareness throughout the organization.
+*** Risk-based auditing promotes preventive controls over reactive measures.
+*** Risk-based auditing helps to align internal audit activities with the risk management practices of the organization.
+** Types of audit risk
+*** Inherent risk: This refers to risk that exists before applying a control.
+*** Control risk: This refers to risk that internal controls fail to prevent or detect.
+*** Detection risk: This refers to risk that internal audits fail to prevent or detect.
+*** Formula -> Audit Risk = Inherent Risk X Control Risk x Detection Risk
+*** experience and expertise of the auditor that minimizes audit risk
+** Risk-based auditing approach
+*** Step 1 – Acquire pre-audit requirements:
+**** Knowledge about industry and regulatory requirements
+**** Knowledge about applicable risk to the concerned business
+**** Prior audit results
+*** Step 2 – Obtain information about internal controls:
+**** Get knowledge about the control environment and procedures
+**** Understand control risks
+**** Understand detection risks
+*** Step 3 – Conduct compliance test:
+**** Identify the controls to be tested
+**** Determine the effectiveness of the controls
+*** Step 4 – Conduct a substantive test:
+**** Identify the process for the substantive test
+**** See that the substantive test includes analytical procedures, detail tests of account balances, and other procedures
+*** Risk assessments should be conducted at regular intervals to account for changes in risk factors.
+** Risk response methodology
+*** Risk mitigation/risk reduction: Take some action to mitigate/reduce the risk.
+*** Risk avoidance: Change the strategy or business process to avoid the risk.
+*** Risk acceptance: Decide to accept the risk.
+*** Risk transfer: Transfer the risk to a third party. Insurance is the best example.
+*** *Risk culture and risk appetite of the organization in question determines the risk response method*
+** Approaches to policy development
+*** Top-up policy development: policies are developed and aligned with business objectives
+*** Bottom-down policy development: polices are designed and developed from the process owner's/employee's perspective. The bottom-up approach begins by defining operational-level requirements and policies. The bottom-up approach is derived from and implemented on the basis of the results of risk assessments.
+***
+* Types of audit assessment

@@ -1,0 +1,6 @@
+* Audit project management
+* Sampling methodology
+* Audit evidence collection techniques
+* Data analytics
+* Reporting and communication techniques
+* Quality assurance and improvement of the audit process

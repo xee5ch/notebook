@@ -63,6 +63,12 @@
  {:block/name "attention is all you need",
   :block/created-at 1668480722250,
   :block/updated-at 1668482202074}
+ {:block/name "audit execution",
+  :block/created-at 1670813833522,
+  :block/updated-at 1670813897912}
+ {:block/name "audit planning",
+  :block/created-at 1670809735851,
+  :block/updated-at 1670813517090}
  {:block/name "aug 25th, 2022",
   :block/created-at 1661478895116,
   :block/updated-at 1661478895116}
@@ -133,6 +139,9 @@
   "center for cyber intelligence analysis and threat research",
   :block/created-at 1661481166481,
   :block/updated-at 1661481166481}
+ {:block/name "certified information systems auditor",
+  :block/created-at 1670809679441,
+  :block/updated-at 1670813834063}
  {:block/name "christopher betz",
   :block/created-at 1661481323307,
   :block/updated-at 1661481323307}
@@ -163,6 +172,9 @@
  {:block/name "cyberspace and geopolitics",
   :block/created-at 1670092008328,
   :block/updated-at 1670095126982}
+ {:block/name "dec 11th, 2022",
+  :block/created-at 1670809529622,
+  :block/updated-at 1670809529622}
  {:block/name "dec 3rd, 2022",
   :block/created-at 1670086996863,
   :block/updated-at 1670087111361}
