@@ -1,0 +1,158 @@
+#+file-path: ./../assets/csa_security_guidance_v4.0_1670814714973_0.pdf
+#+file: [[./../assets/csa_security_guidance_v4.0_1670814714973_0.pdf][csa_security_guidance_v4.0_1670814714973_0.pdf]]
+#+title: hls__csa_security_guidance_v4.0_1670814714973_0
+
+* It is a disruptive technology that has the potential to enhance collaboration, agility, scaling, and availability
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: yellow
+:id: 639e7c9a-29dc-4107-9d58-27bf8108c4f8
+:END:
+* Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: yellow
+:id: 639e7cbb-07fa-4a3d-b567-7da388a371e8
+:END:
+* Paradigm for enabling network access to a scalable and elastic pool of shareable physical or virtual resources with self-service provisioning and administration on-demand.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: yellow
+:id: 639e7ccf-4903-459a-b713-e8ac5b8bfa86
+:END:
+* The key techniques to create a cloud are abstraction and orchestration. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 639e7db7-979f-4dac-8d15-398d035bc4fe
+:END:
+* This is the difference between cloud computing and traditional virtualization; virtualization abstracts resources, but it typically lacks the orchestration to pool them together and deliver them to customers on demand, instead relying on manual processes.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 639e7dc7-d4f5-4be2-a70f-925d9a7bbc80
+:END:
+* Clouds are multitenant by nature. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 639e7dd3-cd94-4c5a-96e6-fba937a263b5
+:END:
+* Essential Characteristics
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:hl-color: yellow
+:id: 639e7e07-fda3-4afa-94ef-48acdf4bcb43
+:END:
+* ISO/IEC 17788 lists six key characteristics, the first five of which are identical to the NIST characteristics. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:hl-color: yellow
+:id: 639e7e49-77cb-4660-b8af-1d7a93d8aedd
+:END:
+* Service Models
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: yellow
+:id: 639e7e75-d7c4-4826-ab2e-b278eb4bd862
+:END:
+* ISO/IEC uses a more complex definition with a cloud capabilities type that maps closely to the SPI tiers (application, infrastructure, and platform capability types). It then expands into
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: yellow
+:id: 639e7e9b-312b-4c2f-aa0f-1414ed075700
+:END:
+* Deployment Models
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: yellow
+:id: 639e7eba-2f61-489b-a116-f0c25c388f59
+:END:
+* Reference and Architecture Models
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:hl-color: yellow
+:id: 639e7efc-dce0-4ba7-ae66-6b46a7acbc1f
+:END:
+* For an in-depth reference architectural model, we again recommend ISO/IEC 17789 and NIST 500-292, which complement the NIST definition model.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:hl-color: yellow
+:id: 639e7f09-afc6-4ab4-afa1-bcfdb11dabdb
+:END:
+* In most cases, those APIs are both remotely accessible and wrapped into a web-based user interface. This combination is the cloud management plane, since consumers use it to manage and configure the cloud resources, such as launching virtual machines (instances) or configuring virtual networks. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:hl-color: yellow
+:id: 639e7f53-dbe5-46f6-a57d-75328958966c
+:END:
+* PaaS adds an additional layer of integration with application development frameworks, middleware capabilities, and functions such as databases, messaging, and queuing.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:hl-color: yellow
+:id: 639e7f8f-3b45-45ca-bfa5-de1fc3fe4627
+:END:
+* One option, frequently seen in the real world and illustrated in our model, is to build a platform on top of IaaS. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:hl-color: yellow
+:id: 639e7fae-98ca-4de8-834c-743ecd0ae041
+:END:
+* Another example is an application deployment platform. T
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:hl-color: yellow
+:id: 639e7fc1-7ed3-47ce-829b-147492b98752
+:END:
+* Thus all SaaS tends to have an application/logic layer and data storage, with an API on top. Then there are one or more presentation layers, often including web browsers, mobile applications, and public API access.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:hl-color: yellow
+:id: 639e8002-f34a-4f75-a97a-5ad01695f9ba
+:END:
+* Logical Model
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 639e8018-9f5c-440d-bfbd-9a72f49066d1
+:END:
+* The key difference between cloud and traditional computing is the metastructure. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 639e807a-2d0e-4107-bfaa-b0b4b3b87601
+:END:
+* Another key difference is that, in cloud, you tend to double up on each layer. Infrastructure, for example, includes both the infrastructure used to create the cloud as well as the virtual infrastructure used and managed by the cloud user. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 639e808e-2424-4d16-9b53-b9c4870ee70b
+:END:
+* As we will discuss later this has profound implications on who is responsible for, and manages, security. These layers tend to map to different teams, disciplines, and technologies commonly found in IT organizations.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 639e80b4-cb7a-4a24-b464-21fd736c0b4d
+:END:

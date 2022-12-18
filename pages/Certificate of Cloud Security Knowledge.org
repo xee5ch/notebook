@@ -1,2 +1,51 @@
 * [[file:./../assets/csa_security_guidance_v4.0_1670814714973_0.pdf][csa_security_guidance_v4.0.pdf]]
-*
+* Cloud Computing Concepts and Architectures
+** Defining cloud computing
+*** ((639e7c9a-29dc-4107-9d58-27bf8108c4f8))
+*** NIST definition: ((639e7cbb-07fa-4a3d-b567-7da388a371e8))
+*** ISO/IEC definition: ((639e7ccf-4903-459a-b713-e8ac5b8bfa86))
+*** ((639e7db7-979f-4dac-8d15-398d035bc4fe))
+*** ((639e7dc7-d4f5-4be2-a70f-925d9a7bbc80))
+*** ((639e7dd3-cd94-4c5a-96e6-fba937a263b5))
+*** NIST cloud definition: ((639e7e07-fda3-4afa-94ef-48acdf4bcb43))
+**** Resource pooling
+**** On-demand self-service
+**** Broad network access
+**** Rapid elasticity
+**** Measured ("metered") services
+*** ((639e7e49-77cb-4660-b8af-1d7a93d8aedd)); ISO/IEC adds multi-tenancy
+*** ((639e7e75-d7c4-4826-ab2e-b278eb4bd862)) (sometimes known as SPI tiers)
+**** SaaS
+**** PaaS
+**** IaaS
+*** ((639e7e9b-312b-4c2f-aa0f-1414ed075700))
+*** ((639e7eba-2f61-489b-a116-f0c25c388f59))
+**** Public
+**** Private
+**** Community
+**** Hybrid
+*** ((639e7efc-dce0-4ba7-ae66-6b46a7acbc1f))
+**** ((639e7f09-afc6-4ab4-afa1-bcfdb11dabdb))
+**** IaaS
+***** ((639e7f53-dbe5-46f6-a57d-75328958966c))
+**** PaaS
+***** ((639e7f8f-3b45-45ca-bfa5-de1fc3fe4627))
+***** ((639e7fae-98ca-4de8-834c-743ecd0ae041))
+***** ((639e7fc1-7ed3-47ce-829b-147492b98752))
+**** SaaS
+***** ((639e8002-f34a-4f75-a97a-5ad01695f9ba))
+*** ((639e8018-9f5c-440d-bfbd-9a72f49066d1))
+**** Infrastructure: The core components of a computing system: compute, network, and storage. The foundation that everything else is built on. The moving parts.
+**** Metastructure: The protocols and mechanisms that provide the interface between the
+infrastructure layer and the other layers. The glue that ties the technologies and enables
+management and configuration.
+**** Infostructure: The data and information. Content in a database, file storage, etc.
+**** Applistructure: The applications deployed in the cloud and the underlying application services used to build them. For example, Platform as a Service features like message queues, artificial intelligence analysis, or notification services.
+**** ((639e807a-2d0e-4107-bfaa-b0b4b3b87601))
+**** ((639e808e-2424-4d16-9b53-b9c4870ee70b))
+**** ((639e80b4-cb7a-4a24-b464-21fd736c0b4d))
+****
+** Cloud logical model
+** Cloud conceptual, architectural, and reference model
+** Cloud security and compliance scope, responsibilities, and models
+**

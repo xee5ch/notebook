@@ -32,6 +32,10 @@
   :block/created-at 1643782701143,
   :block/updated-at 1643782701143}
  {:block/name
+  "../assets/csa_security_guidance_v4.0_1670814714973_0.pdf][csa_security_guidance_v4.0.pdf][csa security guide v4.0",
+  :block/created-at 1670814732033,
+  :block/updated-at 1670814732033}
+ {:block/name
   "../assets/kuerbis-badiei_1661620398101_0.pdf][kuerbis-badiei_1661620398101_0.pdf",
   :block/created-at 1661620464648,
   :block/updated-at 1661620464648}
@@ -139,6 +143,9 @@
   "center for cyber intelligence analysis and threat research",
   :block/created-at 1661481166481,
   :block/updated-at 1661481166481}
+ {:block/name "certificate of cloud security knowledge",
+  :block/created-at 1670814695024,
+  :block/updated-at 1671332024798}
  {:block/name "certified information systems auditor",
   :block/created-at 1670809679441,
   :block/updated-at 1670813834063}
@@ -163,6 +170,9 @@
  {:block/name "contents",
   :block/created-at 1642973937341,
   :block/updated-at 1642973937341}
+ {:block/name "csa",
+  :block/created-at 1670814769198,
+  :block/updated-at 1670814769198}
  {:block/name "cyber kill chain",
   :block/created-at 1661732384609,
   :block/updated-at 1661732426366}
@@ -175,6 +185,18 @@
  {:block/name "dec 11th, 2022",
   :block/created-at 1670809529622,
   :block/updated-at 1670809529622}
+ {:block/name "dec 12th, 2022",
+  :block/created-at 1670821205003,
+  :block/updated-at 1670821205003}
+ {:block/name "dec 13th, 2022",
+  :block/created-at 1670911018465,
+  :block/updated-at 1670911018465}
+ {:block/name "dec 14th, 2022",
+  :block/created-at 1670994003004,
+  :block/updated-at 1670994003004}
+ {:block/name "dec 17th, 2022",
+  :block/created-at 1671293588902,
+  :block/updated-at 1671293588902}
  {:block/name "dec 3rd, 2022",
   :block/created-at 1670086996863,
   :block/updated-at 1670087111361}
@@ -241,6 +263,14 @@
   "file:./../assets/41913_1661921211548_0.pdf][hack back: diy guide from gamma group attack before hacking team.org][../assets/41913_1661921211548_0.pdf][hack back: diy guide from gamma group attack before hacking team",
   :block/created-at 1661921237333,
   :block/updated-at 1661921237333}
+ {:block/name
+  "file:./../assets/csa_security_guidance_v4.0_1670814714973_0.pdf][csa_security_guidance_v4.0.pdf][csa security guide v4.0",
+  :block/created-at 1670814752384,
+  :block/updated-at 1670814752384}
+ {:block/name
+  "file:./../assets/csa_security_guidance_v4.0_1670814714973_0.pdf][csa_security_guidance_v4.0.pdf][csa security guide v4.0.org][../assets/csa_security_guidance_v4.0_1670814714973_0.pdf][csa_security_guidance_v4.0.pdf][csa security guide v4.0",
+  :block/created-at 1670814732611,
+  :block/updated-at 1670814732611}
  {:block/name "git",
   :block/created-at 1661710704193,
   :block/updated-at 1661710729610}
@@ -313,6 +343,9 @@
   "hls__cncf_kubernetes_policy_management_whitepaper_v1_1643492954114_0",
   :block/created-at 1643782701141,
   :block/updated-at 1643782701141}
+ {:block/name "hls__csa_security_guidance_v4.0_1670814714973_0",
+  :block/created-at 1671330970783,
+  :block/updated-at 1671330970783}
  {:block/name "hls__cyberspace_and_geopolitics_1670092063120_0",
   :block/created-at 1670092126382,
   :block/updated-at 1670092126382}
