@@ -492,3 +492,423 @@
 :hl-color: yellow
 :id: 63a2a32d-6cfa-4d76-a702-c408d1414549
 :END:
+* Required Security Measures
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:hl-color: yellow
+:id: 63a8b758-8649-4f1a-b6b9-1e0a4650a2a7
+:END:
+* Restrictions to Cross-border Data Transfers
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:hl-color: yellow
+:id: 63a8b769-9c6f-4125-b27d-a9cca2f884da
+:END:
+* Many countries prohibit or restrict the transfer of information out of their borders. In most cases, the transfer is permitted only if the country to which the data is transferred offers an“adequate level of protection” 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:hl-color: yellow
+:id: 63a8b792-ead3-49f6-8be9-8158174c1f8a
+:END:
+* Alternatively, the data importer and exporter may need to sign a contract ensuring the maintenance of privacy rights for data subjects.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 38
+:hl-color: yellow
+:id: 63a8b7a1-3a59-46e0-929e-5d17f746f558
+:END:
+* Regional Examples
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:hl-color: yellow
+:id: 63a8b7b8-ca71-44c4-9ca0-2fe5d32ea64c
+:END:
+* he Privacy Act of 1988 (Privacy Act) 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:hl-color: yellow
+:id: 63a8b7d8-613b-4921-83c9-cbdf97bef50b
+:END:
+* Australian Consumer Law (ACL). 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:hl-color: yellow
+:id: 63a8b7ed-e2fb-4d51-88ad-f10b3297c139
+:END:
+* May 2017, proposed Measures on the Security of Cross-Border Transfers of Personal Information and Important Data were published by the Chinese government and are currently being evaluated for potential implementation
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:hl-color: yellow
+:id: 63a8b812-45ad-4aef-bc29-f9c462be1daf
+:END:
+* 2017 Cyber Security Law
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:hl-color: yellow
+:id: 63a8b81e-d4f3-4fd1-8671-7059d9358bae
+:END:
+* The Cyber Security Law imposes a series of security obligations to operators of critical information infrastructure, including internal organization, training, data backup; emergency response requirements, security inspections and annual assessments of cyber security risks; and reporting to relevant authorities.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 40
+:hl-color: yellow
+:id: 63a8b846-9077-4006-89ce-fdf7020be514
+:END:
+* During the second quarter of 2017, China issued Draft Regulations on Cross Border Data Transfers to supplement the Cyber Security Law. These regulations would go beyond the working of the Cyber Security Law, and expand its scope.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 40
+:hl-color: yellow
+:id: 63a8b855-01c1-4de1-8285-6efd80399564
+:END:
+* Act on the Protection of Personal Information (APPI
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 40
+:hl-color: yellow
+:id: 63a8b86a-c23c-4f3e-a510-cef1fd6628fd
+:END:
+* Profession-specific laws, such as the Medical Practitioners’ Act; the Act on Public Health Nurses, Midwives and Nurses; and the Pharmacist Act, require registered health professionals to maintain the confidentiality of patient information
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 40
+:hl-color: yellow
+:id: 63a8b884-be4d-411d-bb50-1051627a2bc0
+:END:
+* September 2017, amendments to the APPI law will limit the ability to transfer personal data to third parties, with prior consent of the data subject generally being required to transfer data to a third party
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 40
+:hl-color: yellow
+:id: 63a8b890-ea8d-4e60-b3e5-7e920a5872bb
+:END:
+* the most important aspect of the Russian legal framework regarding the handling of personal information is its data localization law. Since September 2015, companies are required to store personal data of Russian citizens within Russia
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 40
+:hl-color: yellow
+:id: 63a8c49e-2f8b-49ea-a9f8-8c02aaf9ed01
+:END:
+* Roskomnadzor, the Russian Data Protection regulator, has commenced enforcement of the law and has already blocked access to one foreign social network, which did not have a physical presence in Russia, but operated a Russian language version of its website
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 40
+:hl-color: yellow
+:id: 63a8c4b0-2abe-47ee-8117-2d502260bcfa
+:END:
+* The European Union (EU) adopted the General Data Protection Regulation (GDPR) in 2016, which is binding on all EU member states, as well as members of the European Economic Area (EEA). The GDPR will become enforceable as of May 25, 2018. On that date, Directive 95/46/EC on the Protection of Personal Data, which had been the legal basis of the provisions of the national data protection laws of all EU and EEA member states, will be repealed.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 41
+:hl-color: yellow
+:id: 63a8c4c8-8695-41b1-b9a8-6a24b5cfd9cd
+:END:
+* important document governing aspects of the protection of personal data in the EU/EEA is Directive 2002/58/EC on Privacy and Electronic Communications
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 41
+:hl-color: yellow
+:id: 63a8c4d7-31c0-4ccd-b441-6f1f728d05c0
+:END:
+* the Network Information Security Directive (NIS Directive) is paving the way to more stringent security requirements. Adopted in 2016, the NIS Directive requires EU/EEA member states to implement new information security laws for the protection of critical infrastructure and essential services by May 2018
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 41
+:hl-color: yellow
+:id: 63a8c4e8-ccb8-4592-b42c-44d04de46bdf
+:END:
+* General Data Protection Regulation (GDPR)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 41
+:hl-color: yellow
+:id: 63a8c4f4-37ac-4cc8-a89c-750a07105e65
+:END:
+* Network Information Security Directive (NIS Directive)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:hl-color: yellow
+:id: 63a8c500-0a69-4f05-b87b-086488e4527a
+:END:
+* he NIS Directive establishes a framework to enable networks and information systems to resist, at a given level of confidence, actions that compromise the availability, authenticity, integrity, or confidentiality of stored, transmitted, or processed data, or the related services that are offered by or accessible through those networks and information systems
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:hl-color: yellow
+:id: 63a8e0a2-2a84-48aa-a162-594a7316e0fd
+:END:
+* The requirements to be implemented into national laws include the following:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:hl-color: yellow
+:id: 63a8e0ca-342c-4277-a253-bfec3b1f8f56
+:END:
+* Due to its sectoral approach, the United States has hundreds of federal, state and local regulations,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:hl-color: yellow
+:id: 63a8e111-087f-4347-b687-f8e01817bfde
+:END:
+* extensive requirements under Massachusetts’“Standards for the Protection of Personal Information of Residents of the Commonwealth,” 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:hl-color: yellow
+:id: 63a8e15b-9fa0-44e6-b266-901daa86af5a
+:END:
+* a small number of state laws reference other specific standards (such as the Payment Card Industry Data Security Standard, PCI-DSS
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:hl-color: yellow
+:id: 63a8e16b-fe82-46f6-a53f-9b47b62d6f48
+:END:
+* Contracts and Provider Selection
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: yellow
+:id: 63a8e1bd-661c-47e4-aaa5-aad06fdac86e
+:END:
+* Even if a specific activity is not regulated, cloud customers may have a contractual obligation to protect the personal information of their own clients, contacts or employees
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: yellow
+:id: 63a8e229-7a43-46c5-bd84-3beeb6444f6c
+:END:
+* This obligation may stem, for example, from the Terms and Conditions and Privacy Statement
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: yellow
+:id: 63a8e237-fe1d-4f32-9a69-746e4ea86453
+:END:
+* It is therefore prudent, and may be required by law or regulation, that the data custodian and the cloud provider enter into a formal written agreement that clearly defines the roles, the expectations of the parties, and the allocation of the many responsibilities that are attached to the data at stake.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:hl-color: yellow
+:id: 63a8e25e-1b73-4383-b7f0-2a4a625d3781
+:END:
+* Internal Due Diligence
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:hl-color: yellow
+:id: 63a8e269-6a9c-4d57-a8e4-1110d2a7e51f
+:END:
+* Before entering into a cloud computing arrangement, both the cloud service vendor and the cloud customer should evaluate respective practices, needs and restrictions to identify relevant legal barriers and compliance requirements.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:hl-color: yellow
+:id: 63a8e2c2-53fa-4607-8b3f-6faae86aaabf
+:END:
+* If the company, or potential cloud customer, has signed a confidentiality agreement to protect personal information or trade secrets, this agreement probably prohibits hiring a subcontractor without prior permission of the data owner. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:hl-color: yellow
+:id: 63a8e2d9-d025-445f-9fe1-afa4732f63c0
+:END:
+* Monitoring, Testing, and Updating
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:hl-color: yellow
+:id: 63a8e2fc-418e-4db5-8e78-f768051b2b08
+:END:
+* External Due Diligence
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:hl-color: yellow
+:id: 63a8e30f-5ff9-4995-8ee1-8e35612672f6
+:END:
+* Thus, depending on the nature of the proposed project, the due diligence may involve evaluating the nature and completeness of the services provided, the reputation for quality or stability of the service, the availability of a certain level of support or maintenance, the responsiveness of customer service, the speed of the network, and the location of the data centers.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:hl-color: yellow
+:id: 63a8e336-43bb-441a-ba1c-0870bd32e852
+:END:
+* Reviewing all terms and conditions of the cloud services agreement (including all annexes, schedules and appendices) is good due diligence for any new project.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:hl-color: yellow
+:id: 63a8e34f-1950-4589-af05-f0ff06ca6677
+:END:
+* Contract Negotiations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:hl-color: yellow
+:id: 63a8e35b-3fb0-48a2-b750-fa6020f26160
+:END:
+* Reliance on Third-Party Audits and Attestations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:hl-color: yellow
+:id: 63a8e650-a41c-4dd3-9d86-32cd259a9554
+:END:
+* In cloud computing, third-party audits and attestations are frequently used to assure compliance with aspects of the cloud provider’s infrastructure, allowing a customer to build their own compliant services on top of the cloud platform.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:hl-color: yellow
+:id: 63a8e666-a395-4369-b2d2-5ee0d7b7e49c
+:END:
+* Electronic Discovery
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:hl-color: yellow
+:id: 63a8e67f-94d8-414d-bbf8-1194689d87c2
+:END:
+* In recent years, many litigants have deleted, lost or modified evidence that was detrimental to their case. In these cases, the Federal Rules of Civil Procedure allow, among other penalties, money to be awarded to the side not responsible for the destruction; 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:hl-color: yellow
+:id: 63a8e69b-899a-4d52-a083-fb001d479e1c
+:END:
+* Possession, Custody and Control
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:hl-color: yellow
+:id: 63a8e6b0-a9aa-4b05-8dff-8f34992d917c
+:END:
+* Relevant Cloud Applications and Environment
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:hl-color: yellow
+:id: 63a8e6c6-e4d8-4d1b-9386-baea091eaf6a
+:END:
+* Searchability and E-Discovery Tools
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:hl-color: yellow
+:id: 63a8e6d7-51ed-44cf-939f-6e0ee3397848
+:END:
+* Preservation
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 49
+:hl-color: yellow
+:id: 63a8e6f6-477c-4e85-a269-d43b4dfd6e74
+:END:
+* European Union, information preservation is governed under Directive 2006/24/EC of the European Parliament and of the Council of 15 March 2006.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 50
+:hl-color: yellow
+:id: 63a8e719-6bb3-4d37-a7a2-84bd4c9525b4
+:END:
+* Japan, South Korea and Singapore have similar data protection initiatives. In South America, Brazil and Argentina have the Azeredo Bill and the Argentina Data Retention Law of2004, Law No. 25.873, respectively.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 50
+:hl-color: yellow
+:id: 63a8e722-e67c-42f7-8429-f649d25cd2dc
+:END:
+* Data Retention Laws and Record Keeping Obligations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 50
+:hl-color: yellow
+:id: 63a8e72e-45bc-4967-b2c0-df5d100c8097
+:END:
+* Costs and Storage: Preservation can require that large volumes of data be retained for extended periods. Customers should consider these questions and determine the risk tolerated before moving to the cloud:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 50
+:hl-color: yellow
+:id: 63a8e746-7f00-4ed3-b008-89d77fcdf4e6
+:END:
+* Collection
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:hl-color: yellow
+:id: 63a8e773-7fc1-46cb-8ad5-d50f41d1f48e
+:END:
+* Because of the potential lack of administrative control a client has over its data in the cloud, collection from the cloud can be more difficult, more time-consuming and more expensive than from behind a client’s firewall. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:hl-color: yellow
+:id: 63a8e78e-c397-4e71-aa7e-6b6bf377d388
+:END:
+* Direct Access
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 52
+:hl-color: yellow
+:id: 63a8e860-27bd-4376-a9be-d97c2f8c665e
+:END:
+* Native Production
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 52
+:hl-color: yellow
+:id: 63a8e879-5d37-4a64-87e9-8b23078956b2
+:END:
+* Authenticatio
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 52
+:hl-color: yellow
+:id: 63a8e890-a679-475c-aec9-cf61678e5434
+:END:
+* Cooperation Between Provider and Client in E-Discovery
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 52
+:hl-color: yellow
+:id: 63a8e8a6-b2ca-4218-a617-fff05075c1dd
+:END:
+* Response to a Subpoena or Search Warrant
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 52
+:hl-color: yellow
+:id: 63a8e8c2-9745-42e2-86d1-9f186f753087
+:END:
+* More Information
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 53
+:hl-color: yellow
+:id: 63a8e8f9-f71a-4a6d-9d96-c37fbafc6789
+:END:
+* Recommendations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 53
+:hl-color: yellow
+:id: 63a8e90e-85b9-4d11-b23e-458cd5fe1252
+:END:
+* Compliance and Audit Management
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 54
+:hl-color: yellow
+:id: 63a8e927-8c29-4f59-a7a1-d6dbe32cb126
+:END:

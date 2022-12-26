@@ -175,4 +175,103 @@ management and configuration.
 ****** The location of the servers
 ****** The legal jurisdiction of the contract between parties, which may be different than the locations of any of the parties involved
 ****** Any treaties or other legal frameworks between those various locations
-**** Required Security Measures (bookmark for now)
+*** ((63a8b758-8649-4f1a-b6b9-1e0a4650a2a7))
+*** ((63a8b769-9c6f-4125-b27d-a9cca2f884da))
+:PROPERTIES:
+:collapsed: true
+:END:
+**** ((63a8b792-ead3-49f6-8be9-8158174c1f8a))
+**** ((63a8b7a1-3a59-46e0-929e-5d17f746f558))
+**** ((63a8b7b8-ca71-44c4-9ca0-2fe5d32ea64c))
+:PROPERTIES:
+:collapsed: true
+:END:
+***** Asia/Pacific
+****** Australia
+******* ((63a8b7d8-613b-4921-83c9-cbdf97bef50b))
+******* ((63a8b7ed-e2fb-4d51-88ad-f10b3297c139))
+****** China
+******* ((63a8b812-45ad-4aef-bc29-f9c462be1daf))
+******* ((63a8b81e-d4f3-4fd1-8671-7059d9358bae))
+******* ((63a8b846-9077-4006-89ce-fdf7020be514))
+******* ((63a8b855-01c1-4de1-8285-6efd80399564))
+****** Japan
+******* ((63a8b86a-c23c-4f3e-a510-cef1fd6628fd))
+******* ((63a8b884-be4d-411d-bb50-1051627a2bc0))
+******* ((63a8b890-ea8d-4e60-b3e5-7e920a5872bb))
+****** Russia
+******* ((63a8c49e-2f8b-49ea-a9f8-8c02aaf9ed01))
+******* ((63a8c4b0-2abe-47ee-8117-2d502260bcfa))
+***** European Union and European Economic Area
+:PROPERTIES:
+:collapsed: true
+:END:
+****** ((63a8c4c8-8695-41b1-b9a8-6a24b5cfd9cd))
+****** ((63a8c4d7-31c0-4ccd-b441-6f1f728d05c0))
+****** ((63a8c4e8-ccb8-4592-b42c-44d04de46bdf))
+****** ((63a8c4f4-37ac-4cc8-a89c-750a07105e65))
+******* Applicability
+******* Lawfulness
+******* Accountability Obligations
+******* Data Subjects' Rights
+****** ((63a8c500-0a69-4f05-b87b-086488e4527a))
+******* ((63a8e0a2-2a84-48aa-a162-594a7316e0fd))
+******* ((63a8e0ca-342c-4277-a253-bfec3b1f8f56))
+******
+***** Central and Suouth America
+***** North America: United States
+****** ((63a8e111-087f-4347-b687-f8e01817bfde))
+****** US Federal Laws
+******* Gramm-Leach-Bliley Act
+******* HIPAA
+******* Children's Online Privacy Protection Act (COPPA)
+****** US State Laws
+******* ((63a8e15b-9fa0-44e6-b266-901daa86af5a))
+******* ((63a8e16b-fe82-46f6-a53f-9b47b62d6f48))
+****** Security Breach Disclosure Laws
+****** Federal and State Agencies
+******* FTC
+******** Section 5 of the FTC ACT: Unfair or Deceptive Acts or Practices
+******* Attorneys General
+** ((63a8e1bd-661c-47e4-aaa5-aad06fdac86e))
+*** ((63a8e229-7a43-46c5-bd84-3beeb6444f6c))
+*** ((63a8e237-fe1d-4f32-9a69-746e4ea86453))
+*** ((63a8e25e-1b73-4383-b7f0-2a4a625d3781))
+*** ((63a8e269-6a9c-4d57-a8e4-1110d2a7e51f))
+**** ((63a8e2c2-53fa-4607-8b3f-6faae86aaabf))
+**** ((63a8e2d9-d025-445f-9fe1-afa4732f63c0))
+*** ((63a8e2fc-418e-4db5-8e78-f768051b2b08))
+*** ((63a8e30f-5ff9-4995-8ee1-8e35612672f6))
+**** ((63a8e336-43bb-441a-ba1c-0870bd32e852))
+**** ((63a8e34f-1950-4589-af05-f0ff06ca6677))
+*** ((63a8e35b-3fb0-48a2-b750-fa6020f26160))
+*** ((63a8e650-a41c-4dd3-9d86-32cd259a9554))
+**** ((63a8e666-a395-4369-b2d2-5ee0d7b7e49c))
+*** ((63a8e67f-94d8-414d-bbf8-1194689d87c2))
+**** ((63a8e69b-899a-4d52-a083-fb001d479e1c))
+*** ((63a8e6b0-a9aa-4b05-8dff-8f34992d917c))
+*** ((63a8e6c6-e4d8-4d1b-9386-baea091eaf6a))
+*** ((63a8e6d7-51ed-44cf-939f-6e0ee3397848))
+*** ((63a8e6f6-477c-4e85-a269-d43b4dfd6e74))
+**** US: litigation hold
+**** ((63a8e719-6bb3-4d37-a7a2-84bd4c9525b4))
+**** ((63a8e722-e67c-42f7-8429-f649d25cd2dc))
+*** ((63a8e72e-45bc-4967-b2c0-df5d100c8097))
+**** ((63a8e746-7f00-4ed3-b008-89d77fcdf4e6))
+*** ((63a8e773-7fc1-46cb-8ad5-d50f41d1f48e))
+**** ((63a8e78e-c397-4e71-aa7e-6b6bf377d388))
+**** Access and Bandwidth considerations
+**** Forensics considerations
+**** Reasonable integrity considerations
+**** Accessibility limitation considerations
+*** ((63a8e860-27bd-4376-a9be-d97c2f8c665e))
+*** ((63a8e879-5d37-4a64-87e9-8b23078956b2))
+*** ((63a8e890-a679-475c-aec9-cf61678e5434))n
+*** ((63a8e8a6-b2ca-4218-a617-fff05075c1dd))
+*** ((63a8e8c2-9745-42e2-86d1-9f186f753087))
+*** ((63a8e8f9-f71a-4a6d-9d96-c37fbafc6789))
+** ((63a8e90e-85b9-4d11-b23e-458cd5fe1252))
+* ((63a8e927-8c29-4f59-a7a1-d6dbe32cb126))
+**
+**
+**
