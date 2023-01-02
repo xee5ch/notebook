@@ -145,7 +145,7 @@
   :block/updated-at 1661481166481}
  {:block/name "certificate of cloud security knowledge",
   :block/created-at 1670814695024,
-  :block/updated-at 1672014122565}
+  :block/updated-at 1672681478508}
  {:block/name "certified information systems auditor",
   :block/created-at 1670809679441,
   :block/updated-at 1670813834063}
@@ -209,6 +209,12 @@
  {:block/name "dec 26th, 2022",
   :block/created-at 1672030803969,
   :block/updated-at 1672030803969}
+ {:block/name "dec 28th, 2022",
+  :block/created-at 1672287953980,
+  :block/updated-at 1672287953980}
+ {:block/name "dec 29th, 2022",
+  :block/created-at 1672290004077,
+  :block/updated-at 1672290004077}
  {:block/name "dec 3rd, 2022",
   :block/created-at 1670086996863,
   :block/updated-at 1670087111361}
@@ -455,6 +461,9 @@
  {:block/name "jan 29th, 2022",
   :block/created-at 1643489612434,
   :block/updated-at 1643494747857}
+ {:block/name "jan 2nd, 2023",
+  :block/created-at 1672674677502,
+  :block/updated-at 1672674677502}
  {:block/name "jan 30th, 2022",
   :block/created-at 1643500800000,
   :block/updated-at 1643500800000}

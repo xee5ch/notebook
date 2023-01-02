@@ -1,5 +1,8 @@
 * [[file:./../assets/csa_security_guidance_v4.0_1670814714973_0.pdf][csa_security_guidance_v4.0.pdf]]
 * ((63a29e36-db21-4a2d-923a-de4c8c06d71f))
+:PROPERTIES:
+:collapsed: true
+:END:
 ** Defining cloud computing
 :PROPERTIES:
 :collapsed: true
@@ -114,6 +117,9 @@ management and configuration.
 *** Use a cloud security process model to select providers, design architectures, identify control gaps, and implement security and compliance controls.
 ***
 * ((63a29eec-7c8e-4634-8dea-e4c55708329b))
+:PROPERTIES:
+:collapsed: true
+:END:
 ** ((63a29f0d-b8d0-488d-aaa7-134dba06d5c0))
 *** Governance
 *** Enterprise risk management
@@ -163,76 +169,79 @@ management and configuration.
 **** Create specific risk management, acceptance, and mitigation methodologies
 **** Use controls to manage residual risk
 **** Use tool to track approved providers based on asset type
-** ((63a2a2ca-c1ab-41fb-908d-fa743bb1c83d))
-*** Overview
-**** ((63a2a2e4-4fdf-45d2-8281-0cb967daf59f))
-***** ((63a2a301-9c85-496b-9687-a99e5411b8b2))
-***** ((63a2a31e-34f1-40fb-9601-6beb0ab55d0e))
-***** ((63a2a32d-6cfa-4d76-a702-c408d1414549))
-****** The location of the cloud provider
-****** The location of the cloud user
-****** The location of the data subject
-****** The location of the servers
-****** The legal jurisdiction of the contract between parties, which may be different than the locations of any of the parties involved
-****** Any treaties or other legal frameworks between those various locations
-*** ((63a8b758-8649-4f1a-b6b9-1e0a4650a2a7))
-*** ((63a8b769-9c6f-4125-b27d-a9cca2f884da))
+* ((63a2a2ca-c1ab-41fb-908d-fa743bb1c83d))
 :PROPERTIES:
 :collapsed: true
 :END:
-**** ((63a8b792-ead3-49f6-8be9-8158174c1f8a))
-**** ((63a8b7a1-3a59-46e0-929e-5d17f746f558))
-**** ((63a8b7b8-ca71-44c4-9ca0-2fe5d32ea64c))
+** Overview
+*** ((63a2a2e4-4fdf-45d2-8281-0cb967daf59f))
+**** ((63a2a301-9c85-496b-9687-a99e5411b8b2))
+**** ((63a2a31e-34f1-40fb-9601-6beb0ab55d0e))
+**** ((63a2a32d-6cfa-4d76-a702-c408d1414549))
+***** The location of the cloud provider
+***** The location of the cloud user
+***** The location of the data subject
+***** The location of the servers
+***** The legal jurisdiction of the contract between parties, which may be different than the locations of any of the parties involved
+***** Any treaties or other legal frameworks between those various locations
+** ((63a8b758-8649-4f1a-b6b9-1e0a4650a2a7))
+** ((63a8b769-9c6f-4125-b27d-a9cca2f884da))
 :PROPERTIES:
 :collapsed: true
 :END:
-***** Asia/Pacific
-****** Australia
-******* ((63a8b7d8-613b-4921-83c9-cbdf97bef50b))
-******* ((63a8b7ed-e2fb-4d51-88ad-f10b3297c139))
-****** China
-******* ((63a8b812-45ad-4aef-bc29-f9c462be1daf))
-******* ((63a8b81e-d4f3-4fd1-8671-7059d9358bae))
-******* ((63a8b846-9077-4006-89ce-fdf7020be514))
-******* ((63a8b855-01c1-4de1-8285-6efd80399564))
-****** Japan
-******* ((63a8b86a-c23c-4f3e-a510-cef1fd6628fd))
-******* ((63a8b884-be4d-411d-bb50-1051627a2bc0))
-******* ((63a8b890-ea8d-4e60-b3e5-7e920a5872bb))
-****** Russia
-******* ((63a8c49e-2f8b-49ea-a9f8-8c02aaf9ed01))
-******* ((63a8c4b0-2abe-47ee-8117-2d502260bcfa))
-***** European Union and European Economic Area
+*** ((63a8b792-ead3-49f6-8be9-8158174c1f8a))
+*** ((63a8b7a1-3a59-46e0-929e-5d17f746f558))
+*** ((63a8b7b8-ca71-44c4-9ca0-2fe5d32ea64c))
 :PROPERTIES:
 :collapsed: true
 :END:
-****** ((63a8c4c8-8695-41b1-b9a8-6a24b5cfd9cd))
-****** ((63a8c4d7-31c0-4ccd-b441-6f1f728d05c0))
-****** ((63a8c4e8-ccb8-4592-b42c-44d04de46bdf))
-****** ((63a8c4f4-37ac-4cc8-a89c-750a07105e65))
-******* Applicability
-******* Lawfulness
-******* Accountability Obligations
-******* Data Subjects' Rights
-****** ((63a8c500-0a69-4f05-b87b-086488e4527a))
-******* ((63a8e0a2-2a84-48aa-a162-594a7316e0fd))
-******* ((63a8e0ca-342c-4277-a253-bfec3b1f8f56))
-******
-***** Central and Suouth America
-***** North America: United States
-****** ((63a8e111-087f-4347-b687-f8e01817bfde))
-****** US Federal Laws
-******* Gramm-Leach-Bliley Act
-******* HIPAA
-******* Children's Online Privacy Protection Act (COPPA)
-****** US State Laws
-******* ((63a8e15b-9fa0-44e6-b266-901daa86af5a))
-******* ((63a8e16b-fe82-46f6-a53f-9b47b62d6f48))
-****** Security Breach Disclosure Laws
-****** Federal and State Agencies
-******* FTC
-******** Section 5 of the FTC ACT: Unfair or Deceptive Acts or Practices
-******* Attorneys General
+**** Asia/Pacific
+***** Australia
+****** ((63a8b7d8-613b-4921-83c9-cbdf97bef50b))
+****** ((63a8b7ed-e2fb-4d51-88ad-f10b3297c139))
+***** China
+****** ((63a8b812-45ad-4aef-bc29-f9c462be1daf))
+****** ((63a8b81e-d4f3-4fd1-8671-7059d9358bae))
+****** ((63a8b846-9077-4006-89ce-fdf7020be514))
+****** ((63a8b855-01c1-4de1-8285-6efd80399564))
+***** Japan
+****** ((63a8b86a-c23c-4f3e-a510-cef1fd6628fd))
+****** ((63a8b884-be4d-411d-bb50-1051627a2bc0))
+****** ((63a8b890-ea8d-4e60-b3e5-7e920a5872bb))
+***** Russia
+****** ((63a8c49e-2f8b-49ea-a9f8-8c02aaf9ed01))
+****** ((63a8c4b0-2abe-47ee-8117-2d502260bcfa))
+**** European Union and European Economic Area
+:PROPERTIES:
+:collapsed: true
+:END:
+***** ((63a8c4c8-8695-41b1-b9a8-6a24b5cfd9cd))
+***** ((63a8c4d7-31c0-4ccd-b441-6f1f728d05c0))
+***** ((63a8c4e8-ccb8-4592-b42c-44d04de46bdf))
+***** ((63a8c4f4-37ac-4cc8-a89c-750a07105e65))
+****** Applicability
+****** Lawfulness
+****** Accountability Obligations
+****** Data Subjects' Rights
+***** ((63a8c500-0a69-4f05-b87b-086488e4527a))
+****** ((63a8e0a2-2a84-48aa-a162-594a7316e0fd))
+****** ((63a8e0ca-342c-4277-a253-bfec3b1f8f56))
+*****
+**** Central and Suouth America
+**** North America: United States
+***** ((63a8e111-087f-4347-b687-f8e01817bfde))
+***** US Federal Laws
+****** Gramm-Leach-Bliley Act
+****** HIPAA
+****** Children's Online Privacy Protection Act (COPPA)
+***** US State Laws
+****** ((63a8e15b-9fa0-44e6-b266-901daa86af5a))
+****** ((63a8e16b-fe82-46f6-a53f-9b47b62d6f48))
+***** Security Breach Disclosure Laws
+***** Federal and State Agencies
+****** FTC
+******* Section 5 of the FTC ACT: Unfair or Deceptive Acts or Practices
+****** Attorneys General
 ** ((63a8e1bd-661c-47e4-aaa5-aad06fdac86e))
 *** ((63a8e229-7a43-46c5-bd84-3beeb6444f6c))
 *** ((63a8e237-fe1d-4f32-9a69-746e4ea86453))
@@ -272,6 +281,159 @@ management and configuration.
 *** ((63a8e8f9-f71a-4a6d-9d96-c37fbafc6789))
 ** ((63a8e90e-85b9-4d11-b23e-458cd5fe1252))
 * ((63a8e927-8c29-4f59-a7a1-d6dbe32cb126))
-**
-**
-**
+:PROPERTIES:
+:collapsed: true
+:END:
+** ((63b30007-d186-4df7-9e2e-7634c7f85cd5))
+** ((63b3002f-ac23-47c3-b149-1a8ac1ebb46d))
+*** ((63b3003d-896a-4108-8c49-c4bda828c5f4))
+*** ((63b30047-f617-4618-b64a-71e43a3f7663))
+*** How cloud changes compliance?
+**** ((63b30087-288c-49c9-8c6a-b90afea165de))
+**** ((63b300af-a09c-4cdf-a423-65636866eae1))
+**** ((63b300cc-d1f6-4c2f-ba78-7bae089710d5))
+*** Audit management
+**** ((63b300f3-eea4-43f1-bdc7-c52a179b318d))
+**** ((63b3010d-83bf-4845-8155-a8be50cbf598))
+*** How cloud changes audit management?
+**** ((63b3013e-9ec9-4ce1-b70f-169b86134d4b))
+**** ((63b3014e-022b-477f-a551-c6998f49845b))
+**** ((63b30167-e8a2-4489-af3b-61ad47b9e55f))
+**** ((63b30199-633e-4250-9dc0-890d87d07e48))
+**** ((63b30181-6167-497d-b097-4efbb70353d2))
+** Recommendations
+*** ((63b301bc-0b28-49e9-8b66-d7ae29d311e2))
+*** ((63b30200-0a31-4d81-803e-4faf3f194463))
+**** Clearly communicate their audit results, certifications, and attestations with particular attention to:
+***** The scope of assessments.
+***** Which specific features/services are covered in which locations and jurisdictions.
+***** How customers can deploy compliant applications and services in the cloud.
+***** Any additional customer responsibilities and limitations.
+**** Cloud providers must maintain their certifications/attestations over time and proactively communicate any changes in status.
+**** Cloud providers should engage in continuous compliance initiatives to avoid creating any gaps, and thus exposures, for their customers.
+**** Provide customers commonly needed evidence and artifacts of compliance, such as logs of administrative activity the customer cannot otherwise collect on their own.
+*** ((63b30246-7246-414d-8838-7499a49e492c))
+**** Understand their full compliance obligations before deploying, migrating to, or developing in the cloud.
+**** Evaluate a provider’s third-party attestations and certifications and align those to compliance needs.
+**** Understand the scope of assessments and certifications, including both the controls and the features/services covered.
+**** Attempt to select auditors with experience in cloud computing, especially if pass-through audits and certifications will be used to manage the customer’s audit scope.
+**** Ensure they understand what artifacts of compliance the provider offers, and effectively collect and manage those artifacts.
+**** Create and collect their own artifacts when the provider’s artifacts are not sufficient.
+**** Keep a register of cloud providers used, relevant compliance requirements, and current status. The Cloud Security Alliance Cloud Controls Matrix can support this activity.
+* ((63b3028b-6c4c-4c8a-9906-5e10b724e65a))
+:PROPERTIES:
+:collapsed: true
+:END:
+** Definition: ((63b302a1-2545-4d01-b131-bd5549b8e32d))
+** Numerous aspects of cloud impact to info governance:
+*** Multi-tenancy
+*** Shared security responsibility
+**** Ownership
+**** Custodianship (a customer gives you personal data you don't have rights to own, you are its custodian)
+*** Jurisdictional boundaries and data sovereignty
+*** Compliance, regulations, and privacy policies
+*** Destruction and removal of data
+** Overview
+*** ((63b3032d-5682-4d5b-a59e-e5a0b1a8d5bc))
+**** Information classification
+**** Information management policies
+**** Location and jurisdiction policies
+**** Authorizations
+**** Ownership
+**** Custodianship
+**** Privacy
+**** Contractual controls
+**** Security controls
+** ((63b3036d-1240-488d-a8fc-b05f5f1f7fe1))
+:PROPERTIES:
+:collapsed: true
+:END:
+*** ((63b30383-8b99-4236-b912-f94a86bf0dcb))
+*** [[http://www.securosis.com/blog/data-security-lifecycle-2.0][Details about the Data Security Lifecycle]]
+*** Lifecycle steps:
+**** Create
+**** Store
+**** Use
+**** Share
+**** Archive
+**** Destroy
+*** ((63b309b0-240a-49fa-a736-1ad10a57aec5))
+**** ((63b30740-e59d-438d-8fcc-7a71e55c640e))
+**** ((63b30763-fd05-4650-90e3-330b63d20702))
+**** ((63b30771-18da-49fa-bfe7-9150f9b8b26d))
+***** Who?
+***** How?
+*** ((63b309c8-a87e-40a8-9004-6eaf7f141497))
+**** Functions: 3 things we can do with a given datum:
+***** Read
+***** Process
+***** Store
+**** Controls: restricts list of possible actions to allowed actions
+***
+****
+****
+** ((63b30a34-ab22-4b50-92f7-ee121f0e7f84))
+*** Determine your own requirements
+*** Ensure info governance policies and practices extend to the cloud, through contractual and security controls
+*** Use data security lifecycle to help model data handling and controls
+*** Don't just lift and shift architecture and governance into cloud, re-think and restructure
+* ((63b30b53-e5c4-4316-abfb-511d1e284a50))
+** ((63b30b75-8b94-443e-ab24-cd401c5bb33e))
+** ((63b30ba8-b24a-42fa-b3f6-39b07e2413fd))
+** ((63b30bbd-ff0a-4880-8fa2-7359ca5ee48f))
+*** ((63b30bcc-a93e-4fda-b204-b1e5d41c6b79))
+**** Ensuring continuity and recovery within a given cloud provider. These are the tools and techniques to best architect your cloud deployment to keep things running if either what you deploy breaks, or a portion of the cloud provider breaks.
+**** Preparing for and managing cloud provider outages. This extends from the more constrained problems that you can architect around within a provider to the wider outages that take down all or some of the provider in a way that exceeds the capabilities of inherent DR controls.
+**** Considering options for portability, in case you need to migrate providers or platforms. This could be due to anything from desiring a different feature set to the complete loss of the provider if, for example, they go out of business or you have a legal dispute.
+*** ((63b30c15-e180-4697-b3be-388f286d7153))
+**** ((63b30c29-cf19-446b-89a0-248209466020))
+**** ((63b30c3c-cb11-4e71-ad68-59931de39562))
+***** Regions and zones (AWS/Azure/GCP)
+**** ((63b30c4c-29dd-4a9f-a3b6-4d8b4ac1f993))
+**** ((63b30c70-4523-488f-b11a-badf94c0535d))
+** Overview
+*** ((63b30c83-229d-4eba-b983-a898c135e421))
+**** ((63b30c94-258c-423c-966f-3d0e90dd80a8))
+**** ((63b30ca5-d920-4870-874d-1254405827e7))
+**** ((63b30cb5-8b6c-4e41-89da-9343d51f56ea))
+***** ((63b31601-60c0-4780-9f22-38ef19be9552))
+**** ((63b3161c-53e1-4e91-b8e0-164d2c611b42))
+***** IAM
+***** ((63b3162e-adb1-4280-8a1d-db36b284dc38))
+***** ((63b3163c-21d8-4f4d-9b98-5ff315ec7280))
+***** ((63b31655-05bc-4bb5-830c-7ce05c49df69))
+***** ((63b31667-426e-4f20-b90a-7479643716de))
+****** MFA is just as important SaaS as it is for IaaS.
+**** ((63b3167d-31a5-44ab-9a41-068ea606dbf5))
+:PROPERTIES:
+:collapsed: true
+:END:
+***** ((63b31694-3609-402b-80a7-c73d19a4da17))
+****** Perimeter security
+****** Customer auth
+****** Internal auth and credential passing
+****** Authorization and entitlements
+****** Logging, monitoring, and alerting
+**** ((63b316c3-617e-47a4-829f-a3667222ff34))
+:PROPERTIES:
+:collapsed: true
+:END:
+***** BC/DR is a shared responsibility
+***** ((63b316e0-a3e9-4356-990e-e1427b26f70a))
+***** ((63b316e9-23ee-4443-8723-f3120227ec21))
+****** ((63b316fc-c7df-4e8f-9eb4-adf18df252d7))
+**** ((63b3170a-2a2b-4a7d-8c40-2eb0acf25d40))
+:PROPERTIES:
+:collapsed: true
+:END:
+***** ((63b31781-2bde-4a52-a339-fe107191617e))
+****** Metastructure
+****** Software-defined Infrastructure
+****** Infrastructure
+****** Infostructure
+****** Applistructure
+***** ((63b317e3-0b7d-44d5-ba7e-25aab1fc142e))
+***** ((63b317f5-15b1-4e47-a975-0805e4ba9070))
+***** ((63b317b7-42ca-4d86-adde-e10f285c215c))
+**** ((63b31802-c75b-42ad-ace7-349da0bf58af))
+****

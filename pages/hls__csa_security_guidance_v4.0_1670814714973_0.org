@@ -912,3 +912,423 @@
 :hl-color: yellow
 :id: 63a8e927-8c29-4f59-a7a1-d6dbe32cb126
 :END:
+* Understanding the interaction of cloud computing and the regulatory environment is a key component of any cloud strategy.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 54
+:hl-color: yellow
+:id: 63b30007-d186-4df7-9e2e-7634c7f85cd5
+:END:
+* Overview
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 55
+:hl-color: yellow
+:id: 63b3002f-ac23-47c3-b149-1a8ac1ebb46d
+:END:
+* Compliance validates awareness of and adherence to corporate obligations 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 55
+:hl-color: yellow
+:id: 63b3003d-896a-4108-8c49-c4bda828c5f4
+:END:
+* Audits are a key tool for proving (or disproving) compliance
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 55
+:hl-color: yellow
+:id: 63b30047-f617-4618-b64a-71e43a3f7663
+:END:
+* the customer is always ultimately responsible for their own compliance. These responsibilities are defined through contracts, audits/assessments, and specifics of the compliance requirements.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 55
+:hl-color: yellow
+:id: 63b30087-288c-49c9-8c6a-b90afea165de
+:END:
+* A pass-through audit is a form of compliance inheritance. In this model all or some of the cloud provider’s infrastructure and services undergo an audit to a compliance standard. The provider takes responsibility for the costs and maintenance of these certifications. Provider audits, including pass-through audits, need to be understood within their limitations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 56
+:hl-color: yellow
+:id: 63b300af-a09c-4cdf-a423-65636866eae1
+:END:
+* Cloud compliance issues aren’t merely limited to pass-through audits; the nature of cloud also creates additional differentiators.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 57
+:hl-color: yellow
+:id: 63b300cc-d1f6-4c2f-ba78-7bae089710d5
+:END:
+* Audits must be independently conducted and should be robustly designed to reflect best practice, appropriate resources, and tested protocols and standards.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 57
+:hl-color: yellow
+:id: 63b300f3-eea4-43f1-bdc7-c52a179b318d
+:END:
+* Reporting needs to include a compliance determination, as well as a list of identified issues, risks, and remediation recommendations. Audits and assessments aren’t limited to information security, but those related to information security typically focus on evaluating the effectiveness of security management and controls.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 57
+:hl-color: yellow
+:id: 63b3010d-83bf-4845-8155-a8be50cbf598
+:END:
+* the nature of cloud computing and contracts with cloud providers will often preclude things like on-premises audits.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 57
+:hl-color: yellow
+:id: 63b3013e-9ec9-4ce1-b70f-169b86134d4b
+:END:
+* Customers working with these providers will have to rely more on third-party attestations rather than audits they perform themselves. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 58
+:hl-color: yellow
+:id: 63b3014e-022b-477f-a551-c6998f49845b
+:END:
+* Cloud providers should understand that customers still need assurance that the provider meets their contractual and regulatory obligations, and should thus provide rigorous third-party attestations to prove they meet their obligations, especially when the provider does not allow direct customer assessments. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 58
+:hl-color: yellow
+:id: 63b30167-e8a2-4489-af3b-61ad47b9e55f
+:END:
+* It’s important to remember that attestations and certifications are point-in-time activities. An attestation is a statement of an “over a period of time” assessment and may not be valid at any future point. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 58
+:hl-color: yellow
+:id: 63b30181-6167-497d-b097-4efbb70353d2
+:END:
+* Some standards, such as SSAE 16, attest that documented controls work as designed/required. The standard doesn’t necessarily define the scope of controls, so both are needed to perform a full evaluation
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 58
+:hl-color: yellow
+:id: 63b30199-633e-4250-9dc0-890d87d07e48
+:END:
+* Compliance, audit, and assurance should be continuous.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:hl-color: yellow
+:id: 63b301bc-0b28-49e9-8b66-d7ae29d311e2
+:END:
+* Cloud providers should:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:hl-color: yellow
+:id: 63b30200-0a31-4d81-803e-4faf3f194463
+:END:
+* Cloud customers should:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:hl-color: yellow
+:id: 63b30246-7246-414d-8838-7499a49e492c
+:END:
+* Information Governance
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:hl-color: yellow
+:id: 63b3028b-6c4c-4c8a-9906-5e10b724e65a
+:END:
+* Ensuring the use of data and information complies with organizational policies, standards and strategy — including regulatory, contractual, and business objectives.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:hl-color: yellow
+:id: 63b302a1-2545-4d01-b131-bd5549b8e32d
+:END:
+* 5.1.1 Cloud Information Governance Domains
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:hl-color: yellow
+:id: 63b3032d-5682-4d5b-a59e-e5a0b1a8d5bc
+:END:
+* The Data Security Lifecycle
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:hl-color: yellow
+:id: 63b3036d-1240-488d-a8fc-b05f5f1f7fe1
+:END:
+* Although Information Lifecycle Management is a fairly mature field, it doesn’t map well to the needs of security professionals. The Data Security Lifecycle is differen
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 62
+:hl-color: yellow
+:id: 63b30383-8b99-4236-b912-f94a86bf0dcb
+:END:
+* Locations: This can be illustrated by thinking of the lifecycle not as a single, linear operation, but as a series of smaller lifecycles running in different operating environments. At nearly any phase data can move into, out of, and between these environments.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:hl-color: yellow
+:id: 63b30740-e59d-438d-8fcc-7a71e55c640e
+:END:
+* Due to all the potential regulatory, contractual, and other jurisdictional issues, it is extremely important to understand both the logical and physical locations of data.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:hl-color: yellow
+:id: 63b30763-fd05-4650-90e3-330b63d20702
+:END:
+* Entitlements: When users know where the data lives and how it moves, they need to know who is accessing it and how. There are two factors here:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:hl-color: yellow
+:id: 63b30771-18da-49fa-bfe7-9150f9b8b26d
+:END:
+* Locations and Entitlements
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:hl-color: yellow
+:id: 63b309b0-240a-49fa-a736-1ad10a57aec5
+:END:
+* Functions, Actors, and Controls
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:hl-color: yellow
+:id: 63b309c8-a87e-40a8-9004-6eaf7f141497
+:END:
+* Recommendations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:hl-color: yellow
+:id: 63b30a34-ab22-4b50-92f7-ee121f0e7f84
+:END:
+* Management Plane and Business Continuity
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:hl-color: yellow
+:id: 63b30b53-e5c4-4316-abfb-511d1e284a50
+:END:
+* gaining access to the management plane is like gaining unfettered access to your data center,
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:hl-color: yellow
+:id: 63b30b75-8b94-443e-ab24-cd401c5bb33e
+:END:
+* In the end, this is an extension of the shared responsibility model discussed in Domain 1 and throughout this Guidance. The cloud management plane is responsible for managing the assets of the resource pool, while the cloud user is responsible for how they configure those assets
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:hl-color: yellow
+:id: 63b30ba8-b24a-42fa-b3f6-39b07e2413fd
+:END:
+* Business Continuity and Disaster Recovery in the Cloud
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:hl-color: yellow
+:id: 63b30bbd-ff0a-4880-8fa2-7359ca5ee48f
+:END:
+* The three main aspects of BC/DR in the cloud are:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:hl-color: yellow
+:id: 63b30bcc-a93e-4fda-b204-b1e5d41c6b79
+:END:
+* Architect for Failure
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:hl-color: yellow
+:id: 63b30c15-e180-4697-b3be-388f286d7153
+:END:
+* Cloud platforms can be incredibly resilient, but single cloud assets are typically less resilient than in the case of traditional infrastructure. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:hl-color: yellow
+:id: 63b30c29-cf19-446b-89a0-248209466020
+:END:
+* However, this means that cloud providers tend to offer options to improve resiliency, often beyond that which is attainable (for equivalent costs) in traditional infrastructure.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:hl-color: yellow
+:id: 63b30c3c-cb11-4e71-ad68-59931de39562
+:END:
+* But this extra resiliency is only achievable if you architect to leverage these capabilities.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:hl-color: yellow
+:id: 63b30c4c-29dd-4a9f-a3b6-4d8b4ac1f993
+:END:
+* The ability to manage is higher with IaaS and much lower with SaaS, just like security. For SaaS, you rely on the cloud provider keeping the entire application service up. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:hl-color: yellow
+:id: 63b30c70-4523-488f-b11a-badf94c0535d
+:END:
+* Management Plane Security
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:hl-color: yellow
+:id: 63b30c83-229d-4eba-b983-a898c135e421
+:END:
+* For SaaS, the management plane is often the “admin” tab of the user interface and where you configure things like users, settings for the organization, etc.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:hl-color: yellow
+:id: 63b30c94-258c-423c-966f-3d0e90dd80a8
+:END:
+* The management plane controls and configures the metastructure (defined in Domain 1), and is also part of the metastructure itself. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:hl-color: yellow
+:id: 63b30ca5-d920-4870-874d-1254405827e7
+:END:
+* Accessing the Management Plane
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 70
+:hl-color: yellow
+:id: 63b30cb5-8b6c-4e41-89da-9343d51f56ea
+:END:
+* Web consoles are managed by the provider. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 70
+:hl-color: yellow
+:id: 63b31601-60c0-4780-9f22-38ef19be9552
+:END:
+* Securing the Management Plane
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 70
+:hl-color: yellow
+:id: 63b3161c-53e1-4e91-b8e0-164d2c611b42
+:END:
+* The specific options, configurations, and even concepts vary heavily between cloud providers and platforms. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 70
+:hl-color: yellow
+:id: 63b3162e-adb1-4280-8a1d-db36b284dc38
+:END:
+* Separate from the account-owner you can usually create super-admin accounts for individual admin use. Use these privileges sparingly; this should also be a smaller group since compromise or abuse of one of these accounts could allow someone to change or access essentially everything and anything.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 71
+:hl-color: yellow
+:id: 63b3163c-21d8-4f4d-9b98-5ff315ec7280
+:END:
+* Both providers and consumers should consistently only allow the least privilege required for users, applications, and other management plane usage.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 71
+:hl-color: yellow
+:id: 63b31655-05bc-4bb5-830c-7ce05c49df69
+:END:
+* All privileged user accounts should use multi-factor authentication (MFA). If possible, all cloud accounts (even individual user accounts) should use MFA.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 71
+:hl-color: yellow
+:id: 63b31667-426e-4f20-b90a-7479643716de
+:END:
+* Management Plane Security When Building/Providing a Cloud Service
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 72
+:hl-color: yellow
+:id: 63b3167d-31a5-44ab-9a41-068ea606dbf5
+:END:
+* Delving into implementation specifics is beyond the scope of this Guidance, but at a high level there are five major facets to building and managing a secure management plane:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 72
+:hl-color: yellow
+:id: 63b31694-3609-402b-80a7-c73d19a4da17
+:END:
+* Business Continuity and Disaster Recovery
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 72
+:hl-color: yellow
+:id: 63b316c3-617e-47a4-829f-a3667222ff34
+:END:
+* Also similar to security, customers have more control and responsibility in IaaS, less in SaaS, with PaaS in the middle.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 72
+:hl-color: yellow
+:id: 63b316e0-a3e9-4356-990e-e1427b26f70a
+:END:
+* BC/DR must take a risk-based approach. Many BC options may be cost prohibitive in the cloud, but may also not be necessary.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 72
+:hl-color: yellow
+:id: 63b316e9-23ee-4443-8723-f3120227ec21
+:END:
+* For example, the odds of a major IaaS provider going out of business or changing their entire business model are low, but this isn’t all that uncommon for a smaller venture-backed SaaS provider.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 73
+:hl-color: yellow
+:id: 63b316fc-c7df-4e8f-9eb4-adf18df252d7
+:END:
+* Business Continuity Within the Cloud Provider
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 73
+:hl-color: yellow
+:id: 63b3170a-2a2b-4a7d-8c40-2eb0acf25d40
+:END:
+* BC/DR must account for the entire logical stack:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 73
+:hl-color: yellow
+:id: 63b31781-2bde-4a52-a339-fe107191617e
+:END:
+* “Chaos Engineering” is often used to help build resilient cloud deployments. Since everything cloud is API-based, Chaos Engineering uses tools to selectively degrade portions of the cloud to continuously test business continuity.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:hl-color: yellow
+:id: 63b317b7-42ca-4d86-adde-e10f285c215c
+:END:
+* Understand PaaS limitations and lock-ins, and plan for the outage of a PaaS component. Platform services include a range of functions we used to manually implement in applications, everything from authentication systems to message queues and notifications. It isn’t unusual for modern applications to even integrate these kinds of services from multiple different cloud providers, creating an intricate web.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:hl-color: yellow
+:id: 63b317e3-0b7d-44d5-ba7e-25aab1fc142e
+:END:
+* Discussing availability of the component/service with your providers is reasonable. For example, the database service from your infrastructure provider may not share the same performance and availability as their virtual machine hosting.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:hl-color: yellow
+:id: 63b317f5-15b1-4e47-a975-0805e4ba9070
+:END:
+* Business Continuity for Loss of the Cloud Provider
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 75
+:hl-color: yellow
+:id: 63b31802-c75b-42ad-ace7-349da0bf58af
+:END:
