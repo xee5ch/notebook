@@ -1,3 +1,0 @@
-* Reading a bunch of articles on various topics
-* Update imdone-bin-aur package
-* CHFD course

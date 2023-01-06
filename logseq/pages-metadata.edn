@@ -479,6 +479,9 @@
  {:block/name "jan 5th, 2023",
   :block/created-at 1672894801904,
   :block/updated-at 1672894801904}
+ {:block/name "jan 6th, 2023",
+  :block/created-at 1672986388823,
+  :block/updated-at 1672986388823}
  {:block/name "johannes m. bauer",
   :block/created-at 1661616348196,
   :block/updated-at 1661616348196}
@@ -678,6 +681,9 @@
  {:block/name "sovereignty and cyberspace",
   :block/created-at 1670095604247,
   :block/updated-at 1670098194900}
+ {:block/name "sp 800-207 zero trust architecture",
+  :block/created-at 1672987490061,
+  :block/updated-at 1672987517595}
  {:block/name "statistical errors with p-values",
   :block/created-at 1667165677467,
   :block/updated-at 1667166047611}
