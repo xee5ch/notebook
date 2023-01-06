@@ -1332,3 +1332,1130 @@
 :hl-color: yellow
 :id: 63b31802-c75b-42ad-ace7-349da0bf58af
 :END:
+* Depending on the history of your provider, and their internal availability capabilities, accepting this risk is often a legitimate option.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 75
+:hl-color: yellow
+:id: 63b3baf8-9930-45ec-a682-11d1ff49692b
+:END:
+* Be wary of selecting a secondary provider or service if said service may also be located or reliant on the same provider. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 75
+:hl-color: yellow
+:id: 63b3bb1e-9b86-4349-9ddc-a10c3b47ff4c
+:END:
+* Business Continuity For Private Cloud and Providers
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 75
+:hl-color: yellow
+:id: 63b3bb3c-b83f-400c-9589-76dfd4e6ed7e
+:END:
+* Recommendations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 76
+:hl-color: yellow
+:id: 63b3bb5b-8e98-4732-82d2-6e460efea25f
+:END:
+* Infrastructure Security
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 77
+:hl-color: yellow
+:id: 63b3bba1-7720-4b13-bc35-5ef54fbf5b7f
+:END:
+* This domain also includes the fundamentals for private cloud computing. It does not include all the components of traditional data center security that are already well covered by existing standards and guidance.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 77
+:hl-color: yellow
+:id: 63b3bbd5-d325-48d6-ba60-ebef799d5029
+:END:
+* Introduction
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 77
+:hl-color: yellow
+:id: 63b3bbe9-e515-4c21-b5e8-5b523652023f
+:END:
+* Overview
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 77
+:hl-color: yellow
+:id: 63b3bc1a-e6a9-4539-a69d-8a37f2243f5c
+:END:
+* Cloud Network Virtualization
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 78
+:hl-color: yellow
+:id: 63b3bc37-0bd6-4afc-882d-4afbe13dd201
+:END:
+* There are two major categories of network virtualization commonly seen in cloud computing today:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 78
+:hl-color: yellow
+:id: 63b3bc77-302d-4d3d-be1f-d3456e381d8c
+:END:
+* VLANs are not designed for cloud-scale virtualization or security and shouldn’t be considered, on their own, an effective security control for isolating networks. They are also never a substitute for physical network segregation.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 79
+:hl-color: yellow
+:id: 63b3bcc8-e86a-4bda-89ec-496e854e8bb3
+:END:
+* SDN can offer much higher flexibility and isolation. For example, multiple segregated overlapping IP ranges for a virtual network on top of the same physical network. Implemented properly, and unlike standard VLANs, SDNs provide effective security isolation boundaries. SDNs also typically offer software definition of arbitrary IP ranges, allowing customers to better extend their existing networks into the cloud.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 79
+:hl-color: yellow
+:id: 63b3bd67-5a04-43a4-a1dc-ef9ef8c14a84
+:END:
+* How Security Changes With Cloud Networking
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 79
+:hl-color: yellow
+:id: 63b3bd84-7c9e-4ee9-b8bb-e2c85510a9b7
+:END:
+* lack of direct management of the underlying physical network changes common network practices for the cloud user and provider.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 79
+:hl-color: yellow
+:id: 63b51601-38b6-4ecf-92e1-099393589cb5
+:END:
+* Traditional Network Intrusion Detection Systems, where communications between hosts are mirrored and inspected by the virtual or physical Intrusion Detection Systems will not be supported in cloud environments;
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 79
+:hl-color: yellow
+:id: 63b5161f-be5e-4cc7-8915-7b3e133712b0
+:END:
+* Challenges of Virtual Appliances
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 80
+:hl-color: yellow
+:id: 63b5163b-5f8b-41ef-963c-188e8a299fe3
+:END:
+* SDN Security Benefits
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 80
+:hl-color: yellow
+:id: 63b51679-959c-4984-8088-1981f20b05ed
+:END:
+* Microsegmentation and the Software Defined Perimeter
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 82
+:hl-color: yellow
+:id: 63b516f0-1d54-4c0e-858a-4ce7e2e11025
+:END:
+* Microsegmentation (also sometimes referred to as hypersegregation) leverages virtual network topologies to run more, smaller, and more isolated networks without incurring additional hardware costs that historically make such models prohibitive.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 82
+:hl-color: yellow
+:id: 63b51701-14ee-4c91-9a67-c551a3c2ceb0
+:END:
+* SDP includes three components:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 82
+:hl-color: yellow
+:id: 63b5171e-34cc-444a-84f1-de8c2dc50438
+:END:
+* Additional Considerations for Cloud Providers or Private Clouds
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 83
+:hl-color: yellow
+:id: 63b51767-17ad-4a77-b5bb-325f8c1029c6
+:END:
+* It is absolutely critical to maintain segregation and isolation for the multitenant environment. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 83
+:hl-color: yellow
+:id: 63b51794-05da-40ff-a305-cc217f30f5da
+:END:
+* Hybrid Cloud Considerations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 83
+:hl-color: yellow
+:id: 63b517a6-a2f2-4f97-976c-fbc696c52ac6
+:END:
+* A hybrid connection shouldn’t effectively flatten the security of both networks. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 83
+:hl-color: yellow
+:id: 63b517ca-4039-4bd9-a552-f36fee4c9ee7
+:END:
+* For management and security reasons it is typically preferable to minimize hybrid connections.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 83
+:hl-color: yellow
+:id: 63b517d9-e4dc-40c5-b179-123710c85856
+:END:
+* One emerging architecture for hybrid cloud connectivity is “bastion” or “transit” virtual networks
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 84
+:hl-color: yellow
+:id: 63b517ed-65ac-4c1f-8c7b-db18bd7f30da
+:END:
+* Cloud Compute and Workload Security
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 84
+:hl-color: yellow
+:id: 63b5180c-6d31-4fc0-8a9a-e832de814906
+:END:
+* A workload is a unit of processing, which can be in a virtual machine, a container, or other abstraction. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 84
+:hl-color: yellow
+:id: 63b51818-761f-487e-9bec-7821fb41417d
+:END:
+* here are multiple compute abstraction types, each with differing degrees of segregation and isolation:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 85
+:hl-color: yellow
+:id: 63b5182a-87f5-4da0-abaa-93730eafa736
+:END:
+* How Cloud Changes Workload Security
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 86
+:hl-color: yellow
+:id: 63b518ab-7eb1-4ad7-be01-04675822a084
+:END:
+* Cloud users rarely get to control where a workload physically runs, regardless of deployment model, although some platforms do support designating particular hardware pools or general locations to support availability, compliance, and other requirements.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 86
+:hl-color: yellow
+:id: 63b518cf-4000-48a1-84d8-99d81201403c
+:END:
+* Immutable Workloads Enable Security
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 86
+:hl-color: yellow
+:id: 63b518dc-10f1-4f34-ae8f-67ed03bb4691
+:END:
+* There are degrees of immutable. The pure definition is fully replacing running instances with a new image.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 86
+:hl-color: yellow
+:id: 63b518fb-6882-4687-983f-2e3284678f3f
+:END:
+* Immutable workloads enable significant security benefits:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 86
+:hl-color: yellow
+:id: 63b51918-a85a-4a34-acc3-9ffdfea2f474
+:END:
+* mmutable does add some requirements:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 87
+:hl-color: yellow
+:id: 63b5192e-608f-4304-a6b9-a04bdb288a1f
+:END:
+* The Impact of Cloud on Standard Workload Security Controls
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 88
+:hl-color: yellow
+:id: 63b51948-ca58-4ecc-b7b3-760ba872871e
+:END:
+* Some standard workload controls aren’t as viable in cloud workloads (e.g. running antivirus inside some container types). 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 88
+:hl-color: yellow
+:id: 63b51963-648c-4c39-9c62-801c0a945ad3
+:END:
+* Changes to Workload Security Monitoring and Logging
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 89
+:hl-color: yellow
+:id: 63b519ac-db63-4424-b445-46412ae5f591
+:END:
+* Security logging/monitoring is more complex in cloud computing:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 89
+:hl-color: yellow
+:id: 63b519b7-5917-46fc-a856-324439027638
+:END:
+* Changes to Vulnerability Assessment
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 89
+:hl-color: yellow
+:id: 63b519ef-5420-4d68-8937-bd8a438e7bb4
+:END:
+* Cloud Storage Security
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 89
+:hl-color: yellow
+:id: 63b6423c-d60d-4743-ab87-b4253512711c
+:END:
+* Recommendations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 90
+:hl-color: yellow
+:id: 63b64254-b4f7-4428-8a06-dc19b34bb87c
+:END:
+* Virtualization and Containers
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 91
+:hl-color: yellow
+:id: 63b6428c-b952-4296-8d78-2f96ff452782
+:END:
+* Introduction
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 91
+:hl-color: yellow
+:id: 63b64298-392f-4315-a214-88ea15e738e6
+:END:
+* Many security processes are designed with the expectation of physical control over the underlying infrastructure. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 92
+:hl-color: yellow
+:id: 63b642e0-9d0b-4c21-9d9f-90f5cac7cf48
+:END:
+* Security of the virtualization technology itself, e.g., securing a hypervisor.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 92
+:hl-color: yellow
+:id: 63b642f5-d43c-42c7-bb68-7b3da3031107
+:END:
+* Security controls for the virtual assets.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 92
+:hl-color: yellow
+:id: 63b642fd-411b-4af7-bdd2-bb392e9c22f0
+:END:
+* Major Virtualization Categories Relevant to Cloud Computing
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 92
+:hl-color: yellow
+:id: 63b64321-1963-4f52-8302-173558649f7f
+:END:
+* Compute
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 92
+:hl-color: yellow
+:id: 63b6432b-73e2-4520-a9cf-9673e8f8acfc
+:END:
+* Cloud Provider Responsibilities
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 93
+:hl-color: yellow
+:id: 63b64344-b3b0-4265-9bc9-7725d921ceb6
+:END:
+* Cloud User Responsibilities
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 93
+:hl-color: yellow
+:id: 63b64381-f667-4451-a123-e0f829eb5b05
+:END:
+* Network
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 94
+:hl-color: yellow
+:id: 63b643f9-8ff2-4e26-aa66-3d73aba41f07
+:END:
+* Monitoring and Filtering
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 95
+:hl-color: yellow
+:id: 63b64470-4d28-4cfb-8d43-47487290d640
+:END:
+* In particular, monitoring and filtering (including firewalls) change extensively due to the differences in how packets move around the virtual network. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 95
+:hl-color: yellow
+:id: 63b64494-7ace-4402-baea-4e51f85dab41
+:END:
+* With public cloud in particular, some communications between cloud services will occur on the Security Guidance v4.0 © Copyright 2021, Cloud Security Alliance. All rights reserved96 provider’s network; customer monitoring and filtering of that traffic isn’t possible
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 95
+:hl-color: yellow
+:id: 63b644b2-47b3-4031-9067-32aafc30c543
+:END:
+* Management Infrastructure
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 96
+:hl-color: yellow
+:id: 63b644d3-92f7-4710-a215-9ad84b6b78e9
+:END:
+* Cloud Provider Responsibilities
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 96
+:hl-color: yellow
+:id: 63b644df-25af-4421-ae0c-7aa38bcae126
+:END:
+* The cloud provider is primarily responsible for building a secure network infrastructure and configuring it properly. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 96
+:hl-color: yellow
+:id: 63b64505-8ff2-4632-8e78-e0eaba360859
+:END:
+* The provider should disable packet sniffing or other metadata “leaks” that could expose data or configurations between tenants. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 96
+:hl-color: yellow
+:id: 63b6450f-db0a-4936-b265-25d2323f0a5d
+:END:
+* Cloud User Responsibilities
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 96
+:hl-color: yellow
+:id: 63b64535-c869-453d-ba5f-34a7dfe72dc7
+:END:
+* Cloud users are primarily responsible for properly configuring their deployment of the virtual network, especially any virtual firewalls.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 96
+:hl-color: yellow
+:id: 63b64549-b2ba-498a-9b99-13803582f458
+:END:
+* Cloud Overlay Networks
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 97
+:hl-color: yellow
+:id: 63b6455f-ecbb-4d9a-a6a5-592c8e81ba7f
+:END:
+* Cloud overlay networks are a special kind of WAN virtualization technology for created networks that span multiple “base” networks. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 97
+:hl-color: yellow
+:id: 63b6456f-72d3-42e6-88d8-1df67608a500
+:END:
+* Storage
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 97
+:hl-color: yellow
+:id: 63b64596-9962-49a3-8250-20f891c9c7f9
+:END:
+* this encryption doesn’t protect data in any virtualized layers; it only protects the data at physical storage. Depending on the type of storage the cloud provider may also (or instead) encrypt it at the virtualization layer, but this may not protect customer data from exposure to the cloud provider. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 97
+:hl-color: yellow
+:id: 63b645bc-49ff-4b84-bc7b-e8960e0ba9fd
+:END:
+* Containers
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 97
+:hl-color: yellow
+:id: 63b645ca-cf21-44c4-9a4e-51c562a2c7b1
+:END:
+* Regardless of the technology platform, container security includes:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 98
+:hl-color: yellow
+:id: 63b645f1-76f1-4f18-915a-4e9aa9fcb2f9
+:END:
+* Containers don’t necessarily provide full security isolation, but they do provide task segregation.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 98
+:hl-color: yellow
+:id: 63b6462b-16cd-4fd8-999a-abd8257dbec3
+:END:
+* Recommendations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 99
+:hl-color: yellow
+:id: 63b6464b-56cc-48ad-b5f9-e82ef763dc87
+:END:
+* Incident Response
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 101
+:hl-color: yellow
+:id: 63b6467c-3d1b-4ba7-841f-b379c8261975
+:END:
+* Introduction
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 101
+:hl-color: yellow
+:id: 63b6468a-747a-4f1c-b0e5-cccccee1ba37
+:END:
+* Incident Response Lifecycle
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 102
+:hl-color: yellow
+:id: 63b646a6-fd45-40ee-85eb-5ff95ed91504
+:END:
+* How the Cloud Impacts IR
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 103
+:hl-color: yellow
+:id: 63b646d2-6570-40fd-833f-d888e85b75d4
+:END:
+* Preparation
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 103
+:hl-color: yellow
+:id: 63b646e0-21c4-49a1-aeb0-0bedc54f9abd
+:END:
+* Key questions include: What does your organization do? What is the cloud service provider (CSP) responsible for? Who are the points of contact? What are the response time expectations? What are the escalation procedures? Do you have out-of-band communication procedures (in case networks are impacted)? How do the hand-offs work? What data are you going to have access to?
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 103
+:hl-color: yellow
+:id: 63b646ff-89e0-474a-8a0a-ec447b3a124c
+:END:
+* Be sure to test the process with the CSP if possible. Validate that escalations and roles/ responsibilities are clear.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 103
+:hl-color: yellow
+:id: 63b64729-4dfe-4996-b5a3-6b213634ed35
+:END:
+* IaaS/PaaS vs. SaaS: 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 103
+:hl-color: yellow
+:id: 63b64772-c9d6-4a7f-92c7-720fa815e426
+:END:
+* “Cloud jump kit:” 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 103
+:hl-color: yellow
+:id: 63b64783-994d-4fb8-af37-53373a756e59
+:END:
+* Architect the cloud environment for faster detection, investigation, and response (containment and recoverability)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 104
+:hl-color: yellow
+:id: 63b6478d-a7f2-46c6-b163-6424082e3550
+:END:
+* Detection and Analysis
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 104
+:hl-color: yellow
+:id: 63b64796-a0f2-4638-8b88-449798a5ad78
+:END:
+* Data sources for cloud incidents can be quite different from those used in incident response for traditional computing. There is significant overlap, such as system logs, but there are differences in terms of how data can be collected and in terms of new sources, such as feeds from the cloud management plane.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 104
+:hl-color: yellow
+:id: 63b78f46-5a8a-426c-ae34-d22b106c6b45
+:END:
+* One challenge in collecting information may be limited network visibility. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 105
+:hl-color: yellow
+:id: 63b78f5c-16d1-4ebc-bb1b-fdff1f81b8b6
+:END:
+* Forensics and investigative support will also need to adapt, beyond understanding changes to data sources.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 105
+:hl-color: yellow
+:id: 63b78f75-600f-4255-8753-b71562f8d820
+:END:
+* Always factor in what the CSP can provide and whether it meets chain of custody requirements. Not every incident will result in legal action, but it’s important to work with your legal team to understand the lines and where you could end up having chain of custody issues.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 105
+:hl-color: yellow
+:id: 63b78f84-c8f0-47ce-be2b-7aea9f6bb72c
+:END:
+* Containment, Eradication and Recovery
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 106
+:hl-color: yellow
+:id: 63b78fab-db5a-418a-800c-2f679b6c679a
+:END:
+* Always start by ensuring the cloud management plane/metastructure is free of an attacker.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 106
+:hl-color: yellow
+:id: 63b78fbf-436c-42ad-8a95-da5ea976b1ad
+:END:
+* Post-mortem
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 106
+:hl-color: yellow
+:id: 63b78ff2-d38c-4b88-9eee-4ba2f31bb368
+:END:
+* Recommendations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 107
+:hl-color: yellow
+:id: 63b7900c-b62f-4ca1-85bc-22a918eef6bc
+:END:
+* Application Security
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 108
+:hl-color: yellow
+:id: 63b7903e-5399-458b-b6d8-d64daa579a9e
+:END:
+* Introduction
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 108
+:hl-color: yellow
+:id: 63b79049-3715-4e9d-8e92-707db24386f3
+:END:
+* Opportunities
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 108
+:hl-color: yellow
+:id: 63b79073-f857-4239-a1ac-bfe9c205308e
+:END:
+* Challenges
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 109
+:hl-color: yellow
+:id: 63b790d1-687f-43e5-84d2-c43ac2ddafc0
+:END:
+* Overview
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 110
+:hl-color: yellow
+:id: 63b790f8-f431-4804-98c3-2a64f0dea8bb
+:END:
+* Introduction to the Secure Software Development Lifecycle and Cloud Computing
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 110
+:hl-color: yellow
+:id: 63b791ec-8d85-4869-9416-9bd047f476a6
+:END:
+* Secure Design and Development
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 112
+:hl-color: yellow
+:id: 63b792b6-bd14-4925-bc70-bd14f46e0ce2
+:END:
+* Security standards should include the initial entitlements for who is allowed to manage which services in the cloud provider, which is often independent of the actual application architecture. It should also include pre-approved tools, technologies, configurations, and even design patterns.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 112
+:hl-color: yellow
+:id: 63b79372-e2be-4fd2-8a68-316b85ce3cad
+:END:
+* We find that there are often significant security benefits to integrating security into the application architecture since there are opportunities to leverage the provider’s own security capabilities. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 112
+:hl-color: yellow
+:id: 63b793a4-0c2a-487c-be97-2855086e5696
+:END:
+* Security testing should be integrated into the deployment process and pipeline. Testing tends to span this and the Secure Deployment phase, but leans towards security unit tests, security functional tests, Static Application Security Testing (SAST), and Dynamic Application Security Testing(DAST
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 113
+:hl-color: yellow
+:id: 63b793c3-9f87-4e8c-ab23-9a899c813993
+:END:
+* Secure Deployment
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 113
+:hl-color: yellow
+:id: 63b79550-4ea6-40d2-8dc5-4727f79c6023
+:END:
+* There are multiple kinds of application security tests that could be potentially integrated into development and deployment:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 113
+:hl-color: yellow
+:id: 63b79561-0182-4de3-b0d4-82d9b8550ce3
+:END:
+* Impact on Vulnerability Assessment
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 114
+:hl-color: yellow
+:id: 63b79589-6fd2-4b74-9343-31b3980972d1
+:END:
+* Impact on Penetration Testing
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 114
+:hl-color: yellow
+:id: 63b7959e-224e-4976-a863-0b3302ebf5aa
+:END:
+* Deployment Pipeline Security
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 114
+:hl-color: yellow
+:id: 63b795b2-e0f6-4e60-beef-095f73d15ad8
+:END:
+* Impact of Infrastructure as Code and Immutable
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 115
+:hl-color: yellow
+:id: 63b795c9-50cc-4dc3-8db4-55f4ee98e4e1
+:END:
+* The production environment can thus be locked down much more tightly than is normally possible in a non-cloud application deployment, where much of the infrastructure is configured manually to a specification. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 115
+:hl-color: yellow
+:id: 63b79608-42f0-413c-89bd-411a085ddc9b
+:END:
+* Secure Operations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 115
+:hl-color: yellow
+:id: 63b79623-0672-45e1-b0f6-7c0610342d6c
+:END:
+* his section contains additional guidance that more directly applies to applications:• The management plane for production environments should be much more tightly locked down than those for development. As previously mentioned, if the application directly accesses the management plane for the environment where it is hosted, then those privileges should be scoped to the least possible required. We recommend using multiple sets of credentials for each application service in order to further compartmentalize entitlements.• Even when using immutable infrastructure, the production environment should still be actively monitored for changes and deviations from approved baselines. This can and should be Security Guidance v4.0 © Copyright 2021, Cloud Security Alliance. All rights reserved116 automated through code (or tools) that make API calls to the cloud in order to regularly assess configuration state.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 115
+:hl-color: yellow
+:id: 63b79655-2a30-4bcb-a2b6-54c032de8b01
+:END:
+* How Cloud Impacts Application Design and Architectures
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 116
+:hl-color: yellow
+:id: 63b79670-4b0b-4761-86b0-6697a8ad0f0c
+:END:
+* Additional Considerations for Cloud Providers
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 117
+:hl-color: yellow
+:id: 63b79aca-0004-4ace-ab3b-faeb62e2a136
+:END:
+* Next, the serverless platforms may run on the provider’s network with communications to the consumer’s components through API or HTTPS traffic. This removes direct network attack paths, even if an attacker compromises a server or container. The attacker is limited to attempting API calls or HTTPS traffic and can’t port scan, identify other servers, or use other common techniques.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 117
+:hl-color: yellow
+:id: 63b79ae7-92ab-4eed-a812-5c7649863ca6
+:END:
+* The Rise and Role of DevOps
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 117
+:hl-color: yellow
+:id: 63b79af8-e3af-4522-8876-e8e31c925e8a
+:END:
+* Security Implications and Advantages
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 118
+:hl-color: yellow
+:id: 63b79b08-ac7f-4c9e-b75b-fb9122c5fbfa
+:END:
+* Recommendations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 118
+:hl-color: yellow
+:id: 63b79b2d-6cf3-44c3-aa89-235f5f6446ea
+:END:
+* Data Security and Encryption
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 119
+:hl-color: yellow
+:id: 63b79b3f-62e0-4c34-8ff6-6fb2f0d85d14
+:END:
+* Introduction
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 119
+:hl-color: yellow
+:id: 63b79b4d-6bad-4213-80dc-ebe1be531943
+:END:
+* Overview
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 119
+:hl-color: yellow
+:id: 63b79b66-f70a-4f9c-9fdb-2660f8e11647
+:END:
+* Data Security Controls
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 119
+:hl-color: yellow
+:id: 63b79b6f-65e3-41db-8e96-35a43a0f3c95
+:END:
+* Cloud Data Storage Types
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 120
+:hl-color: yellow
+:id: 63b79bb5-a053-4355-b21b-b5a45fbb65b1
+:END:
+* Most cloud platforms also use redundant, durable storage mechanisms that often utilize data dispersion (sometimes also known as data fragmentation of bit splitting). This process takes chunks of data, breaks them up, and then stores multiple copies on different physical storage to provide high durability. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 120
+:hl-color: yellow
+:id: 63b79bde-ae64-40fd-9ad6-a5042cacfe88
+:END:
+* Managing Data Migrations to the Cloud
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 120
+:hl-color: yellow
+:id: 63b79be9-a02d-47dc-8dbf-7a18a095c84c
+:END:
+* Securing Cloud Data Transfers
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 122
+:hl-color: yellow
+:id: 63b79c40-14d9-420d-9c56-d0d72ed3e4ba
+:END:
+* Securing Data in the Cloud
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 122
+:hl-color: yellow
+:id: 63b79c61-23ae-484c-9144-66efaa36250a
+:END:
+* Cloud Data Access Controls
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 122
+:hl-color: yellow
+:id: 63b79c79-db71-438e-9b89-3901bf5ab98c
+:END:
+* Create an entitlement matrix based on platform-specific capabilities. An entitlement matrix documents which users, groups, and roles should access which resources and functions.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 122
+:hl-color: yellow
+:id: 63b79cae-6fd2-4bf8-a318-530d751d6114
+:END:
+* The depth of potential entitlements will vary greatly from technology to technology. Some databases may support row-level security, others little more than broad access. Some will allow you to tie entitlements to identity and enforcement mechanisms built into the cloud platform, while others rely completely on the storage platform itself merely running in virtual machines. It’s important to understand your options, map them out, and build your matrix. This applies to more than just file access, of course; it also applies to databases and all your cloud data stores.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 123
+:hl-color: yellow
+:id: 63b79cc4-c3be-4181-bf7d-a16cc00be498
+:END:
+* Storage (At-Rest) Encryption and Tokenization
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 123
+:hl-color: yellow
+:id: 63b79ce5-1b5d-482f-b83f-109774c9874c
+:END:
+* Encryption and tokenization are two separate technologies. Encryption protects data by applying a mathematical algorithm that “scrambles” the data, which then can only be recovered by running it through an unscrambling (decryption) process with a corresponding key.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 123
+:hl-color: yellow
+:id: 63b79cfc-a556-48cd-ad49-ccf225c8a83c
+:END:
+* Tokenization is often used when the format of the data is important (e.g. replacing credit card numbers in an existing system that requires the same format text string). Format Preserving Encryption encrypts data with a key but also keeps the same structural format as tokenization, but it may not be as cryptographically secure due to the compromises.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 123
+:hl-color: yellow
+:id: 63b79d0c-91cb-45b3-80bf-4457ecf9e0f6
+:END:
+* IaaS Encryption
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 124
+:hl-color: yellow
+:id: 63b79d38-1925-486b-bcda-e10db5cf5a05
+:END:
+* PaaS Encryption
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 124
+:hl-color: yellow
+:id: 63b79d5e-19ec-445a-a6f0-974d6e1c64dd
+:END:
+* SaaS Encryption
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 125
+:hl-color: yellow
+:id: 63b7a05a-5927-4349-808b-8dc1b9b684d4
+:END:
+* Key Management (Including Customer-Managed Keys)
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 125
+:hl-color: yellow
+:id: 63b7a07b-6a57-4101-8d62-7e256fcb28e4
+:END:
+* A customer-managed key allows a cloud customer to manage their own encryption key while the provider manages the encryption engine. For example, using your own key to encrypt SaaS data within the SaaS platform.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 125
+:hl-color: yellow
+:id: 63b7a0c2-eece-4baf-a0fa-447030b367e0
+:END:
+* Some providers may require you to use a service within the provider to manage the key. Thus, although the key is customer-managed, it is still potentially available to provider. This doesn’t necessarily mean it is insecure
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 126
+:hl-color: yellow
+:id: 63b7a0e0-e866-4070-8ecc-adf64ecfde72
+:END:
+* Data Security Architectures
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 126
+:hl-color: yellow
+:id: 63b7a0f3-e379-45cb-a03b-88ded810ebbf
+:END:
+* Monitoring, Auditing, and Alerting
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 126
+:hl-color: yellow
+:id: 63b7a0fb-9986-4d58-bad4-61280f1342c6
+:END:
+* Additional Data Security Controls
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 126
+:hl-color: yellow
+:id: 63b7a105-d7d2-42a9-a302-b71f25f5131d
+:END:
+* Cloud Platform/Provider-Specific Controls
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 126
+:hl-color: yellow
+:id: 63b7a110-8e71-4cee-a0ef-e586a25854f1
+:END:
+* Data Loss Prevention
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 126
+:hl-color: yellow
+:id: 63b7a123-c279-4b1b-8cf7-778c8c93ffd7
+:END:
+* Enterprise Rights Managemen
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 127
+:hl-color: yellow
+:id: 63b7a12a-0b53-4feb-b6b1-7c62c179ae23
+:END:
+* As with DLP, this is typically an employee security control that isn’t always as applicable in cloud. Since all Digital Rights Management (DRM)/Enterprise Rights Management (ERM) is based on encryption, existing tools may break cloud capabilities, especially in SaaS.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 127
+:hl-color: yellow
+:id: 63b7a139-5164-488a-bd96-33115ffe82a7
+:END:
+* The cloud platform may be able to enforce controls very similar to full DRM by using native capabilities. For example, user/device/view versus edit: a policy that only allows certain users to view a file in a web browser, while other users can download and/or edit the content. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 127
+:hl-color: yellow
+:id: 63b7a156-429a-4264-885d-8ecdb5473cde
+:END:
+* Data Masking and Test Data Generation
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 127
+:hl-color: yellow
+:id: 63b7a165-8f4e-4f52-a6a1-0147990989d2
+:END:
+* Enforcing Lifecycle Management Security
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 127
+:hl-color: yellow
+:id: 63b7a191-ee1e-4428-8f0c-a891fc7ecf42
+:END:
+* Recommendations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 128
+:hl-color: yellow
+:id: 63b7a1b2-48be-4831-a38f-206292bd483d
+:END:
+* Identity, Entitlement, and Access Management
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 129
+:hl-color: yellow
+:id: 63b7a1cb-cd4f-4d1c-bfdd-26b6cc732981
+:END:
+* Introduction
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 129
+:hl-color: yellow
+:id: 63b7a1d2-dd38-4869-b141-6db439f945d9
+:END:
+* The key difference is the relationship between the cloud provider and the cloud user, even in private cloud. IAM can’t be managed solely by one or the other and thus a trust relationship, designation of responsibilities, and the technical mechanics to enable them are required.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 129
+:hl-color: yellow
+:id: 63b7a4d6-596a-480b-9d01-c36977fa46e0
+:END:
+* Cloud also tends to change faster, be more distributed (including across legal jurisdictional boundaries), add to the complexity of the management plane, 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 129
+:hl-color: yellow
+:id: 63b7a4e4-df0e-4fd2-ba01-8f1e2b7dffe4
+:END:
+* How IAM is Different in the Cloud
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 130
+:hl-color: yellow
+:id: 63b7a4ef-2035-4859-bc0f-a9173695be45
+:END:
+* Overview
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 131
+:hl-color: yellow
+:id: 63b7a50b-83de-498c-81c0-0be186339619
+:END:
+* IAM Standards for Cloud Computing
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 132
+:hl-color: yellow
+:id: 63b7a562-d434-4790-b7d6-6ff85f01ed37
+:END:
+* How Federated Identity Management Works
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 133
+:hl-color: yellow
+:id: 63b7a5ae-e048-4891-a48e-08c6b824ac7a
+:END:
+* Identity protocols and standards do not represent a complete solution by themselves, but they are a means to an end.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 133
+:hl-color: yellow
+:id: 63b7a5e2-9330-428f-b5dc-50a957744ad0
+:END:
+* The essential concepts when choosing an identity protocol are:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 134
+:hl-color: yellow
+:id: 63b7a5f5-f9f2-4668-a179-bddf67471b6b
+:END:
+* Managing Users and Identities for Cloud Computing
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 134
+:hl-color: yellow
+:id: 63b7a635-c010-4de6-884c-988ce9f0e66f
+:END:
+* Cloud providers need to nearly always support internal identities, identifiers, and attributes for users who directly access the service, while also supporting federation so that organizations don’t have to manually provision and manage every user in the provider’s system and issue everyone separate credentials.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 134
+:hl-color: yellow
+:id: 63b7a655-451c-4638-af01-b8584958bf07
+:END:
+* Cloud users need to decide where they want to manage their identities and which architectural models and technologies they want to support to integrate with cloud providers.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 134
+:hl-color: yellow
+:id: 63b7a65c-6cde-40a7-aaf3-c2f67547afc7
+:END:
+* Directly federating internal directory servers in the free-form model raises a few issues
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 135
+:hl-color: yellow
+:id: 63b7a6aa-e642-4c6c-aafd-2d618923efef
+:END:
+* After determining the large-scale model, there are still process and architectural decisions required for any implementation
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 136
+:hl-color: yellow
+:id: 63b7a6d0-53a9-4f4f-8aae-bdfa429b7fb2
+:END:
+* Authentication and Credentials
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 136
+:hl-color: yellow
+:id: 63b7a701-3ba8-4b7f-870a-e367d309fe75
+:END:

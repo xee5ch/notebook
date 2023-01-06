@@ -145,7 +145,7 @@
   :block/updated-at 1661481166481}
  {:block/name "certificate of cloud security knowledge",
   :block/created-at 1670814695024,
-  :block/updated-at 1672681478508}
+  :block/updated-at 1672980227473}
  {:block/name "certified information systems auditor",
   :block/created-at 1670809679441,
   :block/updated-at 1670813834063}
@@ -470,6 +470,15 @@
  {:block/name "jan 31st, 2022",
   :block/created-at 1643587200000,
   :block/updated-at 1643587200000}
+ {:block/name "jan 3rd, 2023",
+  :block/created-at 1672722001183,
+  :block/updated-at 1672722001183}
+ {:block/name "jan 4th, 2023",
+  :block/created-at 1672811870848,
+  :block/updated-at 1672811870848}
+ {:block/name "jan 5th, 2023",
+  :block/created-at 1672894801904,
+  :block/updated-at 1672894801904}
  {:block/name "johannes m. bauer",
   :block/created-at 1661616348196,
   :block/updated-at 1661616348196}

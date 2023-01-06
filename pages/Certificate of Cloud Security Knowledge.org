@@ -378,16 +378,28 @@ management and configuration.
 *** Use data security lifecycle to help model data handling and controls
 *** Don't just lift and shift architecture and governance into cloud, re-think and restructure
 * ((63b30b53-e5c4-4316-abfb-511d1e284a50))
+:PROPERTIES:
+:collapsed: true
+:END:
 ** ((63b30b75-8b94-443e-ab24-cd401c5bb33e))
 ** ((63b30ba8-b24a-42fa-b3f6-39b07e2413fd))
 ** ((63b30bbd-ff0a-4880-8fa2-7359ca5ee48f))
 *** ((63b30bcc-a93e-4fda-b204-b1e5d41c6b79))
+:PROPERTIES:
+:collapsed: true
+:END:
 **** Ensuring continuity and recovery within a given cloud provider. These are the tools and techniques to best architect your cloud deployment to keep things running if either what you deploy breaks, or a portion of the cloud provider breaks.
 **** Preparing for and managing cloud provider outages. This extends from the more constrained problems that you can architect around within a provider to the wider outages that take down all or some of the provider in a way that exceeds the capabilities of inherent DR controls.
 **** Considering options for portability, in case you need to migrate providers or platforms. This could be due to anything from desiring a different feature set to the complete loss of the provider if, for example, they go out of business or you have a legal dispute.
 *** ((63b30c15-e180-4697-b3be-388f286d7153))
+:PROPERTIES:
+:collapsed: true
+:END:
 **** ((63b30c29-cf19-446b-89a0-248209466020))
 **** ((63b30c3c-cb11-4e71-ad68-59931de39562))
+:PROPERTIES:
+:collapsed: true
+:END:
 ***** Regions and zones (AWS/Azure/GCP)
 **** ((63b30c4c-29dd-4a9f-a3b6-4d8b4ac1f993))
 **** ((63b30c70-4523-488f-b11a-badf94c0535d))
@@ -436,4 +448,315 @@ management and configuration.
 ***** ((63b317f5-15b1-4e47-a975-0805e4ba9070))
 ***** ((63b317b7-42ca-4d86-adde-e10f285c215c))
 **** ((63b31802-c75b-42ad-ace7-349da0bf58af))
-****
+***** ((63b3baf8-9930-45ec-a682-11d1ff49692b))
+***** ((63b3bb1e-9b86-4349-9ddc-a10c3b47ff4c))
+**** ((63b3bb3c-b83f-400c-9589-76dfd4e6ed7e))
+*** ((63b3bb5b-8e98-4732-82d2-6e460efea25f))
+* ((63b3bba1-7720-4b13-bc35-5ef54fbf5b7f))
+** ((63b3bbe9-e515-4c21-b5e8-5b523652023f))
+*** ((63b3bbd5-d325-48d6-ba60-ebef799d5029))
+** ((63b3bc1a-e6a9-4539-a69d-8a37f2243f5c))
+** Three different functional networks:
+*** Management
+*** Storage
+*** Service
+** ((63b3bc37-0bd6-4afc-882d-4afbe13dd201))
+** ((63b3bc77-302d-4d3d-be1f-d3456e381d8c))
+*** VLANs
+**** ((63b3bcc8-e86a-4bda-89ec-496e854e8bb3))
+*** Software-defined networking
+**** ((63b3bd67-5a04-43a4-a1dc-ef9ef8c14a84))
+** ((63b3bd84-7c9e-4ee9-b8bb-e2c85510a9b7))
+*** ((63b51601-38b6-4ecf-92e1-099393589cb5))
+*** ((63b5161f-be5e-4cc7-8915-7b3e133712b0))
+*** ((63b5163b-5f8b-41ef-963c-188e8a299fe3))
+*** ((63b51679-959c-4984-8088-1981f20b05ed))
+**** Isolation is easier
+**** SDN firewalls can apply to assets based on more flexible criteria than conventional hardware-based firewalls
+**** Default deny is often the starting point, and you are required to open connections from there, which is the opposite of most physical networks.
+*** ((63b516f0-1d54-4c0e-858a-4ce7e2e11025))
+**** ((63b51701-14ee-4c91-9a67-c551a3c2ceb0))
+**** ((63b5171e-34cc-444a-84f1-de8c2dc50438))
+***** SDP client on connecting assets
+***** SDP controller for authenticating and authorizing connections to SDP gateway
+***** SDP gateway for terminating client network traffic and policy enforcement on comms with the controller
+**** ((63b51767-17ad-4a77-b5bb-325f8c1029c6))
+***** ((63b51794-05da-40ff-a305-cc217f30f5da))
+**** ((63b517a6-a2f2-4f97-976c-fbc696c52ac6))
+***** ((63b517ca-4039-4bd9-a552-f36fee4c9ee7))
+***** ((63b517d9-e4dc-40c5-b179-123710c85856))
+*** ((63b5180c-6d31-4fc0-8a9a-e832de814906))
+**** ((63b51818-761f-487e-9bec-7821fb41417d))
+**** ((63b5182a-87f5-4da0-abaa-93730eafa736))
+***** Virtual Machines
+***** Containers
+***** Platform-based workloads
+***** Serverless computing
+*** ((63b518ab-7eb1-4ad7-be01-04675822a084))
+**** ((63b518cf-4000-48a1-84d8-99d81201403c))
+*** ((63b518dc-10f1-4f34-ae8f-67ed03bb4691))
+**** ((63b518fb-6882-4687-983f-2e3284678f3f))
+**** ((63b51918-a85a-4a34-acc3-9ffdfea2f474))
+**** ((63b5192e-608f-4304-a6b9-a04bdb288a1f))
+*** ((63b51948-ca58-4ecc-b7b3-760ba872871e))
+**** ((63b51963-648c-4c39-9c62-801c0a945ad3))
+*** ((63b519ac-db63-4424-b445-46412ae5f591))
+**** ((63b519b7-5917-46fc-a856-324439027638))
+*** ((63b519ef-5420-4d68-8937-bd8a438e7bb4))
+*** ((63b6423c-d60d-4743-ab87-b4253512711c))
+**** See Domain 11
+** ((63b64254-b4f7-4428-8a06-dc19b34bb87c))
+* ((63b6428c-b952-4296-8d78-2f96ff452782))
+** ((63b64298-392f-4315-a214-88ea15e738e6))
+*** Aspects of virtualization:
+**** Compute
+**** Network
+**** Storage
+**** Containers
+*** ((63b642e0-9d0b-4c21-9d9f-90f5cac7cf48))
+*** Virtualization adds on top of that:
+**** ((63b642f5-d43c-42c7-bb68-7b3da3031107))
+**** ((63b642fd-411b-4af7-bdd2-bb392e9c22f0))
+*** ((63b64321-1963-4f52-8302-173558649f7f))
+**** ((63b6432b-73e2-4520-a9cf-9673e8f8acfc))
+:PROPERTIES:
+:collapsed: true
+:END:
+***** ((63b64344-b3b0-4265-9bc9-7725d921ceb6))
+****** Isolation
+****** Securing the underlying infrastructure and virtualization tech from abuse and misuse
+***** ((63b64381-f667-4451-a123-e0f829eb5b05))
+****** Security settings, such as identity management
+****** Monitoring and logging
+****** Image asset management
+****** Scoping and implementing relevant security controls for the virtualization layer
+**** ((63b643f9-8ff2-4e26-aa66-3d73aba41f07))
+:PROPERTIES:
+:collapsed: true
+:END:
+***** ((63b64470-4d28-4cfb-8d43-47487290d640))
+****** ((63b64494-7ace-4402-baea-4e51f85dab41))
+****** ((63b644b2-47b3-4031-9067-32aafc30c543))
+****** ((63b644d3-92f7-4710-a215-9ad84b6b78e9))
+******* ((63b644df-25af-4421-ae0c-7aa38bcae126))
+******** ((63b64505-8ff2-4632-8e78-e0eaba360859))
+******** ((63b6450f-db0a-4936-b265-25d2323f0a5d))
+******* ((63b64535-c869-453d-ba5f-34a7dfe72dc7))
+******** ((63b64549-b2ba-498a-9b99-13803582f458))
+******* ((63b6455f-ecbb-4d9a-a6a5-592c8e81ba7f))
+******** ((63b6456f-72d3-42e6-88d8-1df67608a500))
+**** ((63b64596-9962-49a3-8250-20f891c9c7f9))
+***** ((63b645bc-49ff-4b84-bc7b-e8960e0ba9fd))
+**** ((63b645ca-cf21-44c4-9a4e-51c562a2c7b1))
+***** ((63b645f1-76f1-4f18-915a-4e9aa9fcb2f9))
+****** Assuring the security of the underlying physical infrastructure (compute, network, storage).
+****** Assuring the security of the management plane
+****** Properly securing the image repository.
+****** Building security into the tasks/code running inside the container.
+***** ((63b6462b-16cd-4fd8-999a-abd8257dbec3))
+*** ((63b6464b-56cc-48ad-b5f9-e82ef763dc87))
+* ((63b6467c-3d1b-4ba7-841f-b379c8261975))
+** ((63b6468a-747a-4f1c-b0e5-cccccee1ba37))
+*** ((63b646a6-fd45-40ee-85eb-5ff95ed91504))
+*** ((63b646d2-6570-40fd-833f-d888e85b75d4))
+**** ((63b646e0-21c4-49a1-aeb0-0bedc54f9abd))
+:PROPERTIES:
+:collapsed: true
+:END:
+***** SLAs and Governance
+***** ((63b646ff-89e0-474a-8a0a-ec447b3a124c))
+***** ((63b64729-4dfe-4996-b5a3-6b213634ed35))
+***** ((63b64772-c9d6-4a7f-92c7-720fa815e426))
+***** ((63b64783-994d-4fb8-af37-53373a756e59))
+***** ((63b6478d-a7f2-46c6-b163-6424082e3550))
+**** ((63b64796-a0f2-4638-8b88-449798a5ad78))
+***** ((63b78f46-5a8a-426c-ae34-d22b106c6b45))
+**** ((63b78f5c-16d1-4ebc-bb1b-fdff1f81b8b6))
+**** ((63b78f75-600f-4255-8753-b71562f8d820))
+**** ((63b78f84-c8f0-47ce-be2b-7aea9f6bb72c))
+*** ((63b78fab-db5a-418a-800c-2f679b6c679a))
+**** ((63b78fbf-436c-42ad-8a95-da5ea976b1ad))
+*** ((63b78ff2-d38c-4b88-9eee-4ba2f31bb368))
+** ((63b7900c-b62f-4ca1-85bc-22a918eef6bc))
+* ((63b7903e-5399-458b-b6d8-d64daa579a9e))
+** ((63b79049-3715-4e9d-8e92-707db24386f3))
+*** ((63b79073-f857-4239-a1ac-bfe9c205308e))
+**** Higher baseline security
+**** Responsiveness
+**** Isolated environments
+**** Independent virtual machines
+**** Elasticity
+**** DevOps
+**** Unified interface
+*** ((63b790d1-687f-43e5-84d2-c43ac2ddafc0))
+**** Limited data visibility
+**** Increased application scope
+**** Changing threat models
+**** Reduced transparency
+** ((63b790f8-f431-4804-98c3-2a64f0dea8bb))
+*** Secure Software Development Lifecycle
+*** Design and Architecture
+*** DevOps and CI/CD
+*** ((63b791ec-8d85-4869-9416-9bd047f476a6))
+**** Secure Design and Development
+**** Secure Deployment
+**** Secure Operations
+*** Impacts of cloud on SSDLC:
+**** Shared responsibility: at least some reliance on cloud provider in almost every case
+**** Large changes in visibility and control
+**** Different providers, different capabilities
+**** Management plane and metastructure maybe in some appsec scope
+**** New and different architectural options, especially as you consume PaaS
+**** Rise and impact of DevOps
+*** ((63b792b6-bd14-4925-bc70-bd14f46e0ce2))
+**** Traning
+***** Development, operations, and security should receive additional training on cloud fundamentals
+**** Define
+***** ((63b79372-e2be-4fd2-8a68-316b85ce3cad))
+**** Design
+***** ((63b793a4-0c2a-487c-be97-2855086e5696))
+**** Develop
+**** Test
+***** ((63b793c3-9f87-4e8c-ab23-9a899c813993))
+*** ((63b79550-4ea6-40d2-8dc5-4727f79c6023))
+**** ((63b79561-0182-4de3-b0d4-82d9b8550ce3))
+***** Code Review
+***** Unit testing, regression testing, and functional testing
+***** SAST
+***** DAST
+***** ((63b79589-6fd2-4b74-9343-31b3980972d1))
+***** ((63b7959e-224e-4976-a863-0b3302ebf5aa))
+***** ((63b795b2-e0f6-4e60-beef-095f73d15ad8))
+***** ((63b795c9-50cc-4dc3-8db4-55f4ee98e4e1))
+****** Thanks to immutability often that comes with IaC: ((63b79608-42f0-413c-89bd-411a085ddc9b))
+*** ((63b79623-0672-45e1-b0f6-7c0610342d6c))
+**** ((63b79655-2a30-4bcb-a2b6-54c032de8b01))
+*** ((63b79670-4b0b-4761-86b0-6697a8ad0f0c))
+**** Segregation by default
+**** Immutable infrastructure
+**** Increased use of micro-servicess
+**** PaaS and serverless architectures
+**** ((63b79ae7-92ab-4eed-a812-5c7649863ca6))
+**** ((63b79af8-e3af-4522-8876-e8e31c925e8a))
+***** ((63b79b08-ac7f-4c9e-b75b-fb9122c5fbfa))
+****** Standardization
+****** Automated testing
+****** Immutable
+****** Improved auditing and changement
+****** Integrated security
+**** ((63b79b2d-6cf3-44c3-aa89-235f5f6446ea))
+* ((63b79b3f-62e0-4c34-8ff6-6fb2f0d85d14))
+** ((63b79b4d-6bad-4213-80dc-ebe1be531943))
+** ((63b79b66-f70a-4f9c-9fdb-2660f8e11647))
+*** ((63b79b6f-65e3-41db-8e96-35a43a0f3c95))
+**** Three categories:
+***** Controlling what goes into the cloud and where
+***** Protecting and managing data in the cloud
+***** Enforcing information lifecycle management security
+*** ((63b79bb5-a053-4355-b21b-b5a45fbb65b1))
+**** Object storage
+**** Volume storage
+**** Database
+**** Application/platform storage
+**** ((63b79bde-ae64-40fd-9ad6-a5042cacfe88))
+*** ((63b79be9-a02d-47dc-8dbf-7a18a095c84c))
+**** Define policies
+**** Identify key data repositories
+**** To detect migrations and usage of data repos:
+***** Cloud Access and Security Brokers
+***** URL filtering
+***** Data Loss Prevention technology
+**** ((63b79c40-14d9-420d-9c56-d0d72ed3e4ba))
+*** ((63b79c61-23ae-484c-9144-66efaa36250a))
+**** ((63b79c79-db71-438e-9b89-3901bf5ab98c))
+***** Minimum of three layers:
+****** Management plane
+****** Public and internal sharing controls
+****** App level controls
+***** ((63b79cae-6fd2-4bf8-a318-530d751d6114))
+****** ((63b79cc4-c3be-4181-bf7d-a16cc00be498))
+**** ((63b79ce5-1b5d-482f-b83f-109774c9874c))
+***** ((63b79cfc-a556-48cd-ad49-ccf225c8a83c))
+***** ((63b79d0c-91cb-45b3-80bf-4457ecf9e0f6))
+***** Different approaches for different cloud provider types:
+****** ((63b79d38-1925-486b-bcda-e10db5cf5a05))
+******* Volume storage encryption
+******* Object and file storage
+******** Client-side
+******** Server-side
+******** Proxy encryption
+****** ((63b79d5e-19ec-445a-a6f0-974d6e1c64dd))
+******* App layer encryption
+******* Database encryption
+******* Other
+****** ((63b7a05a-5927-4349-808b-8dc1b9b684d4))
+**** ((63b7a07b-6a57-4101-8d62-7e256fcb28e4))
+***** HSM/appliance
+***** Virtual appliance/software
+***** Cloud provider service
+***** Hybrid
+***** Customer managed keys
+****** ((63b7a0c2-eece-4baf-a0fa-447030b367e0))
+****** ((63b7a0e0-e866-4070-8ecc-adf64ecfde72))
+*** ((63b7a0f3-e379-45cb-a03b-88ded810ebbf))
+*** ((63b7a0fb-9986-4d58-bad4-61280f1342c6))
+*** ((63b7a105-d7d2-42a9-a302-b71f25f5131d))
+**** ((63b7a110-8e71-4cee-a0ef-e586a25854f1))
+**** ((63b7a123-c279-4b1b-8cf7-778c8c93ffd7))
+**** ((63b7a12a-0b53-4feb-b6b1-7c62c179ae23))t
+***** ((63b7a139-5164-488a-bd96-33115ffe82a7))
+****** Full DRM
+****** Provider-based control:
+******* ((63b7a156-429a-4264-885d-8ecdb5473cde))
+**** ((63b7a165-8f4e-4f52-a6a1-0147990989d2))
+***** Test data generation
+***** Dynamic masking
+*** ((63b7a191-ee1e-4428-8f0c-a891fc7ecf42))
+**** Managing data location/residency
+**** Ensuring compliance
+**** Backups and continuity: Domain 6
+** ((63b7a1b2-48be-4831-a38f-206292bd483d))
+* ((63b7a1cb-cd4f-4d1c-bfdd-26b6cc732981))
+** ((63b7a1d2-dd38-4869-b141-6db439f945d9))
+*** ((63b7a4d6-596a-480b-9d01-c36977fa46e0))
+*** ((63b7a4e4-df0e-4fd2-ba01-8f1e2b7dffe4))
+*** ((63b7a4ef-2035-4859-bc0f-a9173695be45))
+*** ((63b7a50b-83de-498c-81c0-0be186339619))
+**** Terms:
+***** Entity
+***** Identity
+***** Identifier
+***** Attributes
+***** Persona
+***** Role
+***** Authentication
+***** Multi-factor authentication
+***** Access control
+***** Authorization
+***** Entitlement
+***** Federated identity management
+***** Authoritative source
+***** Identity provider
+***** Relying party
+**** ((63b7a562-d434-4790-b7d6-6ff85f01ed37))
+***** SAML
+***** OAuth
+***** OpenID
+***** XACML
+***** SCIM
+***** ((63b7a5ae-e048-4891-a48e-08c6b824ac7a)): a useful diagram
+***** ((63b7a5e2-9330-428f-b5dc-50a957744ad0))
+***** ((63b7a5f5-f9f2-4668-a179-bddf67471b6b))
+****** No protocol is a silver bullet that solves all identity and access control problems.
+****** Identity protocols must be analyzed in the context of use case(s). For example, Browser-based Single Sign On, API keys, or mobile-to-cloud authentication could each lead companies to a different approach.
+****** The key operating assumption should be that identity is a perimeter in and of itself, just like a DMZ. So any identity protocol has to be selected and engineered from the standpoint that it can traverse risky territory and withstand malice.
+**** ((63b7a635-c010-4de6-884c-988ce9f0e66f))
+***** ((63b7a655-451c-4638-af01-b8584958bf07))
+***** ((63b7a65c-6cde-40a7-aaf3-c2f67547afc7))
+***** Common architecture patterns for relationships between authoritative sources and/or identity providers and relying parties:
+****** Hub & spoke model
+****** Free form model
+***** ((63b7a6aa-e642-4c6c-aafd-2d618923efef))
+***** ((63b7a6d0-53a9-4f4f-8aae-bdfa429b7fb2))
+**** ((63b7a701-3ba8-4b7f-870a-e367d309fe75))
+*****
