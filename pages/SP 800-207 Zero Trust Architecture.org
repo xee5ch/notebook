@@ -1,2 +1,81 @@
 * [[../assets/NIST.SP.800-207_1672987517052_0.pdf][NIST.SP.800-207.pdf]]
-*
+* ((63b9f7f1-9a2a-4391-96d4-4a969dd2837b))
+* ((63b9f7fb-4399-4e62-8e6e-90ad781e4ebb))
+* ((63b9f819-9f53-46ab-a5be-3b971ed751d7))
+* ((63b9f838-1bc1-4a4a-8b2b-b696934891b6))
+* ((63b9f85e-ca5e-4a58-ac00-00c9796bea70))
+** All data sources and computing services are considered resources.
+** All communication is secured regardless of network location.
+** Access to individual enterprise resources is granted on a per-session basis.
+** Access to resources is determined by dynamic policy—including the observable state of client identity, application/service, and the requesting asset—and may include other behavioral and environmental attributes.
+** The enterprise monitors and measures the integrity and security posture of all owned and associated assets.
+** All resource authentication and authorization are dynamic and strictly enforced before access is allowed.
+** The enterprise collects as much information as possible about the current state of assets, network infrastructure and communications and uses it to improve its security posture.
+* ((63b9f8fc-a0ce-468c-ae05-820fbbfc22c9))
+** The entire enterprise private network is not considered an implicit trust zone.
+** Devices on the network may not be owned or configurable by the enterprise.
+** No resource is inherently trusted.
+** Not all enterprise resources are on enterprise-owned infrastructure.
+** Remote enterprise subjects and assets cannot fully trust their local network connection.
+** Assets and workflows moving between enterprise and nonenterprise infrastructure should have a consistent security policy and posture.
+* ((63b9f967-a277-41eb-a84f-97f69f53be63)) Diagram
+* Core components:
+** Policy Engine (PE)
+** Policy Administrator (PA)
+** Policy Enforcement Point (PEP)
+* Additional components
+** Continuous Diagnostics and Mitigation system (CDM)
+** Industry compliance system
+** Threat intel feeds
+** Network and system activity logs
+** Data access policies
+** PKI
+** ID management system
+** Security information and event management (SIEM) system
+* ((63ba1c94-ca46-4cae-8d40-367ee130da05))
+** ((63ba1c2b-f5e4-4840-94d8-d03bf051538b))
+** ((63ba1c35-ba75-46f3-a31f-cfab814f640f))
+** ((63ba1c3f-ac12-4026-b3a4-1b56ae0460f2))
+* ((63ba1c8a-11f5-4160-8601-991e973eed8e))
+** ((63ba1cb4-ae93-4244-aecc-1760d22497f4))
+*** ((63ba1ce9-3ed2-47d9-8381-c728183bf0f2))
+** ((63ba1cf4-e40b-45b3-bfb0-eea50d1cb842))
+*** variation of the device agent/gateway model above
+*** the entire private cloud is located behind a gateway
+*** useful for enterprises that have legacy applications or on-premises data centers that cannot have individual gateways in place
+** ((63ba1d42-ba23-46f4-9b59-01ab14c8bb90))
+*** ((63ba1d4d-838b-40ff-a0b3-79c3ffff832f))
+*** primary benefit of this model over the others is that a software component does not need to be installed on all client devices
+** ((63ba1d87-7fed-4de4-b54f-d02a2c484de0))
+*** PEP could be an enterprise local service or a cloud service in this model
+*** main advantage of this model variant is that individual applications are segmented from the rest of the asset
+*** One of the disadvantages of this model is that enterprises must maintain these sandboxed applications for all assets and may not have full visibility into client assets
+* ((63ba1e01-3760-4d4e-97ae-86bf5a4e6096))
+** Access request
+** Subject database
+** Asset database and observable status
+** Resource requirements
+** Threat intelligence
+** final determination is then passed to the PA for execution
+* ((63ba1e56-4fd1-4cbd-ab3c-8a22f01d9475))
+** Criteria versus score
+** Singular versus contextual
+** Ideally, a ZTA trust algorithm should be contextual, but this may not always be possible with the infrastructure components available to the enterprise
+* ((63ba1e9f-f5d8-4ed9-9a5b-6d35bb744540))
+** control plane
+** data plane
+** ((63ba1eb9-011e-46f2-86d3-4ae2672befe5))
+* ((63ba1ef2-d2a3-4135-87b6-9e1fbab23554))
+** Enterprise with Satellite Facilities
+** Multi-cloud/Cloud-to-Cloud Enterprise
+** Enterprise with Contracted Services and/or Nonemployee Access
+** Collaboration Across Enterprise Boundaries
+** Enterprise with Public- or Customer-Facing Services
+* ((63ba1f89-97f9-43b7-94eb-67681f671de9))
+** Subversion of ZTA Decision Process
+** Denial-of-Service or Network Disruption
+** Stolen Credentials/Insider Threat
+** Visibility on the Network
+** Storage of System and Network Information
+** Reliance on Proprietary Data Formats or Solutions
+** Use of Non-person Entities (NPE) in ZTA Administration

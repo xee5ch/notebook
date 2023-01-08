@@ -1,0 +1,172 @@
+#+file-path: ../assets/NIST.SP.800-207_1672987517052_0.pdf
+#+file: [[../assets/NIST.SP.800-207_1672987517052_0.pdf][NIST.SP.800-207_1672987517052_0.pdf]]
+#+title: hls__NIST.SP.800-207_1672987517052_0
+
+* Zero trust (ZT) provides a collection of concepts and ideas designed to minimize uncertainty in enforcing accurate, least privilege per-request access decisions in information systems and services in the face of a network viewed as compromised.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:hl-color: yellow
+:id: 63b9f7f1-9a2a-4391-96d4-4a969dd2837b
+:END:
+* Zero trust architecture (ZTA) is an enterprise’s cybersecurity plan that utilizes zero trust concepts and encompasses component relationships, workflow planning, and access policies. Therefore, a zero trust enterprise is the network infrastructure (physical and virtual) and operational policies that are in place for an enterprise as a product of a zero trust architecture plan.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:hl-color: yellow
+:id: 63b9f7fb-4399-4e62-8e6e-90ad781e4ebb
+:END:
+* ZT and ZTA are about resource access (e.g., printers, compute resources, Internet of Things [IoT] actuators) and not just data access.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:hl-color: yellow
+:id: 63b9f819-9f53-46ab-a5be-3b971ed751d7
+:END:
+* The “implicit trust zone” represents an area where all the entities are trusted to at least the level of the last PDP/PEP gateway.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:hl-color: yellow
+:id: 63b9f838-1bc1-4a4a-8b2b-b696934891b6
+:END:
+* A zero trust architecture is designed and deployed with adherence to the following zero trust basic tenets:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:hl-color: yellow
+:id: 63b9f85e-ca5e-4a58-ac00-00c9796bea70
+:END:
+* ZTA should be developed with the ZTA tenets outlined above and with the following assumptions
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:hl-color: yellow
+:id: 63b9f8fc-a0ce-468c-ae05-820fbbfc22c9
+:END:
+* Core Zero Trust Logical Components
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:hl-color: yellow
+:id: 63b9f967-a277-41eb-a84f-97f69f53be63
+:END:
+* ZTA Using Enhanced Identity Governance
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 63ba1c2b-f5e4-4840-94d8-d03bf051538b
+:END:
+* ZTA Using Micro-Segmentation
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 21
+:hl-color: yellow
+:id: 63ba1c35-ba75-46f3-a31f-cfab814f640f
+:END:
+* ZTA Using Network Infrastructure and Software Defined Perimeters
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 21
+:hl-color: yellow
+:id: 63ba1c3f-ac12-4026-b3a4-1b56ae0460f2
+:END:
+* Deployed Variations of the Abstract Architecture
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:hl-color: yellow
+:id: 63ba1c8a-11f5-4160-8601-991e973eed8e
+:END:
+* Variations of Zero Trust Architecture Approaches
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 63ba1c94-ca46-4cae-8d40-367ee130da05
+:END:
+* Device Agent/Gateway-Based Deployment
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:hl-color: yellow
+:id: 63ba1cb4-ae93-4244-aecc-1760d22497f4
+:END:
+* This model is best utilized for enterprises that have a robust device management program in place as well as discrete resources that can communicate with the gateway. For enterprises that heavily utilize cloud services, this is a client-server implementation of the Cloud Security Alliance (CSA) Software Defined Perimeter (SDP) [CSA-SDP].
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:hl-color: yellow
+:id: 63ba1ce9-3ed2-47d9-8381-c728183bf0f2
+:END:
+* Enclave-Based Deployment
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:hl-color: yellow
+:id: 63ba1cf4-e40b-45b3-bfb0-eea50d1cb842
+:END:
+* Resource Portal-Based Deployment
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 24
+:hl-color: yellow
+:id: 63ba1d42-ba23-46f4-9b59-01ab14c8bb90
+:END:
+* PEP is a single component that acts as a gateway for subject requests
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 24
+:hl-color: yellow
+:id: 63ba1d4d-838b-40ff-a0b3-79c3ffff832f
+:END:
+* Device Application Sandboxing
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 25
+:hl-color: yellow
+:id: 63ba1d87-7fed-4de4-b54f-d02a2c484de0
+:END:
+* Trust Algorithm Input
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:hl-color: yellow
+:id: 63ba1e01-3760-4d4e-97ae-86bf5a4e6096
+:END:
+* Trust Algorithm Variations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 28
+:hl-color: yellow
+:id: 63ba1e56-4fd1-4cbd-ab3c-8a22f01d9475
+:END:
+* Network/Environment Components
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 30
+:hl-color: yellow
+:id: 63ba1e9f-f5d8-4ed9-9a5b-6d35bb744540
+:END:
+* Network Requirements to Support ZTA
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 30
+:hl-color: yellow
+:id: 63ba1eb9-011e-46f2-86d3-4ae2672befe5
+:END:
+* Deployment Scenarios/Use Cases
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 32
+:hl-color: yellow
+:id: 63ba1ef2-d2a3-4135-87b6-9e1fbab23554
+:END:
+* Threats Associated with Zero Trust Architecture
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:hl-color: yellow
+:id: 63ba1f89-97f9-43b7-94eb-67681f671de9
+:END:
