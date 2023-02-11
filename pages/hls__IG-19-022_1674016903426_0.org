@@ -1,0 +1,363 @@
+#+file-path: ../assets/IG-19-022_1674016903426_0.pdf
+:PROPERTIES:
+:file: [[../assets/IG-19-022_1674016903426_0.pdf][IG-19-022_1674016903426_0.pdf]]
+:file-path: ../assets/IG-19-022_1674016903426_0.pdf
+:END:
+
+* For example, in 2011 cyber intruders gained full access to 18 servers supporting key JPL missions and stole87 gigabytes of data. More recently, in April 2018 JPL discovered an account belonging to an external user had been compromised and used to steal approximately 500 megabytes of data from one of its major mission systems.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:hl-color: yellow
+:id: 63c778ab-a55b-4de6-a7c7-47fe50e24941
+:END:
+* inventory incomplete and inaccurate
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:hl-color: yellow
+:id: 63c778dc-7b81-496f-a1bb-c1c634d0a35e
+:END:
+* PL’s network gateway that controls partner access to a shared IT environment for specific missions and data had not been properly segmented to limit users only to those systems and applications for which they had approved acces
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:hl-color: yellow
+:id: 63c778e9-2f66-46fa-b2df-5ade83d24e8e
+:END:
+* security problem log tickets, created in the ITSDB when a potential or actual IT system security vulnerability is identified, were not resolved for extended periods of time
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:hl-color: yellow
+:id: 63c778fb-a6cb-4696-aedc-487397c9e529
+:END:
+* PL system administrators misunderstood their responsibilities regarding management and review of logs for identifying malicious activity occurring on a particular system or network. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 63c7790d-d10f-44bd-a006-42ee7323eaf4
+:END:
+* ybersecurity monitoring tools employed by JPL defend against routine intrusions and misuse of computer assets, JPL had not implemented a threat hunting program recommended by IT security experts
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 63c779d4-e829-406a-90f3-69b3f03f80dd
+:END:
+* we found that multiple JPL incident management and response practices deviate from NASA and recommended industry practices.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 63c779e9-d9ca-4068-a12c-900f517cc608
+:END:
+* Finally, while the contract between NASA and Caltech requires JPL to report certain types of IT security incidents to the Agency through the NASA SOC incident management system, no controls were in place to ensure JPL compliance with this requirement nor did NASA officials have access to JPL’s incident management system. Collectively, these weaknesses leave NASA data and systems at risk.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 63c77a96-6874-4810-b586-4c350c34ed47
+:END:
+* Despite these significant concerns, the contract NASA signed with Caltech in October 2018 to manage JPL for at least the next 5 years left important IT security requirements unresolved and instead both sides agreed to continue negotiating these issues.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 63c77aa5-9436-4bae-9b65-7679d90d8d6b
+:END:
+* WHAT WE RECOMMENDED
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 63c77aed-5521-4786-96c3-b79b4ef2c89c
+:END:
+* We consider management’s comments to those recommendations responsive and therefore the recommendations are resolved and will be closed upon completion and verification of the proposed corrective actions.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 63c77b3a-7209-4fb3-9ee6-06ea26f422e0
+:END:
+* Since 1959, Caltech has managed JPL’s research and development activities, including security controls over its data and systems. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:hl-color: yellow
+:id: 63c77b73-ca86-4aad-88b0-5f08e7a134a3
+:END:
+* Given the criticality of JPL’s mission and the differing relationship NASA has with JPL in establishing IT security controls compared to other Centers, we initiated this audit to assess the effectiveness of JPL’s network security controls for externally facing applications and systems
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: yellow
+:id: 63c77b90-53f8-464f-8775-aa8ff33567f0
+:END:
+* Not surprisingly, NASA is a regular target of cyberattacks both because of the large size of its networks and the sensitive nature of the information it maintains. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: yellow
+:id: 63c77dbf-9029-4599-94cb-8eb5fa2fa998
+:END:
+* ach NASA Center, including JPL, has a CIO and dedicated IT staff.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 63c77df7-2333-4513-b9ee-b5c4d3645cff
+:END:
+* PL’s CISO does not report directly to the NASA SAISO, instead reporting to the JPL CIO, but coordinates with the SAISO on Agency-wide IT matters and cybersecurity incidents.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 63c77e03-a4ad-4129-8757-b941eaa90182
+:END:
+* ASA operates a Security Operations Center (SOC) located at Ames Research Center as its central coordination point for continuous monitoring of computer network traffic entering and leaving NASA facilities. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 63c77e1b-0ece-4890-b5e1-dfbcd3485a6b
+:END:
+* NASA’s contract with Caltech covers all research and development activities as well as management and institutional operation of JPL, including IT services. Through its contract, NASA shares authority and responsibility with Caltech for developing IT policies and implementing an IT security program to protect the Agency’s assets and respond to security incidents. Specifically, the contract requires that JPL establish and maintain procedures to “substantiate that JPL-related IT and information resources are acquired and managed in a manner that safeguards NASA’s IT infrastructure, systems, assets, and information.” As NASA’s OCIO management described the relationship, the Agency establishes the level of security and controls required to operate JPL, but allows Caltech flexibility to decide how to achieve those requirements. As such, Caltech selects and implements IT security controls, including incident monitoring and handling controls, to protect the confidentiality, integrity, and availability of NASA electronic information from unauthorized disclosure.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:hl-color: yellow
+:id: 63c77e38-6320-4ff2-90e3-de3b31d2dd66
+:END:
+* JPL also operates its own incident response team out of the JPL Cybersecurity Operations Center(JPL SOC). Led by the Cybersecurity/Identity Technologies and Operations Group (CITO), the JPL SOC provides support in application and vulnerability assessments, log data analysis, and cybersecurity monitoring and investigations.9 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:hl-color: yellow
+:id: 63c78101-d8d9-4fb3-b6b1-a8f38df00008
+:END:
+* On October 1, 2018, NASA entered into a $15 billion, 5-year contract with Caltech to operate JPL on NASA’s behalf. Among the provisions in the contract were several new IT security requirements.12 However, Caltech’s execution of several IT security responsibilities were not agreed upon when the contract was signed, but rather left for further negotiation. Specifically, the new contract stipulates JPL shall provide NASA with an “IT Transition Plan” that reflects Caltech’s plan for operations and compliance with its new contractual obligations, including an implementation plan for meeting the intent of the Agency’s IT security policies and procedures. However, as of March 2019 the Agency had not approved Caltech’s proposed transition and implementation plans.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: yellow
+:id: 63c78133-f0d6-4064-8577-8075eb2742f4
+:END:
+* To control access and protect systems connected to these subnetworks, JPL has established multiple firewalls.16 NASA Centers and external partners, such as foreign space agencies and educational institutions, access the DSN and communicate with JPL mission systems through a remote network gateway.17 To monitor and control access between systems and applications, in March 2017 JPL began implementing a zone-based architecture to provide an additional layer of security and segregation of critical systems within the subnetworks and limit indirect access through external facing applications.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:hl-color: yellow
+:id: 63c781b1-1946-484f-abc7-345ee52c1dcc
+:END:
+* The threat to JPL’s computer networks from internet-based intrusions is real and expanding in scope and frequency.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:hl-color: yellow
+:id: 63c781f4-98df-410d-89e7-c0b2018a7d89
+:END:
+* contributing factor to the theft was inadequate security settings across various network points, including several computers and a server at JPL, which allowed the intruder to access a wide range of sensitive data. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:hl-color: yellow
+:id: 63c7820d-99d9-488a-8a06-acc76f4ae87e
+:END:
+* Ultimately, the scope and success of these intrusions demonstrate the increasingly complex nature of IT security challenges facing JPL and the Agency. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:hl-color: yellow
+:id: 63c782d8-f29d-4804-bb42-9225ea9c8c5f
+:END:
+* Incomplete and Inaccurate System Component Inventory
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:hl-color: yellow
+:id: 63c7831e-7726-43b2-aabf-8c30a50977b5
+:END:
+* Based on vulnerability scans performed by the Department of Homeland Security (DHS) in April 2018 and reports of critical systems on the JPL network supplied by Caltech, NASA, and the JPL SOC, we judgmentally selected 13 systems and attempted to trace them to the ITSDB and ASR.30 Four of the13 systems were not properly recorded and could not be traced in the ASR database. After we notified JPL OCIO officials, they removed external access for one of the systems that did not meet ASR criteria, created an ASR record for another, and corrected existing ASR information for the remaining two systems.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:hl-color: yellow
+:id: 63c7836c-6095-4c2e-8aec-c3178cd0625c
+:END:
+* Inadequate Segmentation of Network Environment Shared with External Partners
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 63c7838e-415b-41ed-a0b9-126424edf030
+:END:
+* According to JPL IT security officials, the mission-level agreement is less detailed and does not contain the same level of security requirements as an ISA. Specifically, it does not (1) document the requirements partners must meet in order to connect to NASA’s IT systems, (2) describe the security controls that will be used to protect the systems and data, or (3) contain a topological drawing of the interconnection. As of March 2019, the JPL OCIO was in the process of reviewing a draft ISA for the affected user to replace the mission-level agreement. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 63c783f4-824f-4e34-af96-ecd1a44361c5
+:END:
+* Deficiencies in JPL Event Monitoring and Security Controls
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 63c78403-e474-411d-a536-3cabc9226c45
+:END:
+* Untimely Security Problem Log Ticket Resolution and Patch Application
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 63c7840e-26bf-42d2-a62b-df16d3c667b0
+:END:
+* Ineffective IT Security Waiver Process
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:hl-color: yellow
+:id: 63c7843b-33f7-4578-b393-db39444d02d5
+:END:
+* While we understand the need to issue security waivers for particular systems, allowing waivers to remain open for an indefinite basis without periodic revalidation leaves systems with unresolved vulnerabilities and unapplied patches susceptible to attack.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:hl-color: yellow
+:id: 63c784b2-951e-4e7f-8f4e-7d35e86cc09d
+:END:
+* JPL Log Management Infrastructure Not Operating as Intended
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 24
+:hl-color: yellow
+:id: 63c784c5-291e-4e8e-8efa-9783315d8a47
+:END:
+* While JPL system administrators responsible for IT security were aware of the requirement to review log files, we found that many of them misunderstood their responsibilities regarding log management and review. Specifically, 9 out of 11 system administrators in our judgmental sample said they believed their routine analysis was no longer necessary once their system logs are sent to Splunk ES for collection and reporting. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 24
+:hl-color: yellow
+:id: 63c784dd-4a27-4e1e-ac58-391cdc6d564b
+:END:
+* However, JPL SOC staff consider system administrators as the “first line of defense” in reviewing log files at the individual system level, with the SOC a secondary resource that reviews aggregated logs created by its intrusion detection systems, analyzes significant events, and responds to alerts generated by its security management tools
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 24
+:hl-color: yellow
+:id: 63c7858f-a912-459c-b6c2-d9b35042e5db
+:END:
+* While JPL conducts threat hunting using a variety of cybersecurity tools (e.g., Splunk ES and Snort) to analyze and evaluate threats, along with information sharing feeds(TAXII/STIX), these efforts fall short of a published methodology for SOC analysts.54 JPL’s incident response plan also does not include any specific threat-hunting procedures. A documented process that defines the techniques analysts should follow, including generating hypotheses regarding malicious activity in an IT environment and updating automated detection capabilities based on discovered threats, reduces inefficiencies of random techniques and guides analysts in a more strategic and structured hunt.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:hl-color: yellow
+:id: 63c786c8-d3ab-4d63-adff-23231479ac90
+:END:
+* Inadequate System Administrator Training
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:hl-color: yellow
+:id: 63c7873a-23c8-4308-8b29-e9b834989290
+:END:
+* As of April 2019, JPL did not have a role-based training program, provide additional IT security training for system administrators, nor fund their IT security certifications.57 JPL OCIO officials said they plan to implement the role-based training program by July 2019; however, this program faces several challenges, including freeing up personnel to attend the training and the need for additional funding associated with the planned role-based training courses.58
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:hl-color: yellow
+:id: 63c787a7-371f-4a70-ac07-1f0ea43aee35
+:END:
+* JPL Has Not Fully Implemented Effective Incident Response Procedures
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:hl-color: yellow
+:id: 63c787b5-49d8-4bf3-9cb1-9f2804024f00
+:END:
+* PL currently staffs its SOC during regular business hours and maintains one analyst on call to respond to after-hours alerts. Conversely, the NASA SOC provides a dedicated IT security staff 24 hours per day, 7 days a week for monitoring agency networks in conjunction with its suite of intrusion detection tools and sensors. Data from the NASA SOC incident management system, however, indicates that JPL handles a comparable number of incidents with other Agency Centers. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:hl-color: yellow
+:id: 63c78866-9cbd-4f28-a532-889b6467d04f
+:END:
+* Given the high number of incidents and limited staff, leveraging talent and expertise from non-JPL SOC resources could fill possible detection capability gaps.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 28
+:hl-color: yellow
+:id: 63c78884-530b-4f8b-a344-3275f51854b0
+:END:
+* JPL’s Incident Response Plan Does Not Include Recommended Elements
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 29
+:hl-color: yellow
+:id: 63c7889c-e878-4ad7-86db-92d61923769d
+:END:
+* pecifically, the plan does not include, or only partially includes, the following elements:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 29
+:hl-color: yellow
+:id: 63c788aa-0534-4ed1-8398-c6257ce61905
+:END:
+* Delayed Response to an Advanced Persistent Threat Attack
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 30
+:hl-color: yellow
+:id: 63c788ea-dc2d-4cbd-a47b-0f3d1f6ad46b
+:END:
+* JPL was concerned with inadvertent access to its corporate network and feared disruption of mission operations. I
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 30
+:hl-color: yellow
+:id: 63c7890d-52f2-49a6-a192-103bd747eaf2
+:END:
+* JPL Process for Sharing Lessons Learned Needs Improvement
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 30
+:hl-color: yellow
+:id: 63c7891d-dcb2-4f13-a003-c5bac13bfc6b
+:END:
+* However, we found JPL’s current initiatives fall short of the learning culture NASA strives to implement across the Agency.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 30
+:hl-color: yellow
+:id: 63c7892e-06e0-4bc9-8b45-e5a89acb0465
+:END:
+* Although JPL develops post-incident bulletins, applies lessons learned directly into operations on an ad-hoc basis, or holds meetings following particular incidents, the specific lessons may not be reaching their intended audience. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 30
+:hl-color: yellow
+:id: 63c7893d-deaf-4924-8e89-bd730c43bafa
+:END:
+* NASA Unable to Monitor Assets on the JPL Network
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 32
+:hl-color: yellow
+:id: 63c78963-f93e-4605-84f8-a87b0f7ccbbe
+:END:
+* In an effort to ensure proper oversight of incidents occurring on JPL’s network, the NASA SOC drafted a Service Level Objectives agreement with the JPL SOC that defines reporting responsibilities and expectations. However, the agreement has not been finalized, and we believe additional clarity regarding the scope of reportable incident types is needed to ensure the Agency ultimately receives the agreed-upon information. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 32
+:hl-color: yellow
+:id: 63c7897d-1d53-45e6-a3cd-47ffa02c3828
+:END:
+* Moreover, while the NASA SOC informed us that all malware incidents should be reported by JPL, 17 out of 91 incidents included in the “non-reportable” list JPL provided were categorized as “malicious code,” suggesting inconsistent interpretations of generally defined terms in the agreement
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 32
+:hl-color: yellow
+:id: 63c789a3-a39b-4f9c-a58b-b5f25ffb9a49
+:END:

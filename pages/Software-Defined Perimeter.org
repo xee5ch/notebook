@@ -1,0 +1,8 @@
+* [[../assets/Software-Defined-Perimeter-and-Zero-Trust_1673155542405_0.pdf][Software-Defined-Perimeter-and-Zero-Trust.pdf]] guidance from CSA
+* ((63bae628-b3da-4abc-a165-c9a777a4cf25))
+* SDP is an advanced implementation of Zero Trust with the following network capabilities:
+** Separating the control plane where trust is established from the data plane where actual data is transferred.
+** Hiding the infrastructure (e.g. blackening the servers) using a dynamic deny-all firewall (not deny-all, allow exceptions) - the point where all unauthorized packets are dropped for logging and analyzing traffic.
+** Using single packet authorization to authenticate and authorize users and validate devices for access to protected services - least privilege is implicit in this protocol.
+* ((63bae72e-efdc-4d2b-9912-fa120617ac8a))
+*

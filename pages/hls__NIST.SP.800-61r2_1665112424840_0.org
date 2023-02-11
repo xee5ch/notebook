@@ -1,0 +1,495 @@
+#+file-path: ../assets/NIST.SP.800-61r2_1665112424840_0.pdf
+#+file: [[../assets/NIST.SP.800-61r2_1665112424840_0.pdf][NIST.SP.800-61r2_1665112424840_0.pdf]]
+#+title: hls__NIST.SP.800-61r2_1665112424840_0
+
+* Organizations should be generally prepared to handle any incident but should focus on being prepared to handle incidents that use common attack vectors.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: yellow
+:id: 63cde7f1-bd93-46a5-9d67-0810d25dad46
+:END:
+* Organizations should emphasize the importance of incident detection and analysis throughout the organization.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:hl-color: yellow
+:id: 63cde8e1-f183-421c-9722-b789deef6dd9
+:END:
+* An event is any observable occurrence in a system or network.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:hl-color: yellow
+:id: 63cde93d-9ad8-4ca6-ba8e-64232aa1451b
+:END:
+* Adverse events are events with a negative consequence, such as system crashes, packet floods, unauthorized use of system privileges, unauthorized access to sensitive data, and execution of malware that destroys data. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:hl-color: yellow
+:id: 63cde94e-505b-41e6-b4c7-50501bd3ee92
+:END:
+* A computer security incident is a violation or imminent threat of violation1 of computer security policies, acceptable use policies, or standard security practices.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:hl-color: yellow
+:id: 63cde962-7d6d-4e81-8b13-6ee76d483ef4
+:END:
+* Plan Elements
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:hl-color: yellow
+:id: 63cde9a5-0a9f-4542-bed3-a400e3589d83
+:END:
+* Once an organization develops a plan and gains management approval, the organization should implement the plan and review it at least annually to ensure the organization is following the roadmap 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:hl-color: yellow
+:id: 63cde9f4-c215-4177-a0db-033582d485fe
+:END:
+* Procedure Elements
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:hl-color: yellow
+:id: 63cdea03-e7dc-467e-ab21-e4a608abacaa
+:END:
+* tandard operating procedures(SOPs) are a delineation of the specific technical processes, techniques, checklists, and forms used by the incident response team. SOPs should be reasonably comprehensive and detailed to ensure that the COMPUTER SECURITY INCIDENT HANDLING GUIDE9 priorities of the organization are reflected in response operations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:hl-color: yellow
+:id: 63cdea22-3442-4e0b-80bb-d7b588be2da7
+:END:
+* For discussing incidents with the media, organizations often find it beneficial to designate a single point of contact (POC) and at least one backup contact.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 63cdea5f-794c-45fc-ad40-0e819393af21
+:END:
+* The following actions are recommended for preparing these designated contacts and should also be considered for preparing others who may be communicating with the media:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 63cdea7d-89d8-400d-9fa1-49ae203e2a88
+:END:
+* One reason that many security-related incidents do not result in convictions is that some organizations do not properly contact law enforcement. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 63cdea97-8589-4110-b011-ad10ff113e62
+:END:
+* Many organizations prefer to appoint one incident response team member as the primary POC with law enforcement. This person should be familiar with the reporting procedures for all relevant law enforcement agencies and well prepared to recommend which agency, if any, should be contacted. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 63cdeab3-4389-4e8b-adcf-b180baeecc8c
+:END:
+* FISMA requires Federal agencies to report incidents to the United States Computer Emergency Readiness Team (US-CERT),
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 63cdeac0-4fac-4c3b-93cb-b64002bc0d64
+:END:
+* All organizations are encouraged to report incidents to their appropriate CSIRTs. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 21
+:hl-color: yellow
+:id: 63cdee41-2290-4b7a-91ba-f0f688c01d49
+:END:
+* An incident response team should be available for anyone who discovers or suspects that an incident involving the organization has occurred. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:hl-color: yellow
+:id: 63cdef16-9902-41cc-acef-effdf181c093
+:END:
+* Team Models
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:hl-color: yellow
+:id: 63cdef21-8126-4b61-979c-aa60295f2e22
+:END:
+* three staffing models
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:hl-color: yellow
+:id: 63cdef52-4281-4957-8cda-16e56ee0c4b0
+:END:
+* Team Model Selection
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 23
+:hl-color: yellow
+:id: 63cdef70-a870-45f4-85cf-61c85140b829
+:END:
+* Incident Response Personnel
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 25
+:hl-color: yellow
+:id: 63cdf06e-806d-4249-90a0-9aec9014eb6b
+:END:
+* Budget enough funding to maintain, enhance, and expand proficiency in technical areas and security disciplines, as well as less technical topics such as the legal aspects of incident response
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:hl-color: yellow
+:id: 63cdf098-487f-4240-9826-f9c4eea6c32e
+:END:
+* Give team members opportunities to perform other tasks, 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:hl-color: yellow
+:id: 63cdf0a4-c3fd-4d18-9e44-7b86972d9d12
+:END:
+* Consider rotating staff members in and out of the incident response team
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:hl-color: yellow
+:id: 63cdf0ae-42da-45d3-895d-c07699f1796c
+:END:
+* Maintain sufficient staffing so that team members can have uninterrupted time off work
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:hl-color: yellow
+:id: 63cdf0bc-262b-4068-a361-a6d2e652ee7e
+:END:
+* Create a mentoring program to enable senior technical staff to help less experienced staff learn incident handling.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:hl-color: yellow
+:id: 63cdf0c5-7f00-48d4-9215-52bfa68a07bd
+:END:
+* Develop incident handling scenarios and have the team members discuss how they would handle them.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:hl-color: yellow
+:id: 63cdf0cd-e716-4a3e-a27b-8522c8afc3b1
+:END:
+* Dependencies within Organizations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:hl-color: yellow
+:id: 63cdf0d8-6a0a-467c-89b0-46c861793fe0
+:END:
+* Incident Response Team Services
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:hl-color: yellow
+:id: 63cdf12a-9f14-4183-a5c6-8fb94e9f84c2
+:END:
+* Recommendations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 28
+:hl-color: yellow
+:id: 63cdf296-b097-45df-9023-7c78c7de26a3
+:END:
+* Handling an Incident
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 30
+:hl-color: yellow
+:id: 63cdf308-1b1e-4ae6-9f6c-572020fb7d3e
+:END:
+* Preparation
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 30
+:hl-color: yellow
+:id: 63cdf353-e653-421b-8508-456db8d094c6
+:END:
+* Preparing to Handle Incidents
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 30
+:hl-color: yellow
+:id: 63cdf35d-7f90-46d3-b4fb-8ed897187d24
+:END:
+* Preventing Incidents
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 32
+:hl-color: yellow
+:id: 63cdf415-a5a5-475f-828f-d2a60d6c5e53
+:END:
+* Detection and Analysis
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 34
+:hl-color: yellow
+:id: 63cdf506-9096-4cfd-9ee2-884bf7035143
+:END:
+* Attack Vectors
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 34
+:hl-color: yellow
+:id: 63cdf50f-8df4-4513-bad3-ded1ff2abdac
+:END:
+* Signs of an Incident
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 35
+:hl-color: yellow
+:id: 63cdfd6b-9e59-4ebf-a44c-ddabf7b4a6f3
+:END:
+* Sources of Precursors and Indicators
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 36
+:hl-color: yellow
+:id: 63cdfe75-725c-4365-866f-1c6f079cba00
+:END:
+* Incident Analysis
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 37
+:hl-color: yellow
+:id: 63cdff0f-163c-4a53-a51d-075ab42e8123
+:END:
+* Incident Documentation
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 39
+:hl-color: yellow
+:id: 63cdff8b-0af1-4dcb-a0b7-c03802faca4a
+:END:
+* Incident Prioritization
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 41
+:hl-color: yellow
+:id: 63ce000b-0074-4b2b-baad-8b3b8d9ebd8c
+:END:
+* Combining the functional impact to the organization’s systems and the impact to the organization’s information determines the business impact of the incident
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 41
+:hl-color: yellow
+:id: 63ce0125-365c-4ecd-8a78-10097e74f850
+:END:
+* The recoverability from the incident determines the possible responses that the team may take when handling the incident. An incident with a high functional impact and low effort to recover from is an ideal candidate for immediate action from the team. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 41
+:hl-color: yellow
+:id: 63ce0134-9fad-4eaa-9a4e-99328932a0c1
+:END:
+* Functional Impact Categories
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:hl-color: yellow
+:id: 63ce015a-3601-4da1-b89a-3c31ddb11f6a
+:END:
+* Information Impact Categories
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:hl-color: yellow
+:id: 63ce0166-62f8-49a2-ba02-3a02d6601d2f
+:END:
+* Recoverability Effort Categories
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:hl-color: yellow
+:id: 63ce0178-630e-4835-b4c2-e7d212fbe3fc
+:END:
+* Incident Notification
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 42
+:hl-color: yellow
+:id: 63ce0192-1a86-4978-8af7-bca48fb354d4
+:END:
+* Containment, Eradication, and Recovery
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:hl-color: yellow
+:id: 63ce01ad-8845-42bf-a6d5-9f45a6588cf4
+:END:
+* Choosing a Containment Strategy
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:hl-color: yellow
+:id: 63ce01bb-7bee-461b-af19-82dbbb8f505b
+:END:
+* Criteria for determining the appropriate strategy include:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:hl-color: yellow
+:id: 63ce01cd-3de5-4849-a27a-b68a5b23bc38
+:END:
+* Another potential issue regarding containment is that some attacks may cause additional damage when they are contained. For example, a compromised host may run a malicious process that pings another host periodically. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: yellow
+:id: 63ce0207-8a85-40af-ab1a-fd56c4801f39
+:END:
+* Handlers should not assume that just because a host has been disconnected from the network, further damage to the host has been prevented.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: yellow
+:id: 63ce0220-3df6-479d-a8b6-fbc167b19342
+:END:
+* Evidence Gathering and Handling
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: yellow
+:id: 63ce0244-17ad-41a3-b2f1-1dd55ffe371f
+:END:
+* A detailed log should be kept for all evidence, including the following:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: yellow
+:id: 63ce025a-5923-4a4a-be24-80e2c69ebb0b
+:END:
+* Many incidents cause a dynamic chain of events to occur; an initial system snapshot may do more good in identifying the problem and its source than most other actions that can be taken at this stage.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: yellow
+:id: 63ce0283-35db-4850-b989-c5817a941d80
+:END:
+* Identifying the Attacking Hosts
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:hl-color: yellow
+:id: 63ce02a5-397e-4364-b983-00601ee16b54
+:END:
+* Eradication and Recovery
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:hl-color: yellow
+:id: 63ce02d8-5109-4ff9-bd00-ba4aac451272
+:END:
+* Eradication and recovery should be done in a phased approach so that remediation steps are prioritized. For large-scale incidents, recovery may take months; the intent of the early phases should be to increase the overall security with relatively quick (days to weeks) high value changes to prevent future incidents. The later phases should focus on longer-term changes (e.g., infrastructure changes) and ongoing work to keep the enterprise as secure as possible.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:hl-color: yellow
+:id: 63ce02ff-f2da-44ca-a1f5-8e07935c1c37
+:END:
+* Because eradication and recovery actions are typically OS or application-specific, detailed recommendations and advice regarding them are outside the scope of this document.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:hl-color: yellow
+:id: 63ce0311-ab1b-4c2e-ae36-e73cc9d4a453
+:END:
+* Post-Incident Activity
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:hl-color: yellow
+:id: 63ce031c-2699-474b-afa9-a1f2f3aea077
+:END:
+* Lessons Learned
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:hl-color: yellow
+:id: 63ce032e-b71f-4458-9b36-3e9abb715979
+:END:
+* The success of such meetings also depends on the agenda. Collecting input about expectations and needs(including suggested topics to cover) from participants before the meeting increases the likelihood that the participants’ needs will be met. In addition, establishing rules of order before or during the start of a meeting can minimize confusion and discord. Having one or more moderators who are skilled in group facilitation can yield a high payoff. Finally, it is also important to document the major points of agreement and action items and to communicate them to parties who could not attend the meeting.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:hl-color: yellow
+:id: 63ce047b-9978-45e9-ac63-9a68a12c66c3
+:END:
+* Another important post-incident activity is creating a follow-up report for each incident, which can be quite valuable for future use. The report provides a reference that can be used to assist in handling similar incidents.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:hl-color: yellow
+:id: 63ce04a3-5e48-42d7-aa2c-fa238bde0c9d
+:END:
+* This estimate may become the basis for subsequent prosecution activity by entities such as the U.S. Attorney General’s office. Follow-up reports should be kept for a period of time as specified in record retention policies.45
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:hl-color: yellow
+:id: 63ce04c1-0fd3-494d-90a5-6c071bea8d9a
+:END:
+* Using Collected Incident Data
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 48
+:hl-color: yellow
+:id: 63ce04eb-39be-432f-adbf-5187f78184db
+:END:
+* Evidence Retention
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 50
+:hl-color: yellow
+:id: 63ce053c-5298-4616-bf4c-f155a6a16c44
+:END:
+* Incident Handling Checklist
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:hl-color: yellow
+:id: 63ce057a-e6a6-47ae-b38a-d67f46b8eea1
+:hl-stamp: 1674446205409
+:END:
+* Recommendations
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:hl-color: yellow
+:id: 63ce0596-2f74-41a2-9765-18d898c4fc79
+:END:
+* Coordination and Information Sharing
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 54
+:hl-color: yellow
+:id: 63ce195f-5513-48ff-901e-5e1dec539633
+:END:
+* Coordination
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 54
+:hl-color: yellow
+:id: 63ce1979-15c4-446c-92df-997aa8e93ef0
+:END:
+* Coordination Relationships
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 55
+:hl-color: yellow
+:id: 63ce198d-eabb-4dc5-ba81-e0cc917ef1ba
+:END:

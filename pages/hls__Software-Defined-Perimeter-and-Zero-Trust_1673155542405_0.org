@@ -1,0 +1,20 @@
+#+file-path: ../assets/Software-Defined-Perimeter-and-Zero-Trust_1673155542405_0.pdf
+:PROPERTIES:
+:file: [[../assets/Software-Defined-Perimeter-and-Zero-Trust_1673155542405_0.pdf][Software-Defined-Perimeter-and-Zero-Trust_1673155542405_0.pdf]]
+:file-path: ../assets/Software-Defined-Perimeter-and-Zero-Trust_1673155542405_0.pdf
+:END:
+
+* Essentially, Zero Trust is a network security concept centered on the belief that organizations should not automatically trust anything inside or outside traditional perimeters and aims to defend enterprise assets
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 63bae628-b3da-4abc-a165-c9a777a4cf25
+:END:
+* SDP Perspective: None of these techniques are effective at preventing attacks. A Zero Trust implementation requires immunity from all layers of attack on network, hosting and application platform infrastructure.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: yellow
+:id: 63bae72e-efdc-4d2b-9912-fa120617ac8a
+:END:

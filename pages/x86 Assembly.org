@@ -1,0 +1,57 @@
+* IA32 Architecture
+** System Organization Basics
+*** CPU
+**** Control unit
+**** Execution unit
+***** Registers
+***** Flags
+*** Memory
+*** I/O Devices
+*** System Bus
+** General Purpose Registers
+*** ~eax~ (0 to 31 bits addressable): Accumulator
+:PROPERTIES:
+:collapsed: true
+:END:
+**** ~ax~ (0 to 16 bits addressable)
+***** ~al~ (a "low" 0 to 7 bits addressable)
+***** ~ah~ (a "high" 8 to 15 bits addressable)
+*** ~ebx~ (0 to 31 bits addressable):  Base Register for pointers to data)
+:PROPERTIES:
+:collapsed: true
+:END:
+**** ~bx~ (0 to 16 bits addressable)
+***** ~bl~ (a "low" 0 to 7 bits addressable)
+***** ~bh~ (a "high" 8 to 15 bits addressable)
+*** ~ecx~ (0 to 31 bits addressable): Counter Register for loops
+:PROPERTIES:
+:collapsed: true
+:END:
+**** ~cx~ (0 to 16 bits addressable)
+***** ~cl~ (a "low" 0 to 7 bits addressable)
+***** ~ch~ (a "high" 8 to 15 bits addressable)
+*** ~edx~ (0 to 31 bits addressable): Data Registers: I/O pointer
+:PROPERTIES:
+:collapsed: true
+:END:
+**** ~dx~ (0 to 16 bits addressable)
+***** ~dl~ (a "low" 0 to 7 bits addressable)
+***** ~dh~ (a "high" 8 to 15 bits addressable)
+*** ~esp~: Stack pointer register
+*** ~ebp~: Stack data pointer register
+*** ~esi~ and ~edi~: data pointer registers for memory operations
+** Segement Registers
+*** ~cs~ (0 to 15 bits addressable): code
+*** ~ds~ (0 to 15 bits addressable): data
+*** ~ss~ (0 to 15 bits addressable): stack
+*** ~es~ (0 to 15 bits addressable): data
+*** ~fs~ (0 to 15 bits addressable): data
+*** ~gs~ (0 to 15 bits addressable): data
+*** Usage depends on memory model, flat or segmented
+** EFLAGS Registers
+** ~eip~ Register
+** FPU x87 registers that behave like a stack
+** SIMD (Single Instruction, Multiple Data) Registers
+*** MMX
+*** XMM
+***

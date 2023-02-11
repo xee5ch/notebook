@@ -1,2 +1,217 @@
 * [[../assets/NIST.SP.800-61r2_1665112424840_0.pdf][NIST.SP.800-61r2.pdf]]
-*
+* ((63cde7f1-bd93-46a5-9d67-0810d25dad46))
+* ((63cde8e1-f183-421c-9722-b789deef6dd9))
+* ((63cde93d-9ad8-4ca6-ba8e-64232aa1451b))
+* ((63cde94e-505b-41e6-b4c7-50501bd3ee92))
+* ((63cde962-7d6d-4e81-8b13-6ee76d483ef4))
+* ((63cde9a5-0a9f-4542-bed3-a400e3589d83))
+** Mission
+** Strategies and goals
+** Senior management approval
+** Organization approach to incident response
+** How the incident response team will communicate with the rest of the organization and with other organizations
+** Metrics for measuring the incident response capability and its effectiveness
+** Roadmap for maturing the incident response capability
+** How the program fits into the overall organization.
+* ((63cde9f4-c215-4177-a0db-033582d485fe))
+* ((63cdea03-e7dc-467e-ab21-e4a608abacaa))
+** ((63cdea22-3442-4e0b-80bb-d7b588be2da7))
+** See Section 3
+* ((63cdea5f-794c-45fc-ad40-0e819393af21))
+* ((63cdea7d-89d8-400d-9fa1-49ae203e2a88))
+* ((63cdea97-8589-4110-b011-ad10ff113e62))
+* ((63cdeab3-4389-4e8b-adcf-b180baeecc8c))
+* ((63cdeac0-4fac-4c3b-93cb-b64002bc0d64))
+* ((63cdee41-2290-4b7a-91ba-f0f688c01d49))
+* ((63cdef16-9902-41cc-acef-effdf181c093))
+* ((63cdef21-8126-4b61-979c-aa60295f2e22))
+** Central Team
+** Distributed Team
+** Coordinating Team
+* ((63cdef52-4281-4957-8cda-16e56ee0c4b0))
+** Employees
+** Partially outsourced
+** Fully outsourced
+* ((63cdef70-a870-45f4-85cf-61c85140b829))
+** General considerations:
+*** Need for 24/7 availability
+*** Full-time versus part-time
+*** Employee morale
+*** Cost
+*** Staff expertise
+** Outsourcing considerations:
+*** Current and future quality of work
+*** Division of responsibilities
+*** Sensitive information disclosure to contractor
+*** Lack of organization-specific knowledge
+*** Lack of correlation
+*** Handling incidents at multiple locations
+*** Maintaining incident response skills in-house
+* ((63cdf06e-806d-4249-90a0-9aec9014eb6b))
+** ((63cdf098-487f-4240-9826-f9c4eea6c32e))
+** ((63cdf0a4-c3fd-4d18-9e44-7b86972d9d12))
+** ((63cdf0ae-42da-45d3-895d-c07699f1796c))
+** ((63cdf0bc-262b-4068-a361-a6d2e652ee7e))
+** ((63cdf0c5-7f00-48d4-9215-52bfa68a07bd))
+** ((63cdf0cd-e716-4a3e-a27b-8522c8afc3b1))
+* ((63cdf0d8-6a0a-467c-89b0-46c861793fe0))
+** Management
+** Information Assurance
+** IT Support
+** Legal Department
+** Public Affairs
+** Human Resources
+** Business Continuity Planning
+** Physical Security & Facilities Management
+* ((63cdf12a-9f14-4183-a5c6-8fb94e9f84c2))
+** Intrusion detection
+** Advisory distribution
+** Education and Awareness
+** Information Sharing
+* ((63cdf296-b097-45df-9023-7c78c7de26a3))
+** Establish a formal incident response capability.
+** Create an incident response policy.
+** Develop an incident response plan based on the incident response policy.
+** Develop incident response procedures.
+** Establish policies and procedures regarding incident-related information sharing.
+** Provide pertinent information on incidents to the appropriate organization.
+** Consider the relevant factors when selecting an incident response team model.
+** Select people with appropriate skills for the incident response team.
+** Identify other groups within the organization that may need to participate in incident handling.
+** Determine which services the team should offer.
+* ((63cdf308-1b1e-4ae6-9f6c-572020fb7d3e))
+** ((63cdf353-e653-421b-8508-456db8d094c6))
+*** ((63cdf35d-7f90-46d3-b4fb-8ed897187d24))
+**** Communications and Facilities
+***** Contact info
+***** On-call info
+***** Incident reporting mechanisms
+***** Issue tracking system
+***** Smart phones
+***** Encryption software
+***** War room
+***** Secure storage facility
+**** Hardware and software
+***** Digital forensics workstation and backup devices
+***** Laptops
+***** Spare equipment
+***** Blank and removable media
+***** Evidence gathering accessories
+**** Resources
+***** Port lists
+***** Docs
+***** Network diagrams and critical assets lists
+***** Current baselines
+***** Cryptographic hashes of critical files
+**** Mitigation software
+***** Baselined images of OS and other reference set software
+*** ((63cdf415-a5a5-475f-828f-d2a60d6c5e53))
+**** Risk assessments
+**** Host security
+**** Network security
+**** Malware prevention
+**** User awareness and training
+** ((63cdf506-9096-4cfd-9ee2-884bf7035143))
+*** ((63cdf50f-8df4-4513-bad3-ded1ff2abdac))
+**** External/removable media
+**** Attrition
+**** Web
+**** Email
+**** Impersonation
+**** Improper usage
+**** Loss or theft of equipment
+**** Other
+*** ((63cdfd6b-9e59-4ebf-a44c-ddabf7b4a6f3))
+*** ((63cdfe75-725c-4365-866f-1c6f079cba00))
+**** IDPS
+**** SIEM
+**** Antivirus and anti-spam software
+**** File integrity checking software
+**** Third-party monitoring services
+**** Operating system, service, and application logs
+**** Network device logs
+**** Network flow
+**** Information on new vulnerabilities and exploits
+**** People within organization
+**** People from other organization
+*** ((63cdff0f-163c-4a53-a51d-075ab42e8123))
+**** Profile networks and systems
+**** Understand normal behaviors
+**** Create a log retention policy
+**** Perform event correlation
+**** Keep all host clocks synchronized
+**** Maintain and use a knowledge base of information
+**** Use internet search engines for research
+**** Run packet sniffers to collect additional data
+**** Filter the data
+**** Seek assistance from others
+*** ((63cdff8b-0af1-4dcb-a0b7-c03802faca4a))
+**** The current status of the incident (new, in progress, forwarded for investigation, resolved, etc.)
+**** A summary of the incident
+**** Indicators related to the incident
+**** Other incidents related to this incident
+**** Actions taken by all incident handlers on this incident
+**** Chain of custody, if applicable
+**** Impact assessments related to the incident
+**** Contact information for other involved parties (e.g., system owners, system administrators)
+**** A list of evidence gathered during the incident investigation
+**** Comments from incident handlers
+**** Next steps to be taken (e.g., rebuild the host, upgrade an application).
+*** ((63ce000b-0074-4b2b-baad-8b3b8d9ebd8c))
+**** Functional impact of the incident
+**** Information impact of the incident
+**** Recoverability from the incident
+**** ((63ce0125-365c-4ecd-8a78-10097e74f850))
+**** ((63ce0134-9fad-4eaa-9a4e-99328932a0c1))
+**** ((63ce015a-3601-4da1-b89a-3c31ddb11f6a))
+**** ((63ce0166-62f8-49a2-ba02-3a02d6601d2f))
+**** ((63ce0178-630e-4835-b4c2-e7d212fbe3fc))
+*** ((63ce0192-1a86-4978-8af7-bca48fb354d4))
+** ((63ce01ad-8845-42bf-a6d5-9f45a6588cf4))
+:PROPERTIES:
+:collapsed: true
+:END:
+*** ((63ce01bb-7bee-461b-af19-82dbbb8f505b))
+**** ((63ce01cd-3de5-4849-a27a-b68a5b23bc38))
+***** Potential damage to and theft of resources
+***** Need for evidence preservation
+***** Service availability (e.g., network connectivity, services provided to external parties)
+***** Time and resources needed to implement the strategy
+***** Effectiveness of the strategy (e.g., partial containment, full containment)
+***** Duration of the solution (e.g., emergency workaround to be removed in four hours, temporary workaround to be removed in two weeks, permanent solution).
+***** ((63ce0207-8a85-40af-ab1a-fd56c4801f39))
+***** ((63ce0220-3df6-479d-a8b6-fbc167b19342))
+**** ((63ce0244-17ad-41a3-b2f1-1dd55ffe371f))
+***** ((63ce025a-5923-4a4a-be24-80e2c69ebb0b))
+****** Identifying information (e.g., the location, serial number, model number, hostname, media access control (MAC) addresses, and IP addresses of a computer)
+****** Name, title, and phone number of each individual who collected or handled the evidence during the investigation
+****** Time and date (including time zone) of each occurrence of evidence handling
+****** Locations where the evidence was stored.
+****** ((63ce0283-35db-4850-b989-c5817a941d80))
+**** ((63ce02a5-397e-4364-b983-00601ee16b54))
+***** Validating attack host's IP address
+***** Researching attacking host
+***** Using incident databases
+***** Monitoring possible attacker communication channels
+**** ((63ce02d8-5109-4ff9-bd00-ba4aac451272))
+***** ((63ce02ff-f2da-44ca-a1f5-8e07935c1c37))
+***** ((63ce0311-ab1b-4c2e-ae36-e73cc9d4a453))
+** ((63ce031c-2699-474b-afa9-a1f2f3aea077))
+*** ((63ce032e-b71f-4458-9b36-3e9abb715979))
+**** ((63ce047b-9978-45e9-ac63-9a68a12c66c3))
+**** ((63ce04a3-5e48-42d7-aa2c-fa238bde0c9d))
+**** ((63ce04c1-0fd3-494d-90a5-6c071bea8d9a)) (3 years according to General Records Schedule 24 when this was written)
+*** ((63ce04eb-39be-432f-adbf-5187f78184db))
+**** Number of incidents handled
+**** Time per incident
+**** Objective assessment of each incident
+**** Subjective assessment of each incident
+*** ((63ce053c-5298-4616-bf4c-f155a6a16c44))
+*** ((63ce057a-e6a6-47ae-b38a-d67f46b8eea1))
+*** ((63ce0596-2f74-41a2-9765-18d898c4fc79))
+* ((63ce195f-5513-48ff-901e-5e1dec539633))
+** ((63ce1979-15c4-446c-92df-997aa8e93ef0))
+** ((63ce198d-eabb-4dc5-ba81-e0cc917ef1ba))
+**
+**
+**

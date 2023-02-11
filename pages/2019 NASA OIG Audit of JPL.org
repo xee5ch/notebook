@@ -1,0 +1,71 @@
+* [[../assets/IG-19-022_1674016903426_0.pdf][IG-19-022.pdf]]
+* ((63c778ab-a55b-4de6-a7c7-47fe50e24941))
+* Findings Overview:
+** ((63c778dc-7b81-496f-a1bb-c1c634d0a35e))
+** ((63c778e9-2f66-46fa-b2df-5ade83d24e8e))
+** ((63c778fb-a6cb-4696-aedc-487397c9e529))
+** ((63c7790d-d10f-44bd-a006-42ee7323eaf4))
+** ((63c779d4-e829-406a-90f3-69b3f03f80dd))
+** ((63c77a96-6874-4810-b586-4c350c34ed47))
+** ((63c77aa5-9436-4bae-9b65-7679d90d8d6b))
+* ((63c77aed-5521-4786-96c3-b79b4ef2c89c)):
+** require system administrators to review and update the ITSDB and ensure system components are properly registered and the JPL Cybersecurity/Identity Technologies and Operations Group(CITO) periodically review compliance with this requirement
+** segregate shared environments connected to the network gateway and monitor partners accessing the JPL network
+** review and update ISAs for all partners connected to the gateway
+** require the JPL CITO to identify and remediate weaknesses in the security problem log ticket process and provide periodic aging reports to the JPL CIO
+** require the JPL CITO to validate, update, and perform annual reviews of all open waivers
+** clarify the division of responsibility between the JPL Office of the Chief Information Officer and system administrators for conducting routine log reviews and monitor compliance on a more frequent basis
+** implement the planned role-based training program by July 2019
+** establish a formal, documented threat-hunting process
+** develop and implement a comprehensive strategy for institutional IT knowledge and incident management that includes dissemination of lessons learned.
+* ((63c77b3a-7209-4fb3-9ee6-06ea26f422e0))
+* ((63c77b73-ca86-4aad-88b0-5f08e7a134a3))
+* ((63c77b90-53f8-464f-8775-aa8ff33567f0))
+* ((63c77dbf-9029-4599-94cb-8eb5fa2fa998))
+* ((63c77df7-2333-4513-b9ee-b5c4d3645cff))
+* ((63c77e03-a4ad-4129-8757-b941eaa90182))
+* ((63c77e1b-0ece-4890-b5e1-dfbcd3485a6b))
+* ((63c77e38-6320-4ff2-90e3-de3b31d2dd66))
+* ((63c78101-d8d9-4fb3-b6b1-a8f38df00008))
+* ((63c78133-f0d6-4064-8577-8075eb2742f4))
+* ((63c781b1-1946-484f-abc7-345ee52c1dcc))
+* ((63c781f4-98df-410d-89e7-c0b2018a7d89))
+* ((63c7820d-99d9-488a-8a06-acc76f4ae87e))
+* ((63c782d8-f29d-4804-bb42-9225ea9c8c5f))
+* Findings:
+** ((63c782d8-f29d-4804-bb42-9225ea9c8c5f))
+*** ((63c7831e-7726-43b2-aabf-8c30a50977b5))
+**** ((63c7836c-6095-4c2e-8aec-c3178cd0625c))
+*** ((63c7838e-415b-41ed-a0b9-126424edf030))
+**** ((63c783f4-824f-4e34-af96-ecd1a44361c5))
+** ((63c78403-e474-411d-a536-3cabc9226c45))
+*** ((63c7840e-26bf-42d2-a62b-df16d3c667b0))
+*** ((63c7843b-33f7-4578-b393-db39444d02d5))
+**** ((63c784b2-951e-4e7f-8f4e-7d35e86cc09d))
+*** ((63c784c5-291e-4e8e-8efa-9783315d8a47))
+**** ((63c784dd-4a27-4e1e-ac58-391cdc6d564b))
+**** ((63c7858f-a912-459c-b6c2-d9b35042e5db))
+**** ((63c786c8-d3ab-4d63-adff-23231479ac90))
+** ((63c7873a-23c8-4308-8b29-e9b834989290))
+*** ((63c787a7-371f-4a70-ac07-1f0ea43aee35))
+** ((63c787b5-49d8-4bf3-9cb1-9f2804024f00))
+*** ((63c78866-9cbd-4f28-a532-889b6467d04f))
+*** ((63c78884-530b-4f8b-a344-3275f51854b0))
+** ((63c7889c-e878-4ad7-86db-92d61923769d))
+** ((63c788aa-0534-4ed1-8398-c6257ce61905))
+*** statement of management commitment
+*** performance measures
+*** mission statement (partially included)
+*** metrics for measuring the incident response capability and its effectiveness
+*** roadmap for maturing the incident response capability
+*** how the program fits into the overall organization
+*** annual review
+** ((63c788ea-dc2d-4cbd-a47b-0f3d1f6ad46b))
+*** ((63c7890d-52f2-49a6-a192-103bd747eaf2))
+** ((63c7891d-dcb2-4f13-a003-c5bac13bfc6b))
+*** ((63c7892e-06e0-4bc9-8b45-e5a89acb0465))
+*** ((63c7893d-deaf-4924-8e89-bd730c43bafa))
+* ((63c78963-f93e-4605-84f8-a87b0f7ccbbe))
+** ((63c7897d-1d53-45e6-a3cd-47ffa02c3828))
+** ((63c789a3-a39b-4f9c-a58b-b5f25ffb9a49))
+**
