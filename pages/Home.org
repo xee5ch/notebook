@@ -1,6 +1,7 @@
 * Hello, fellow netizen. Welcome to my home on the Internet.
 * For a long time, I admired those who commit to [[https://www.swyx.io/learn-in-public][learn in public.]]
 * I will edit and refine my writing, but I will [:a {:href "#/all-journals"} "write journal entries when I can"].
+* When I have random thoughts, I will add them to the [[Miscellania]] page.
 * It is now time to do my part. So welcome to the current iteration of this website.
 ** At this time, I am using an data export [[https://logseq.com][from the wonderful Logseq application]] as I [[Logseq Configuration][use it day to day]].
 ** I will include quick blogs post, long-form essays, and notes about the former and all matter of things as I write them.
