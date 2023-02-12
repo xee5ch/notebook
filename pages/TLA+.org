@@ -1,0 +1,3 @@
+* [[https://buttondown.email/hillelwayne/archive/creatively-misusing-tla/][Creatively Misusing TLA+]] by [[file:./hillel wayne.org][Hillel Wayne]]
+* [[https://lamport.azurewebsites.net/tla/formal-methods-amazon.pdf][Use of TLA+ and Formal Methods at Amazon]] from [[Leslie Lamport]]
+*

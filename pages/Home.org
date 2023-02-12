@@ -1,6 +1,10 @@
 * Hello, fellow netizen. Welcome to my home on the Internet.
-
-For a long time, I admired those who commit to [[https://www.swyx.io/learn-in-public][learn in public.]] It is now time to do my part. So welcome to the current iteration of this website. At this time, I am using an data export [[https://logseq.com][from the wonderful Logseq application]] as I use it day to day. I will include quick blogs post, long-form essays, and notes about the former and all matter of things as I write them. I will try to label and organize information over time as my brain and Logseq intends: as part of a large graph.
-
-So thanks for visiting. Have questions comments, or concerns? That's great, feel free to 
- [[https://github.com/0x616c/0x616c.github.io/issues/new][a new issue for the code repository behind this and deployment]] or [[https://github.com/xee5ch][use other contact methods listed on my GitHub profile]].
+* For a long time, I admired those who commit to [[https://www.swyx.io/learn-in-public][learn in public.]]
+* I will edit and refine my writing, but I will [:a {:href "#/all-journals"} "write journal entries when I can"].
+* It is now time to do my part. So welcome to the current iteration of this website.
+** At this time, I am using an data export [[https://logseq.com][from the wonderful Logseq application]] as I [[Logseq Configuration][use it day to day]].
+** I will include quick blogs post, long-form essays, and notes about the former and all matter of things as I write them.
+** I will try to label and organize information over time as my brain and Logseq intends: as part of a large graph.
+* So thanks for visiting. Have questions comments, or concerns? That's great! You have the options below.
+** [[https://github.com/0x616c/0x616c.github.io/issues/new][Open a new issue for the code repository behind this and deployment.]]
+** [[https://github.com/xee5ch][Use other contact methods listed on my GitHub profile.]]

@@ -1,0 +1,10 @@
+* After a long hiatus, I want to try [[Mozilla Thunderbird]] again. I heard rumbling they were revising product ownership (even for an open source project) after a tumultuous past. I saw news of [[https://blog.thunderbird.net/2023/02/the-future-of-thunderbird-why-were-rebuilding-from-the-ground-up/][this blog post about their plans]] and want to get back into the community.
+* I need to read more about Logseq and configure it for my personal knowledge tracker and to publish a website that is quick, easy for me to maintain. More to come.
+** I am toying with the notion of [[https://github.com/sawhney17/logseq-schrodinger][logseq-schrodinger]], but I have a few questions and concerns before I can move ahead with that.
+* I sign up for oh so many training courses and books, but I have long had a fascination with [[TLA+]], and I see [[Hillel Wayne]] blogged about [[https://www.eventbrite.com/e/software-modeling-with-tla-workshop-tickets-520033412937][a course I want to consider]].
+* I want to get better about slowly, steady progress on reading from my [[Book List]]
+* I made a minor release to ~oscal-cli-action~ on GitHub yesterday, but really need to ask tests.
+* I added some [[https://github.com/oscal-club/awesome-oscal/commit/831bd4e7d5db45463d3d3be04bdf0a725bb2ea25][content to the Awesome OSCAL listings]]. Now I have to watch them and take notes for myself.
+** [[https://www.youtube.com/watch?v=cvoWlwftbEE&list=PLj6h78yzYM2NQ-Zi_k5qVmZyxSmLBzM6V&index=47][Avoiding IAC Potholes with Policy + Cloud Controllers]] from Cloud Native Security Con North America 2023
+** [[https://www.youtube.com/watch?v=7pbIVjSluMs&list=PLj6h78yzYM2NQ-Zi_k5qVmZyxSmLBzM6V&index=52][12 Essential Requirements for Policy Enforcement and Governance with OSCAL]] from Cloud Native Security Con North America 2023
+* I need to get started on making samples for the OSCAL community as some requested earlier in the week.

@@ -1,0 +1,2 @@
+* [[https://discuss.logseq.com/t/is-there-a-way-to-link-to-the-all-journals-page-within-the-content/2355][How to link to the journal entries, since they aren't a dedicated page?]]
+*

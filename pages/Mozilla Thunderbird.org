@@ -1,0 +1,3 @@
+* My configuration recommendations
+** Default to [[https://wiki.mozilla.org/Thunderbird/Maildir][Maildir backend for emails, not Mbox to start]]
+** More to come!
