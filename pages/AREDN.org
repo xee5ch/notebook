@@ -1,0 +1,3 @@
+* AREDN is the Amateur Radio Emergency Data Network.
+* The [[https://www.arednmesh.org/][main website]] has a lot of information.
+* With info and infrastructure, AREDN [[http://usercontent.arednmesh.org/K/5/K5DLQ/livemap2.html#9/39.0624/-76.6542][tracks the mesh network on a dynamically updated map, like this one of the DMV capital area.]]

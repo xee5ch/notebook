@@ -1,2 +1,3 @@
 * Today is another busy day at work, but I won't dive too much further into that.
 * I read a funny Georgia O'Keefe quote re criticism and critics from a LinkedIn post.
+* Met with some people online and learned a lot about [[Mesh Networking]] for decentralized and/or emergency communications, like the [[AREDN]], [[Disaster Radio]], [[LORA]], and [[Winlink]]

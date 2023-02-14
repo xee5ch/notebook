@@ -1,0 +1,1 @@
+* [[https://lora-developers.semtech.com/documentation/tech-papers-and-guides/lora-and-lorawan]["What are LoRa® and LoRaWAN®?" from the LoRa Developer Portal]]
