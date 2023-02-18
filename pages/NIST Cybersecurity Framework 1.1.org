@@ -1,0 +1,68 @@
+#+TITLE: NIST Cybersecurity Framework 1.1
+
+* [[../assets/NIST.CSWP.04162018_1676737682043_0.pdf][NIST.CSWP.04162018.pdf]]
+* ((63f10031-3cc8-4b37-a657-18ef5cec1744))
+** ((63f0fe75-f023-4f11-80cf-cf0dbf809147))
+** ((63f0fe92-1945-4c79-b2a4-1a49763c3452))
+** ((63f0fea4-738f-4633-b1a0-b201a819a17f))
+** ((63f0fec1-9b07-4ed1-b7e0-01c38e5bbce9))
+** ((63f0fed4-ad17-4586-9928-9919e6f5c5af))
+* ((63f1006b-3c9f-4567-941a-3c24d559dfea))
+** ((63f0ff2a-f3a3-47e4-96de-c3ea147d3595))
+** ((63f0ff45-3de8-45ad-9133-e5322271eacd))
+*** Describe their current cybersecurity posture
+*** Describe their target state for cybersecurity
+*** Identify and prioritize opportunities for improvement within the context of a continuous and repeatable process
+*** Assess progress toward the target state
+*** Communicate among internal and external stakeholders about cybersecurity risk.
+** ((63f0ff9b-310c-48e2-a3bc-b719cb96b4ac))
+*** Framework Core
+*** Framework Implementation Tiers
+*** Framework Profile
+** ((63f1001a-23c4-4d37-84eb-67f50dcbe0a5))
+** ((63f100b7-b92d-42e5-b29c-45317b6435a0))
+*** Section 2: framework components
+*** Section 3: examples
+*** Section 4: self-assessment guidance
+*** Appendix A: core in tabular format
+*** Appendix B: glossary
+*** Appendix C: acronyms
+* ((63f100fc-8fe4-4009-9d15-f74f3c4addc4))
+** ((63f10105-83bc-4b8a-b279-8493cf0e3268))
+*** ((63f10129-b380-48bc-a55f-35e170a61b1d))
+*** ((63f10133-99a2-43c7-bf58-ae00ef4f4e02))
+**** ((63f1013d-fff1-4426-a3b1-098cdcc18b83))
+*** ((63f1014d-ce20-4aa8-8310-0345a9ae0458))
+*** Five core functions of the framework:
+**** Identify
+**** Protect
+**** Detect
+**** Respond
+**** Recover
+** ((63f10177-8c38-41b8-a7e6-64fc1caa6e98))
+*** ((63f101a4-9311-4012-9965-95763dc3abe7))
+*** ((63f101b1-a2e9-4fbd-a93d-2794fe6cad59))
+*** ((63f101bc-cf1f-4237-b0e9-9f1c9bd75aaf))
+*** ((63f101c6-f270-4307-a69f-8577815a5640))
+** ((63f10214-59e0-436d-864a-0240c78dd04f))
+*** ((63f1025e-227f-4215-9055-cfc2427ea568))
+*** ((63f1026a-169b-4294-92ea-8f21a150938a))
+** ((63f10285-ab3a-44a6-9fcc-883356b696a6))
+* ((63f1029a-804c-42f8-9e76-15f93bc4aaed))
+** ((63f102b5-e0ea-4035-b59b-553f0fcb2834))
+** ((63f104f1-a12a-4898-b532-80b2c6a1f332))
+*** Prioritize and scope
+*** Orient
+*** Create a current profile
+*** Conduct a risk assessment
+*** Create a target profile
+*** Determine, analyze, and prioritize gaps
+*** Implement an action plan
+** ((63f10524-5c3f-4080-a0f0-2d8aea5d9b05))
+** ((63f10550-7993-4e10-ac5e-f5600959f76c))
+** ((63f10559-1b61-4d5d-a3ec-6a354e99f924))
+** ((63f10564-4721-49c4-9444-d3137e51fbfc))
+* ((63f1057b-2532-424b-9135-0e8d311f8c1c))
+**
+**
+**

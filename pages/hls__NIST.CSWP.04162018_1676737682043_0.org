@@ -1,0 +1,249 @@
+#+file-path: ../assets/NIST.CSWP.04162018_1676737682043_0.pdf
+#+file: [[../assets/NIST.CSWP.04162018_1676737682043_0.pdf][NIST.CSWP.04162018_1676737682043_0.pdf]]
+#+title: hls__NIST.CSWP.04162018_1676737682043_0
+
+* To better address these risks, the Cybersecurity Enhancement Act of 20141 (CEA) updated the role of the National Institute of Standards and Technology (NIST) to include identifying and developing cybersecurity risk frameworks for voluntary use by critical infrastructure owners and operators.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 63f0fe75-f023-4f11-80cf-cf0dbf809147
+:END:
+* The Framework consists of three parts: the Framework Core, the Implementation Tiers, and the Framework Profiles.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 63f0fe92-1945-4c79-b2a4-1a49763c3452
+:END:
+* While this document was developed to improve cybersecurity risk management in critical infrastructure, the Framework can be used by organizations in any sector or community.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 63f0fea4-738f-4633-b1a0-b201a819a17f
+:END:
+* The Framework is not a one-size-fits-all approach to managing cybersecurity risk for critical infrastructure.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:hl-color: yellow
+:id: 63f0fec1-9b07-4ed1-b7e0-01c38e5bbce9
+:END:
+* To account for the unique cybersecurity needs of organizations, there are a wide variety of ways to use the Framework. The decision about how to apply it is left to the implementing organization. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:hl-color: yellow
+:id: 63f0fed4-ad17-4586-9928-9919e6f5c5af
+:END:
+* To manage cybersecurity risks, a clear understanding of the organization’s business drivers and security considerations specific to its use of technology is required. Because each organization’s risks, priorities, and systems are unique, the tools and methods used to achieve the outcomes described by the Framework will vary.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 63f0ff2a-f3a3-47e4-96de-c3ea147d3595
+:END:
+* Building from those standards, guidelines, and practices, the Framework provides a common taxonomy and mechanism for organizations to:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: yellow
+:id: 63f0ff45-3de8-45ad-9133-e5322271eacd
+:END:
+* Overview of the Framework
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:hl-color: yellow
+:id: 63f0ff9b-310c-48e2-a3bc-b719cb96b4ac
+:END:
+* Risk Manageme nt and the Cybersecurity Framework
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: yellow
+:id: 63f1001a-23c4-4d37-84eb-67f50dcbe0a5
+:END:
+* Executive Summary
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 63f10031-3cc8-4b37-a657-18ef5cec1744
+:END:
+* 1.0 Framework Introduction
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: yellow
+:id: 63f1006b-3c9f-4567-941a-3c24d559dfea
+:END:
+* Docume nt Overview
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:hl-color: yellow
+:id: 63f100b7-b92d-42e5-b29c-45317b6435a0
+:END:
+* Framework Basics
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:hl-color: yellow
+:id: 63f100fc-8fe4-4009-9d15-f74f3c4addc4
+:END:
+* Framework Core
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:hl-color: yellow
+:id: 63f10105-83bc-4b8a-b279-8493cf0e3268
+:END:
+* Functions
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 13
+:hl-color: yellow
+:id: 63f10129-b380-48bc-a55f-35e170a61b1d
+:END:
+* Categories 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:hl-color: yellow
+:id: 63f10133-99a2-43c7-bf58-ae00ef4f4e02
+:END:
+* Subcategories
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:hl-color: yellow
+:id: 63f1013d-fff1-4426-a3b1-098cdcc18b83
+:END:
+* Informative References
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:hl-color: yellow
+:id: 63f1014d-ce20-4aa8-8310-0345a9ae0458
+:END:
+* Framework Implementation Tiers
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:hl-color: yellow
+:id: 63f10177-8c38-41b8-a7e6-64fc1caa6e98
+:END:
+* Tier 1: Partial
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:hl-color: yellow
+:id: 63f101a4-9311-4012-9965-95763dc3abe7
+:END:
+* Tier 2: Risk Informed
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:hl-color: yellow
+:id: 63f101b1-a2e9-4fbd-a93d-2794fe6cad59
+:END:
+* Tier 3: Repeatable
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:hl-color: yellow
+:id: 63f101bc-cf1f-4237-b0e9-9f1c9bd75aaf
+:END:
+* Tier 4: Adaptive
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:hl-color: yellow
+:id: 63f101c6-f270-4307-a69f-8577815a5640
+:END:
+* Framework Profile
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:hl-color: yellow
+:id: 63f10214-59e0-436d-864a-0240c78dd04f
+:END:
+* Framework Profiles can be used to describe the current state or the desired target state of specific cybersecurity activities. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:hl-color: yellow
+:id: 63f1025e-227f-4215-9055-cfc2427ea568
+:END:
+* Comparison of Profiles (e.g., the Current Profile and Target Profile) may reveal gaps to be addressed to meet cybersecurity risk management objectives. An action plan to address these gaps to fulfill a given Category or Subcategory can contribute to the roadmap described above.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 18
+:hl-color: yellow
+:id: 63f1026a-169b-4294-92ea-8f21a150938a
+:END:
+* Coordi nation of F ramework Implementation
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 63f10285-ab3a-44a6-9fcc-883356b696a6
+:END:
+* How to Use the Framework
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 63f1029a-804c-42f8-9e76-15f93bc4aaed
+:END:
+* Basic Review of Cybersecurity Practices
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 63f102b5-e0ea-4035-b59b-553f0fcb2834
+:END:
+* Establishing or Improving a Cybersecurity Program
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 21
+:hl-color: yellow
+:id: 63f104f1-a12a-4898-b532-80b2c6a1f332
+:END:
+* Communicating Cybersecurity Requirements with Stakeholders
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 22
+:hl-color: yellow
+:id: 63f10524-5c3f-4080-a0f0-2d8aea5d9b05
+:END:
+* Buying Decisions
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 25
+:hl-color: yellow
+:id: 63f10550-7993-4e10-ac5e-f5600959f76c
+:END:
+* Identifying Opportunities for New or Revised Informative References
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 25
+:hl-color: yellow
+:id: 63f10559-1b61-4d5d-a3ec-6a354e99f924
+:END:
+* Methodology to Protect Privacy and Civil Libert ies
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 25
+:hl-color: yellow
+:id: 63f10564-4721-49c4-9444-d3137e51fbfc
+:END:
+* Self-Assessing Cybersecurity Risk with the Framework
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:hl-color: yellow
+:id: 63f1057b-2532-424b-9135-0e8d311f8c1c
+:END:
