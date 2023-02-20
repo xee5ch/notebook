@@ -1,0 +1,4 @@
+* Today I learn you can use a Yubikey for a public/private SSH keypair.
+** Decrypted ~ssh-agent~ private keys disappear when I remove the Yubikey.
+** It saves me button clicks.
+** It can sign commits with the GitHub SSH commit signing feature as well: no fuss, no muss. That functionality should work as of this journal entry's code publication.
