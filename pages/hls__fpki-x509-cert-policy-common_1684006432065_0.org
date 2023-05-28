@@ -1,0 +1,118 @@
+#+file-path: ../assets/fpki-x509-cert-policy-common_1684006432065_0.pdf
+:PROPERTIES:
+:file: [[../assets/fpki-x509-cert-policy-common_1684006432065_0.pdf][fpki-x509-cert-policy-common_1684006432065_0.pdf]]
+:file-path: ../assets/fpki-x509-cert-policy-common_1684006432065_0.pdf
+:END:
+
+* This certificate policy (CP) includes the following distinct certificate policies:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 645ff125-d384-4fee-a5cc-7f43af2ab199
+:END:
+* Certificates intended for code signing are not covered by this policy.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 645ff167-280c-4628-8dc9-4b30ff24d9ca
+:END:
+* Where a specific policy is not stated, the requirements in this specification apply equally to all policies.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: purple
+:id: 645ff182-4387-4483-84e9-0a5a146e6624
+:END:
+* A Certification Authority (CA) that operates in accordance with this CP will provide the following security management services:
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 645ff193-f326-4815-828a-f624aa34e774
+:END:
+* A Key Recovery System (KRS) is required for CAs operating under this policy that issue PIV key management certificates. The KRS provides the computer system hardware, software, staff and procedures to store private keys securely and recover them when appropriate.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 645ff1d6-597a-413a-b0fb-8635a96b881b
+:END:
+* Any CA that asserts these policies in certificates must obtain prior approval from the Federal PKI Policy Authority; a
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 645ff1e5-c74c-4b82-b69e-b0352eea014d
+:END:
+* CAs must not assert the OIDs in this policy in certificates unless they are issued in accordance with all the requirements of this policy.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 645ff1fc-0e13-49bc-a9d1-ff85c0a2f2ea
+:END:
+* This CP follows the RFC 3647 framework.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: purple
+:id: 645ff20a-dd58-4962-b898-f834dc3c5d0c
+:END:
+* INTRODUCTION
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 19
+:hl-color: yellow
+:id: 645ff42e-f374-4530-bc1f-ac50119c8917
+:END:
+* OVERVIEW
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 645ff43c-20f6-4921-8937-bfd03fb09432
+:END:
+* The root Certification Authority (CA) associated with the Common Policy Framework is the Federal Common Policy CA, operated by the Federal PKI Management Authority (FPKIMA).
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 645ff45d-5e6f-436e-97c2-adae68e3c79d
+:END:
+* This CP applies only to CAs owned by or operated on behalf of the Federal Government that issue certificates according to this policy.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 645ff47e-1835-46a3-ad91-0229b51baba3
+:END:
+* This CP states the requirements for the issuance and management of certificates issued by the CAs, and requirements for the operation of the CAs. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 645ff4dc-6336-419b-a6c0-e0dffc563886
+:END:
+* The scope of this U.S. Federal PKI Common Policy Framework CP includes the Certification Authorities used for issuing and managing certificates that are valid to the Federal Common Policy CA on behalf of federal executive branch agencies. 
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 645ff4fa-8182-4886-9da1-2bcb5ef173f7
+:END:
+* Federal Government departments and agencies operate CAs that are intended to issue certificates for only locally trusted purposes. These CAs do not have a certification path to the Federal Common Policy CA and should not assert the policy OIDs defined in this CP.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 20
+:hl-color: yellow
+:id: 645ff51a-1b0f-4dfc-bb04-3365ae1c6015
+:END:
+* Federal Government agency CAs may perform cross-certification with either the Federal Common Policy CA or Federal Bridge CA at their discretion.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 21
+:hl-color: yellow
+:id: 645ff53f-0fd6-42b8-8cc9-234d96fb3b20
+:END:

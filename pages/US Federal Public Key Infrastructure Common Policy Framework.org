@@ -1,0 +1,47 @@
+* [[../assets/fpki-x509-cert-policy-common_1684006432065_0.pdf][fpki-x509-cert-policy-common.pdf]]
+* ((645ff42e-f374-4530-bc1f-ac50119c8917))
+** ((645ff125-d384-4fee-a5cc-7f43af2ab199))
+:PROPERTIES:
+:collapsed: true
+:END:
+*** Three Personal Identity Verification (PIV) authentication policies;
+*** A PIV Interoperable (PIV-I) authentication policy for use by federal agencies;
+*** A PIV Card Authentication policy;
+*** A PIV-I Card Authentication policy for use by federal agencies;
+*** A policy for devices that sign PIV data objects;
+*** A policy for federal devices that sign PIV-I data objects;
+*** A policy for Human Subscribers with software cryptographic modules;
+*** A policy for Human Subscribers with hardware cryptographic modules;
+*** A high assurance policy for Human Subscribers;
+*** A policy for devices with software cryptographic modules; and
+*** A policy for devices with hardware cryptographic modules.
+** ((645ff167-280c-4628-8dc9-4b30ff24d9ca))
+** ((645ff182-4387-4483-84e9-0a5a146e6624))
+** ((645ff193-f326-4815-828a-f624aa34e774))
+:PROPERTIES:
+:collapsed: true
+:END:
+*** Key generation/storage
+*** Key escrow and recovery
+*** Certificate generation, modification, re-key, and distribution
+*** Certificate revocation list (CRL) generation and distribution
+*** Repository management of certificate related items
+*** Certificate token initialization/programming/management
+*** System management functions (e.g., security audit, configuration management, archive.)
+** ((645ff1d6-597a-413a-b0fb-8635a96b881b))
+** ((645ff1e5-c74c-4b82-b69e-b0352eea014d))
+** ((645ff1fc-0e13-49bc-a9d1-ff85c0a2f2ea))
+** ((645ff45d-5e6f-436e-97c2-adae68e3c79d))
+** ((645ff20a-dd58-4962-b898-f834dc3c5d0c)), see [[file:./IETF RFC 3647.org][IETF RFC 3647]]
+** ((645ff43c-20f6-4921-8937-bfd03fb09432))
+*** Certificate Policy
+**** ((645ff47e-1835-46a3-ad91-0229b51baba3))
+*** Relationship between the CP and CPS
+**** ((645ff4dc-6336-419b-a6c0-e0dffc563886))
+*** Scope
+**** ((645ff4fa-8182-4886-9da1-2bcb5ef173f7))
+**** ((645ff51a-1b0f-4dfc-bb04-3365ae1c6015))
+*** Interoperation with CAs Issuing Different Policies
+**** ((645ff53f-0fd6-42b8-8cc9-234d96fb3b20))
+*** Document Name and Identification
+****

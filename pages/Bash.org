@@ -1,0 +1,13 @@
+* Create an array from sub-shell from with result from other commands:
+#+BEGIN_SRC bash_sub-shell_result_array.py
+urls=($(curl --silent https://api.github.com/users/xee5ch/repos | jq -r '.[].url' | tr '\n' ' '))
+echo ${urls[@]}
+#+END_SRC
+* Iterate over results of array and act on them accordingly:
+#+BEGIN_SRC bash_array_iterate_elements.sh
+elements=("aaa" "bbb" "ccc")
+for e in ${elements[@]}; do
+  echo ${e^^} # Print element as uppercase
+done
+#+END_SRC
+*

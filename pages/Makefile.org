@@ -1,0 +1,9 @@
+* Dynamically generated help menus (hat tip to [[https://github.com/nikitawootten/infra/blob/36238b0e849688b0a0f76979721c370a8eb27500/Makefile#L10-L18][Nikita Wootten]] for demonstrating this)
+#+BEGIN_SRC dynamic_menu.Makefile
+help: ## Show this help message
+	@grep -E '^[a-zA-Z_-]+:.*?##.*$$' $(MAKEFILE_LIST) | awk 'BEGIN { \
+	  FS = ":.*?## "; \
+	  printf "\033[1m%-30s\033[0m %s\n", "TARGET", "DESCRIPTION" \
+	} \
+	{ printf "\033[32m%-30s\033[0m %s\n", $$1, $$2 }'
+#+END_SRC

@@ -1,0 +1,2 @@
+* [[IETF RFC 3647]]
+* [[file:..//home/al/Code/notebook/pages/us federal public key infrastructure common policy framework.org][US Federal Public Key Infrastructure Common Policy Framework]]

@@ -1,0 +1,18 @@
+#+file-path: ../assets/rfc3647.txt_1684004889949_0.pdf
+#+file: [[../assets/rfc3647.txt_1684004889949_0.pdf][rfc3647.txt_1684004889949_0.pdf]]
+#+title: hls__rfc3647.txt_1684004889949_0
+
+* In general, a public-key certificate (hereinafter "certificate") binds a public key held by an entity (such as person, organization, account, device, or site) to a set of information that identifies the entity associated with use of the corresponding private key.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 645fe2ac-cbe1-46c2-befb-3d523e098b47
+:END:
+* In most cases involving identity certificates, this entity is known as the"subject" or "subscriber" of the certificate. Two exceptions, however, include devices (in which the subscriber is usually the individual or organization controlling the device) and anonymous certificates (in which the identity of the individual or organization is not available from the certificate itself). Other types of certificates bind public keys to attributes of an entity other than the entity’s identity, such as a role, a title, or creditworthiness information.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 645fe2d2-1eb1-4246-ad38-f9e36770487c
+:END:
