@@ -1,0 +1,8 @@
+* Installation
+** [[https://github.com/benibela/xidel][Source code on GitHub]]
+** [[https://aur.archlinux.org/packages/xidel-git][Package build info on Arch User Repository]]
+* Examples
+** Use XPath queries to follow every link in a target page and any title element in those linked pages
+#+BEGIN_SRC xidel_follow_links.sh
+xidel http://example.org --follow //a --extract //title
+#+END_SRC
